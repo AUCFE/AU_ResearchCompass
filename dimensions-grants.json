@@ -1,14 +1,91 @@
 {
  "_source": "Dimensions DSL API (fetch-dimensions.py) — © Digital Science & Research Solutions. Internal AU use approved via account owner.",
- "_fetched_at": "2026-07-14",
- "_total_grants": 1175,
+ "_fetched_at": "2026-09-28",
+ "_total_grants": 1207,
  "_match_stats": {
-  "auto": 235,
+  "auto": 230,
   "approved": 0,
-  "review": 63,
-  "none": 1030
+  "review": 59,
+  "none": 1061
  },
  "grants": [
+  {
+   "id": "grant.15546387",
+   "title": "Equipment: MRI: Track 1 Acquisition of an inductively coupled plasma mass spectrometer (ICP-MS) to strengthen interdisciplinary environmental research at American University",
+   "grant_number": "2509979",
+   "start_date": "2026-08-15",
+   "end_date": "2029-07-31",
+   "start_year": 2026,
+   "funding_usd": 311425.0,
+   "funder": "Directorate for Geosciences",
+   "funder_country": "United States",
+   "linkout": "h",
+   "researchers": [
+    {
+     "dim_id": "ur.010657351725.58",
+     "name": "Chelsea W Koch",
+     "orcid": "0000-0003-0684-9657",
+     "au_affiliated_in_dimensions": true,
+     "match": "none",
+     "roster_id": null,
+     "roster_name": null
+    },
+    {
+     "dim_id": "ur.011323244413.85",
+     "name": "Karen L Knee",
+     "orcid": "0000-0002-5784-3434",
+     "au_affiliated_in_dimensions": true,
+     "match": "none",
+     "roster_id": null,
+     "roster_name": null
+    },
+    {
+     "dim_id": "ur.016627417117.38",
+     "name": "Barbara Balestra",
+     "orcid": "0000-0001-7064-3173",
+     "au_affiliated_in_dimensions": true,
+     "match": "auto",
+     "roster_id": "https://www.american.edu/cas/faculty/balestra.cfm",
+     "roster_name": "Barbara Balestra"
+    }
+   ]
+  },
+  {
+   "id": "grant.15546290",
+   "title": "Collaborative Research: Center for Coatings Research",
+   "grant_number": "2513492",
+   "start_date": "2026-08-15",
+   "end_date": "2028-07-31",
+   "start_year": 2026,
+   "funding_usd": 27814.0,
+   "funder": "Directorate for Mathematical & Physical Sciences",
+   "funder_country": "United States",
+   "linkout": "h",
+   "researchers": [
+    {
+     "dim_id": "ur.013156370262.71",
+     "name": "",
+     "orcid": null,
+     "au_affiliated_in_dimensions": false,
+     "match": "none",
+     "roster_id": null,
+     "roster_name": null
+    }
+   ]
+  },
+  {
+   "id": "grant.15464048",
+   "title": "Conceptualising Nonviolence in Contemporary Islamic Contexts",
+   "grant_number": "101274304",
+   "start_date": "2026-07-01",
+   "end_date": "2029-06-30",
+   "start_year": 2026,
+   "funding_usd": 463866.0,
+   "funder": "European Commission",
+   "funder_country": "Belgium",
+   "linkout": "h",
+   "researchers": []
+  },
   {
    "id": "grant.15237842",
    "title": "Conference: The 9th International Workshop in Sequential Methodologies",
@@ -63,6 +140,19 @@
      "roster_name": "Daniel Dreisbach"
     }
    ]
+  },
+  {
+   "id": "grant.15467469",
+   "title": "Transatlantic Network for Dialogue, Education and Multidisciplinary Research",
+   "grant_number": "101240189",
+   "start_date": "2026-01-05",
+   "end_date": "2029-01-04",
+   "start_year": 2026,
+   "funding_usd": 1398291.0,
+   "funder": "European Commission",
+   "funder_country": "Belgium",
+   "linkout": "h",
+   "researchers": []
   },
   {
    "id": "grant.15325359",
@@ -122,6 +212,45 @@
      "roster_name": "Leah Ding"
     }
    ]
+  },
+  {
+   "id": "grant.15577332",
+   "title": "American University - for the Polarization & Extremism Research & Innovation Lab",
+   "grant_number": "N/A",
+   "start_date": "2025-11-06",
+   "end_date": "2027-11-06",
+   "start_year": 2025,
+   "funding_usd": 250000.0,
+   "funder": "Hewlett Foundation",
+   "funder_country": "United States",
+   "linkout": "h",
+   "researchers": []
+  },
+  {
+   "id": "grant.15467782",
+   "title": "EU-US 2030: Promoting a new Liberal International Order in a Turbulent Age",
+   "grant_number": "101240009",
+   "start_date": "2025-11-01",
+   "end_date": "2028-10-31",
+   "start_year": 2025,
+   "funding_usd": 110261.0,
+   "funder": "European Commission",
+   "funder_country": "Belgium",
+   "linkout": "h",
+   "researchers": []
+  },
+  {
+   "id": "grant.15573756",
+   "title": "American University - for support of the Program on Legislative Negotiation",
+   "grant_number": "N/A",
+   "start_date": "2025-10-18",
+   "end_date": "2028-01-18",
+   "start_year": 2025,
+   "funding_usd": 500000.0,
+   "funder": "Hewlett Foundation",
+   "funder_country": "United States",
+   "linkout": "h",
+   "researchers": []
   },
   {
    "id": "grant.15051860",
@@ -352,6 +481,19 @@
    ]
   },
   {
+   "id": "grant.15571763",
+   "title": "American University - for sponsorship of the Carbon Removal Justice Fellowship",
+   "grant_number": "N/A",
+   "start_date": "2025-07-03",
+   "end_date": "2026-07-03",
+   "start_year": 2025,
+   "funding_usd": 25000.0,
+   "funder": "Hewlett Foundation",
+   "funder_country": "United States",
+   "linkout": "h",
+   "researchers": []
+  },
+  {
    "id": "grant.15062131",
    "title": "Enhancing consistency and discoverability across the SunPy ecosystem",
    "grant_number": "80NSSC25K7931",
@@ -444,6 +586,19 @@
    ]
   },
   {
+   "id": "grant.15572592",
+   "title": "American University - for reducing copyright barriers to OER creation and use",
+   "grant_number": "N/A",
+   "start_date": "2025-04-04",
+   "end_date": "2026-06-04",
+   "start_year": 2025,
+   "funding_usd": 300000.0,
+   "funder": "Hewlett Foundation",
+   "funder_country": "United States",
+   "linkout": "h",
+   "researchers": []
+  },
+  {
    "id": "grant.14482041",
    "title": "24196-AR|Science and Technology",
    "grant_number": "N/A",
@@ -511,6 +666,19 @@
    "start_year": 2025,
    "funding_usd": 25000.0,
    "funder": "Ford Foundation",
+   "funder_country": "United States",
+   "linkout": "h",
+   "researchers": []
+  },
+  {
+   "id": "grant.15637704",
+   "title": "Mechanistic insights into the impact of sea ice loss on snow crab trophic dynamics and productivity",
+   "grant_number": "2504",
+   "start_date": "2025-01-01",
+   "end_date": "2025-12-31",
+   "start_year": 2025,
+   "funding_usd": 224260.0,
+   "funder": "North Pacific Research Board",
    "funder_country": "United States",
    "linkout": "h",
    "researchers": []
@@ -648,29 +816,6 @@
    ]
   },
   {
-   "id": "grant.14366461",
-   "title": "Using comedy as a means of narrative change to promote social justice and civic power (2024-2026 programming)",
-   "grant_number": "82119",
-   "start_date": "2024-10-01",
-   "end_date": "2026-09-30",
-   "start_year": 2024,
-   "funding_usd": 969623.0,
-   "funder": "Robert Wood Johnson Foundation",
-   "funder_country": "United States",
-   "linkout": "h",
-   "researchers": [
-    {
-     "dim_id": "ur.07633627740.48",
-     "name": "Caty Borum",
-     "orcid": "0000-0003-0781-7921",
-     "au_affiliated_in_dimensions": true,
-     "match": "auto",
-     "roster_id": "https://www.american.edu/soc/faculty/chattoo.cfm",
-     "roster_name": "Caty Borum"
-    }
-   ]
-  },
-  {
    "id": "grant.15325790",
    "title": "To develop and implement a community-oriented engagement approach on marine carbon dioxide removal (mCDR) in partnership with [C]Worthy, a focused research organization",
    "grant_number": "N/A",
@@ -695,6 +840,29 @@
    "funder_country": "United States",
    "linkout": "h",
    "researchers": []
+  },
+  {
+   "id": "grant.14366461",
+   "title": "Using comedy as a means of narrative change to promote social justice and civic power (2024-2026 programming)",
+   "grant_number": "82119",
+   "start_date": "2024-10-01",
+   "end_date": "2026-09-30",
+   "start_year": 2024,
+   "funding_usd": 969623.0,
+   "funder": "Robert Wood Johnson Foundation",
+   "funder_country": "United States",
+   "linkout": "h",
+   "researchers": [
+    {
+     "dim_id": "ur.07633627740.48",
+     "name": "Caty Borum",
+     "orcid": "0000-0003-0781-7921",
+     "au_affiliated_in_dimensions": true,
+     "match": "auto",
+     "roster_id": "https://www.american.edu/soc/faculty/chattoo.cfm",
+     "roster_name": "Caty Borum"
+    }
+   ]
   },
   {
    "id": "grant.14360414",
@@ -758,7 +926,7 @@
    "start_date": "2024-09-21",
    "end_date": "2029-05-31",
    "start_year": 2024,
-   "funding_usd": 245592.0,
+   "funding_usd": 368388.0,
    "funder": "National Institute on Minority Health and Health Disparities",
    "funder_country": "United States",
    "linkout": "h",
@@ -767,29 +935,6 @@
      "dim_id": "ur.07452151351.24",
      "name": "Liana J Petruzzi",
      "orcid": "0000-0002-5528-9839",
-     "au_affiliated_in_dimensions": true,
-     "match": "none",
-     "roster_id": null,
-     "roster_name": null
-    }
-   ]
-  },
-  {
-   "id": "grant.14348033",
-   "title": "Health Policy Research Scholars Cohort Eight - 2024",
-   "grant_number": "82141",
-   "start_date": "2024-09-01",
-   "end_date": "2028-08-31",
-   "start_year": 2024,
-   "funding_usd": 124000.0,
-   "funder": "Robert Wood Johnson Foundation",
-   "funder_country": "United States",
-   "linkout": "h",
-   "researchers": [
-    {
-     "dim_id": "ur.010554135415.41",
-     "name": "Isaac C Morales",
-     "orcid": null,
      "au_affiliated_in_dimensions": true,
      "match": "none",
      "roster_id": null,
@@ -834,7 +979,7 @@
    "researchers": [
     {
      "dim_id": "ur.015337035343.79",
-     "name": "Modongal Modongal",
+     "name": "Shameer Modongal",
      "orcid": "0000-0002-4644-8455",
      "au_affiliated_in_dimensions": true,
      "match": "none",
@@ -905,7 +1050,7 @@
    "start_date": "2024-09-01",
    "end_date": "2029-06-30",
    "start_year": 2024,
-   "funding_usd": 642343.0,
+   "funding_usd": 913591.0,
    "funder": "National Institute of Diabetes and Digestive and Kidney Diseases",
    "funder_country": "United States",
    "linkout": "h",
@@ -914,6 +1059,29 @@
      "dim_id": "ur.014064171637.02",
      "name": "Brandyn F Churchill",
      "orcid": "0000-0002-9798-5701",
+     "au_affiliated_in_dimensions": true,
+     "match": "none",
+     "roster_id": null,
+     "roster_name": null
+    }
+   ]
+  },
+  {
+   "id": "grant.14348033",
+   "title": "Health Policy Research Scholars Cohort Eight - 2024",
+   "grant_number": "82141",
+   "start_date": "2024-09-01",
+   "end_date": "2028-08-31",
+   "start_year": 2024,
+   "funding_usd": 124000.0,
+   "funder": "Robert Wood Johnson Foundation",
+   "funder_country": "United States",
+   "linkout": "h",
+   "researchers": [
+    {
+     "dim_id": "ur.010554135415.41",
+     "name": "Isaac C Morales",
+     "orcid": null,
      "au_affiliated_in_dimensions": true,
      "match": "none",
      "roster_id": null,
@@ -981,14 +1149,27 @@
    "researchers": [
     {
      "dim_id": "ur.013156370262.71",
-     "name": "Gregory M Harry",
-     "orcid": "0000-0002-8905-7622",
-     "au_affiliated_in_dimensions": true,
-     "match": "auto",
-     "roster_id": "https://www.american.edu/cas/faculty/harry.cfm",
-     "roster_name": "Gregory Harry"
+     "name": "",
+     "orcid": null,
+     "au_affiliated_in_dimensions": false,
+     "match": "none",
+     "roster_id": null,
+     "roster_name": null
     }
    ]
+  },
+  {
+   "id": "grant.15577543",
+   "title": "American University - for the ”Addressing Change Through Our Nation’s Service Corps” research",
+   "grant_number": "N/A",
+   "start_date": "2024-08-13",
+   "end_date": "2025-08-13",
+   "start_year": 2024,
+   "funding_usd": 50000.0,
+   "funder": "Hewlett Foundation",
+   "funder_country": "United States",
+   "linkout": "h",
+   "researchers": []
   },
   {
    "id": "grant.14360432",
@@ -1044,11 +1225,11 @@
      "roster_name": null
     },
     {
-     "dim_id": "ur.013265634667.34",
+     "dim_id": "ur.011354763317.80",
      "name": "Jordan Tama",
-     "orcid": null,
-     "au_affiliated_in_dimensions": false,
-     "match": "review",
+     "orcid": "0000-0003-4571-1351",
+     "au_affiliated_in_dimensions": true,
+     "match": "auto",
      "roster_id": "https://www.american.edu/sis/faculty/tama.cfm",
      "roster_name": "Jordan Tama"
     }
@@ -1118,7 +1299,7 @@
    "title": "Interdisciplinary Research Leaders Cohort Seven -- 2024",
    "grant_number": "81711",
    "start_date": "2024-04-15",
-   "end_date": "2025-11-14",
+   "end_date": "2025-12-31",
    "start_year": 2024,
    "funding_usd": 155000.0,
    "funder": "Robert Wood Johnson Foundation",
@@ -1439,6 +1620,19 @@
    ]
   },
   {
+   "id": "grant.15608273",
+   "title": "American University",
+   "grant_number": "N/A",
+   "start_date": "2024-01-01",
+   "end_date": "2024-12-31",
+   "start_year": 2024,
+   "funding_usd": 150000.0,
+   "funder": "Chan Zuckerberg Initiative LLC",
+   "funder_country": "United States",
+   "linkout": "h",
+   "researchers": []
+  },
+  {
    "id": "grant.13873524",
    "title": "Spectroscopic Investigations of Processed Planetary and Astrophysical Ices with the Sublimation Laboratory Ice Millimeter/submillimeter Experiment (SubLIME)",
    "grant_number": "80NSSC24M0044",
@@ -1581,7 +1775,7 @@
    "title": "eMB: Collaborative Research: Advancing Inference of Phylogenetic Trees and Networks under Multispecies Coalescent with Hybridization and Gene Flow",
    "grant_number": "2325775",
    "start_date": "2023-10-01",
-   "end_date": "2026-09-30",
+   "end_date": "2027-09-30",
    "start_year": 2023,
    "funding_usd": 196861.0,
    "funder": "Directorate for Mathematical & Physical Sciences",
@@ -1598,6 +1792,19 @@
      "roster_name": "Julia Chifman"
     }
    ]
+  },
+  {
+   "id": "grant.15563517",
+   "title": "For Post-Doctoral Fellows at American University and Life and Peace Institute",
+   "grant_number": "N/A",
+   "start_date": "2023-09-14",
+   "end_date": "2026-09-14",
+   "start_year": 2023,
+   "funding_usd": 350000.0,
+   "funder": "Carnegie Corporation of New York",
+   "funder_country": "United States",
+   "linkout": "h",
+   "researchers": []
   },
   {
    "id": "grant.13740059",
@@ -1636,12 +1843,12 @@
    "researchers": [
     {
      "dim_id": "ur.013156370262.71",
-     "name": "Gregory M Harry",
-     "orcid": "0000-0002-8905-7622",
-     "au_affiliated_in_dimensions": true,
-     "match": "auto",
-     "roster_id": "https://www.american.edu/cas/faculty/harry.cfm",
-     "roster_name": "Gregory Harry"
+     "name": "",
+     "orcid": null,
+     "au_affiliated_in_dimensions": false,
+     "match": "none",
+     "roster_id": null,
+     "roster_name": null
     }
    ]
   },
@@ -1743,7 +1950,7 @@
    "start_date": "2023-07-01",
    "end_date": "2028-04-30",
    "start_year": 2023,
-   "funding_usd": 2265663.0,
+   "funding_usd": 2391742.0,
    "funder": "National Institute of Mental Health",
    "funder_country": "United States",
    "linkout": "h",
@@ -1997,7 +2204,7 @@
      "orcid": "0000-0002-2849-0799",
      "au_affiliated_in_dimensions": true,
      "match": "auto",
-     "roster_id": "https://www.american.edu/spa/faculty/cynthia.cfm",
+     "roster_id": "https://www.american.edu/baker/faculty/cynthia.cfm",
      "roster_name": "Cynthia Miller-Idriss"
     }
    ]
@@ -2067,6 +2274,32 @@
    ]
   },
   {
+   "id": "grant.15622601",
+   "title": "American University",
+   "grant_number": "N/A",
+   "start_date": "2023-01-01",
+   "end_date": "2026-01-01",
+   "start_year": 2023,
+   "funding_usd": 850000.0,
+   "funder": "David and Lucile Packard Foundation",
+   "funder_country": "United States",
+   "linkout": "h",
+   "researchers": []
+  },
+  {
+   "id": "grant.15612605",
+   "title": "American University",
+   "grant_number": "N/A",
+   "start_date": "2023-01-01",
+   "end_date": "2023-12-31",
+   "start_year": 2023,
+   "funding_usd": 200000.0,
+   "funder": "Chan Zuckerberg Initiative LLC",
+   "funder_country": "United States",
+   "linkout": "h",
+   "researchers": []
+  },
+  {
    "id": "grant.14708895",
    "title": "Biodiversa-plus, 1st Call 2021 BioDivProtect - ALPMEMA",
    "grant_number": "N/A",
@@ -2107,9 +2340,9 @@
    "title": "EU Research and Education Network on Europe in the World",
    "grant_number": "101085734",
    "start_date": "2023-01-01",
-   "end_date": "2025-12-31",
+   "end_date": "2026-03-31",
    "start_year": 2023,
-   "funding_usd": 1316441.0,
+   "funding_usd": 1322897.0,
    "funder": "European Commission",
    "funder_country": "Belgium",
    "linkout": "h",
@@ -2198,6 +2431,19 @@
    "researchers": []
   },
   {
+   "id": "grant.13701455",
+   "title": "The Next Generation EU-US Partnership: Inclusion, Diversity, and Tackling Common Challenges",
+   "grant_number": "101085285",
+   "start_date": "2022-11-01",
+   "end_date": "2025-10-31",
+   "start_year": 2022,
+   "funding_usd": 106291.0,
+   "funder": "European Commission",
+   "funder_country": "Belgium",
+   "linkout": "h",
+   "researchers": []
+  },
+  {
    "id": "grant.13018410",
    "title": "Interdisciplinary Research Leaders Cohort Seven - 2022",
    "grant_number": "80389",
@@ -2244,17 +2490,27 @@
    ]
   },
   {
-   "id": "grant.13701455",
-   "title": "The Next Generation EU-US Partnership: Inclusion, Diversity, and Tackling Common Challenges",
-   "grant_number": "101085285",
-   "start_date": "2022-11-01",
-   "end_date": "2025-10-31",
+   "id": "grant.13737563",
+   "title": "12088-JA|All Disciplines (Research)",
+   "grant_number": "N/A",
+   "start_date": "2022-10-01",
+   "end_date": "2023-04-30",
    "start_year": 2022,
-   "funding_usd": 106291.0,
-   "funder": "European Commission",
-   "funder_country": "Belgium",
+   "funding_usd": null,
+   "funder": "Council for International Exchange of Scholars",
+   "funder_country": "United States",
    "linkout": "h",
-   "researchers": []
+   "researchers": [
+    {
+     "dim_id": "ur.0705727631.13",
+     "name": "Catherine Anne Claus",
+     "orcid": null,
+     "au_affiliated_in_dimensions": true,
+     "match": "none",
+     "roster_id": null,
+     "roster_name": null
+    }
+   ]
   },
   {
    "id": "grant.12976153",
@@ -2280,36 +2536,13 @@
    ]
   },
   {
-   "id": "grant.13737563",
-   "title": "12088-JA|All Disciplines (Research)",
-   "grant_number": "N/A",
-   "start_date": "2022-10-01",
-   "end_date": "2023-04-30",
-   "start_year": 2022,
-   "funding_usd": null,
-   "funder": "Council for International Exchange of Scholars",
-   "funder_country": "United States",
-   "linkout": "h",
-   "researchers": [
-    {
-     "dim_id": "ur.0705727631.13",
-     "name": "Catherine Anne Claus",
-     "orcid": null,
-     "au_affiliated_in_dimensions": true,
-     "match": "none",
-     "roster_id": null,
-     "roster_name": null
-    }
-   ]
-  },
-  {
    "id": "grant.12964218",
    "title": "Opioid and Psychostimulant Taking: Testing the Impact of Behavioral Economic Contexts",
    "grant_number": "R01DA055572",
    "start_date": "2022-09-15",
    "end_date": "2027-07-31",
    "start_year": 2022,
-   "funding_usd": 1280955.0,
+   "funding_usd": 1601079.0,
    "funder": "National Institute on Drug Abuse",
    "funder_country": "United States",
    "linkout": "h",
@@ -2509,7 +2742,7 @@
     {
      "dim_id": "ur.016012764631.03",
      "name": "Cheryl C Holcomb-Mccoy",
-     "orcid": null,
+     "orcid": "0000-0002-3917-9568",
      "au_affiliated_in_dimensions": true,
      "match": "none",
      "roster_id": null,
@@ -2574,12 +2807,12 @@
   },
   {
    "id": "grant.12965264",
-   "title": "Role of canonical and non-canonical beta-catenin signaling in HIV-1 latency",
+   "title": "A Novel Shock-and-Kill with Shield Strategy Targeting HIV Latency and Neuroinflammation in CNS Reservoirs",
    "grant_number": "R15AI172610",
    "start_date": "2022-08-23",
-   "end_date": "2026-07-31",
+   "end_date": "2029-07-31",
    "start_year": 2022,
-   "funding_usd": 370660.0,
+   "funding_usd": 884606.0,
    "funder": "National Institute of Allergy and Infectious Diseases",
    "funder_country": "United States",
    "linkout": "h",
@@ -2727,7 +2960,7 @@
    "researchers": [
     {
      "dim_id": "ur.015002330735.49",
-     "name": "Thomas C Zeitzoff",
+     "name": "Thomas Zeitzoff",
      "orcid": "0000-0003-4889-7198",
      "au_affiliated_in_dimensions": true,
      "match": "none",
@@ -2913,6 +3146,19 @@
      "roster_name": "Alex Godwin"
     }
    ]
+  },
+  {
+   "id": "grant.15608392",
+   "title": "American University",
+   "grant_number": "N/A",
+   "start_date": "2022-01-01",
+   "end_date": "2022-12-31",
+   "start_year": 2022,
+   "funding_usd": 750000.0,
+   "funder": "Chan Zuckerberg Initiative LLC",
+   "funder_country": "United States",
+   "linkout": "h",
+   "researchers": []
   },
   {
    "id": "grant.13212195",
@@ -3161,7 +3407,7 @@
    "title": "SRS RN: Multiscale RECIPES (Resilient, Equitable, and Circular Innovations with Partnership and Education Synergies) for Sustainable Food Systems",
    "grant_number": "2115405",
    "start_date": "2021-10-01",
-   "end_date": "2026-09-30",
+   "end_date": "2027-09-30",
    "start_year": 2021,
    "funding_usd": 15000000.0,
    "funder": "Directorate for Engineering",
@@ -3497,7 +3743,7 @@
    "researchers": [
     {
      "dim_id": "ur.013547225062.81",
-     "name": "Valentina Giulia Bruno",
+     "name": "Valentina G Bruno",
      "orcid": "0000-0002-1636-3776",
      "au_affiliated_in_dimensions": true,
      "match": "auto",
@@ -4155,14 +4401,27 @@
    "researchers": [
     {
      "dim_id": "ur.013156370262.71",
-     "name": "Gregory M Harry",
-     "orcid": "0000-0002-8905-7622",
-     "au_affiliated_in_dimensions": true,
-     "match": "auto",
-     "roster_id": "https://www.american.edu/cas/faculty/harry.cfm",
-     "roster_name": "Gregory Harry"
+     "name": "",
+     "orcid": null,
+     "au_affiliated_in_dimensions": false,
+     "match": "none",
+     "roster_id": null,
+     "roster_name": null
     }
    ]
+  },
+  {
+   "id": "grant.15559697",
+   "title": "For a project on how disruptive technology alters crisis dynamics among great powers",
+   "grant_number": "N/A",
+   "start_date": "2020-09-10",
+   "end_date": "2022-12-10",
+   "start_year": 2020,
+   "funding_usd": 120000.0,
+   "funder": "Carnegie Corporation of New York",
+   "funder_country": "United States",
+   "linkout": "h",
+   "researchers": []
   },
   {
    "id": "grant.9383171",
@@ -4411,12 +4670,12 @@
    "researchers": [
     {
      "dim_id": "ur.013156370262.71",
-     "name": "Gregory M Harry",
-     "orcid": "0000-0002-8905-7622",
-     "au_affiliated_in_dimensions": true,
-     "match": "auto",
-     "roster_id": "https://www.american.edu/cas/faculty/harry.cfm",
-     "roster_name": "Gregory Harry"
+     "name": "",
+     "orcid": null,
+     "au_affiliated_in_dimensions": false,
+     "match": "none",
+     "roster_id": null,
+     "roster_name": null
     }
    ]
   },
@@ -5334,7 +5593,7 @@
     {
      "dim_id": "ur.016012764631.03",
      "name": "Cheryl C Holcomb-Mccoy",
-     "orcid": null,
+     "orcid": "0000-0002-3917-9568",
      "au_affiliated_in_dimensions": true,
      "match": "none",
      "roster_id": null,
@@ -5379,7 +5638,7 @@
    "researchers": [
     {
      "dim_id": "ur.014252661643.84",
-     "name": "Nathan C Larson",
+     "name": "Nathan Larson",
      "orcid": "0000-0002-7647-7572",
      "au_affiliated_in_dimensions": true,
      "match": "none",
@@ -5497,29 +5756,6 @@
    "researchers": []
   },
   {
-   "id": "grant.8639228",
-   "title": "Analyzing alliances between universities, civil society and professionals. Citizen science and collaborative urban action towards a just city – Fairville",
-   "grant_number": "ANR-19-MRS2-0003",
-   "start_date": "2019-05-21",
-   "end_date": "2021-05-20",
-   "start_year": 2019,
-   "funding_usd": 34204.0,
-   "funder": "Agence Nationale de la Recherche",
-   "funder_country": "France",
-   "linkout": "h",
-   "researchers": [
-    {
-     "dim_id": "ur.011742430503.05",
-     "name": "Agnès Deboulet",
-     "orcid": null,
-     "au_affiliated_in_dimensions": false,
-     "match": "none",
-     "roster_id": null,
-     "roster_name": null
-    }
-   ]
-  },
-  {
    "id": "grant.13206689",
    "title": "EXAMINING EUROPA'S TENTATIVE PLUME ACTIVITY THROUGH GROUND-BASED IR OBSERVATIONS",
    "grant_number": "80NSSC19K0811",
@@ -5571,6 +5807,29 @@
      "match": "review",
      "roster_id": "https://www.american.edu/cas/faculty/bruhweil.cfm",
      "roster_name": "Frederick Bruhweiler"
+    }
+   ]
+  },
+  {
+   "id": "grant.8639228",
+   "title": "Analyzing alliances between universities, civil society and professionals. Citizen science and collaborative urban action towards a just city – Fairville",
+   "grant_number": "ANR-19-MRS2-0003",
+   "start_date": "2019-05-04",
+   "end_date": "2021-05-03",
+   "start_year": 2019,
+   "funding_usd": 34160.0,
+   "funder": "Agence Nationale de la Recherche",
+   "funder_country": "France",
+   "linkout": "h",
+   "researchers": [
+    {
+     "dim_id": "ur.011742430503.05",
+     "name": "Agnès Deboulet",
+     "orcid": null,
+     "au_affiliated_in_dimensions": false,
+     "match": "none",
+     "roster_id": null,
+     "roster_name": null
     }
    ]
   },
@@ -5958,6 +6217,19 @@
    ]
   },
   {
+   "id": "grant.15558348",
+   "title": "For training, research, and outreach to bridge the gap between academia and the policy world",
+   "grant_number": "N/A",
+   "start_date": "2018-12-06",
+   "end_date": "2020-12-06",
+   "start_year": 2018,
+   "funding_usd": 704000.0,
+   "funder": "Carnegie Corporation of New York",
+   "funder_country": "United States",
+   "linkout": "h",
+   "researchers": []
+  },
+  {
    "id": "grant.7925483",
    "title": "Hearing Bach's Music As Bach Heard It",
    "grant_number": "HAA-261258-18",
@@ -6295,9 +6567,9 @@
    "linkout": null,
    "researchers": [
     {
-     "dim_id": "ur.013726726017.19",
+     "dim_id": "ur.011152566021.43",
      "name": "Jing Liu",
-     "orcid": null,
+     "orcid": "0000-0002-9918-8642",
      "au_affiliated_in_dimensions": false,
      "match": "none",
      "roster_id": null,
@@ -6500,7 +6772,7 @@
     },
     {
      "dim_id": "ur.01301676175.18",
-     "name": "Kirsty Jane Pringle",
+     "name": "Kirsty J Pringle",
      "orcid": "0000-0003-2190-5258",
      "au_affiliated_in_dimensions": false,
      "match": "none",
@@ -6565,7 +6837,7 @@
     {
      "dim_id": "ur.0754553237.19",
      "name": "Feng Tao",
-     "orcid": "0000-0001-5414-4542",
+     "orcid": "0000-0002-0623-6298",
      "au_affiliated_in_dimensions": true,
      "match": "none",
      "roster_id": null,
@@ -6775,9 +7047,9 @@
      "name": "Nanette Levinson",
      "orcid": null,
      "au_affiliated_in_dimensions": false,
-     "match": "review",
-     "roster_id": "https://www.american.edu/profiles/faculty/nlevins.cfm",
-     "roster_name": "Nanette Levinson"
+     "match": "none",
+     "roster_id": null,
+     "roster_name": null
     }
    ]
   },
@@ -7038,12 +7310,12 @@
    "researchers": [
     {
      "dim_id": "ur.013156370262.71",
-     "name": "Gregory M Harry",
-     "orcid": "0000-0002-8905-7622",
-     "au_affiliated_in_dimensions": true,
-     "match": "auto",
-     "roster_id": "https://www.american.edu/cas/faculty/harry.cfm",
-     "roster_name": "Gregory Harry"
+     "name": "",
+     "orcid": null,
+     "au_affiliated_in_dimensions": false,
+     "match": "none",
+     "roster_id": null,
+     "roster_name": null
     }
    ]
   },
@@ -7176,7 +7448,7 @@
    "researchers": [
     {
      "dim_id": "ur.010253111153.66",
-     "name": "Andrew James Jarvis",
+     "name": "Andrew J Jarvis",
      "orcid": "0000-0002-0700-0295",
      "au_affiliated_in_dimensions": false,
      "match": "none",
@@ -7311,6 +7583,19 @@
      "roster_name": null
     }
    ]
+  },
+  {
+   "id": "grant.15561033",
+   "title": "For investigative reporting on the federal oversight of campaign financing",
+   "grant_number": "N/A",
+   "start_date": "2017-06-01",
+   "end_date": "2019-06-01",
+   "start_year": 2017,
+   "funding_usd": 50000.0,
+   "funder": "Carnegie Corporation of New York",
+   "funder_country": "United States",
+   "linkout": "h",
+   "researchers": []
   },
   {
    "id": "grant.13547083",
@@ -7560,7 +7845,7 @@
      "roster_name": null
     },
     {
-     "dim_id": "ur.015002162410.08",
+     "dim_id": "ur.015144434420.73",
      "name": "Xiaoxuan Ma",
      "orcid": null,
      "au_affiliated_in_dimensions": false,
@@ -7663,13 +7948,13 @@
      "roster_name": null
     },
     {
-     "dim_id": "ur.015723537442.06",
+     "dim_id": "ur.015120372116.39",
      "name": "James Goldgeier",
-     "orcid": null,
-     "au_affiliated_in_dimensions": false,
-     "match": "review",
-     "roster_id": "https://www.american.edu/profiles/faculty/jgoldgei.cfm",
-     "roster_name": "James Goldgeier"
+     "orcid": "0000-0003-1725-3808",
+     "au_affiliated_in_dimensions": true,
+     "match": "none",
+     "roster_id": null,
+     "roster_name": null
     }
    ]
   },
@@ -7813,6 +8098,19 @@
      "roster_name": "Alan Silberberg"
     }
    ]
+  },
+  {
+   "id": "grant.15557928",
+   "title": "For a project on bridging the gap between academia and the policy world",
+   "grant_number": "N/A",
+   "start_date": "2016-09-08",
+   "end_date": "2018-09-08",
+   "start_year": 2016,
+   "funding_usd": 741000.0,
+   "funder": "Carnegie Corporation of New York",
+   "funder_country": "United States",
+   "linkout": "h",
+   "researchers": []
   },
   {
    "id": "grant.8603484",
@@ -8172,6 +8470,173 @@
    ]
   },
   {
+   "id": "grant.5062068",
+   "title": "Security Assistance and Non-State Actors in Iraq, Syria & Afghanistan: Comprehensive and Inclusive Human Security Beyond the State?",
+   "grant_number": "W 08.420.111",
+   "start_date": "2016-08-01",
+   "end_date": "2019-11-30",
+   "start_year": 2016,
+   "funding_usd": null,
+   "funder": "Dutch Research Council",
+   "funder_country": "Netherlands",
+   "linkout": null,
+   "researchers": [
+    {
+     "dim_id": "ur.0631126075.77",
+     "name": "Philipp Rotmann",
+     "orcid": "0009-0000-9824-3630",
+     "au_affiliated_in_dimensions": false,
+     "match": "none",
+     "roster_id": null,
+     "roster_name": null
+    },
+    {
+     "dim_id": "ur.016256346567.71",
+     "name": "J M Skelton",
+     "orcid": null,
+     "au_affiliated_in_dimensions": false,
+     "match": "none",
+     "roster_id": null,
+     "roster_name": null
+    },
+    {
+     "dim_id": "ur.014066025167.32",
+     "name": "Z Ali",
+     "orcid": null,
+     "au_affiliated_in_dimensions": false,
+     "match": "none",
+     "roster_id": null,
+     "roster_name": null
+    },
+    {
+     "dim_id": "ur.011146236367.21",
+     "name": "F R Muzhary",
+     "orcid": null,
+     "au_affiliated_in_dimensions": false,
+     "match": "none",
+     "roster_id": null,
+     "roster_name": null
+    },
+    {
+     "dim_id": "ur.013501316615.60",
+     "name": "A Derzsi-Horvath",
+     "orcid": null,
+     "au_affiliated_in_dimensions": false,
+     "match": "none",
+     "roster_id": null,
+     "roster_name": null
+    },
+    {
+     "dim_id": "ur.015460766167.54",
+     "name": "B Saleh",
+     "orcid": null,
+     "au_affiliated_in_dimensions": false,
+     "match": "none",
+     "roster_id": null,
+     "roster_name": null
+    },
+    {
+     "dim_id": "ur.011310775215.18",
+     "name": "C Van Den Toorn",
+     "orcid": null,
+     "au_affiliated_in_dimensions": false,
+     "match": "none",
+     "roster_id": null,
+     "roster_name": null
+    },
+    {
+     "dim_id": "ur.010350655767.17",
+     "name": "E Burlinghaus",
+     "orcid": null,
+     "au_affiliated_in_dimensions": false,
+     "match": "none",
+     "roster_id": null,
+     "roster_name": null
+    },
+    {
+     "dim_id": "ur.015623525015.32",
+     "name": "F Rehman Mazahari",
+     "orcid": null,
+     "au_affiliated_in_dimensions": false,
+     "match": "none",
+     "roster_id": null,
+     "roster_name": null
+    },
+    {
+     "dim_id": "ur.012106355615.85",
+     "name": "H Popal",
+     "orcid": null,
+     "au_affiliated_in_dimensions": false,
+     "match": "none",
+     "roster_id": null,
+     "roster_name": null
+    },
+    {
+     "dim_id": "ur.07553275367.59",
+     "name": "J Parry",
+     "orcid": null,
+     "au_affiliated_in_dimensions": false,
+     "match": "none",
+     "roster_id": null,
+     "roster_name": null
+    },
+    {
+     "dim_id": "ur.012703736215.06",
+     "name": "K Clark",
+     "orcid": null,
+     "au_affiliated_in_dimensions": false,
+     "match": "none",
+     "roster_id": null,
+     "roster_name": null
+    },
+    {
+     "dim_id": "ur.012354517010.06",
+     "name": "M Schulz",
+     "orcid": null,
+     "au_affiliated_in_dimensions": false,
+     "match": "none",
+     "roster_id": null,
+     "roster_name": null
+    },
+    {
+     "dim_id": "ur.014663405567.09",
+     "name": "M Faiq",
+     "orcid": null,
+     "au_affiliated_in_dimensions": false,
+     "match": "none",
+     "roster_id": null,
+     "roster_name": null
+    },
+    {
+     "dim_id": "ur.012263647345.61",
+     "name": "Oliver Read",
+     "orcid": null,
+     "au_affiliated_in_dimensions": false,
+     "match": "none",
+     "roster_id": null,
+     "roster_name": null
+    },
+    {
+     "dim_id": "ur.07716034215.40",
+     "name": "S Mathieu-Comtois",
+     "orcid": null,
+     "au_affiliated_in_dimensions": false,
+     "match": "none",
+     "roster_id": null,
+     "roster_name": null
+    },
+    {
+     "dim_id": "ur.07616151205.44",
+     "name": "T Ruttig",
+     "orcid": null,
+     "au_affiliated_in_dimensions": false,
+     "match": "none",
+     "roster_id": null,
+     "roster_name": null
+    }
+   ]
+  },
+  {
    "id": "grant.5475367",
    "title": "Signals to Feed: Biological and Associative Mechanisms",
    "grant_number": "R01DK110412",
@@ -8303,7 +8768,7 @@
      "orcid": "0000-0002-2849-0799",
      "au_affiliated_in_dimensions": true,
      "match": "auto",
-     "roster_id": "https://www.american.edu/spa/faculty/cynthia.cfm",
+     "roster_id": "https://www.american.edu/baker/faculty/cynthia.cfm",
      "roster_name": "Cynthia Miller-Idriss"
     },
     {
@@ -8362,10 +8827,10 @@
    "linkout": null,
    "researchers": [
     {
-     "dim_id": "ur.011227364644.82",
-     "name": "Not available",
+     "dim_id": "ur.013106226647.20",
+     "name": "Jack Rasmussen",
      "orcid": null,
-     "au_affiliated_in_dimensions": false,
+     "au_affiliated_in_dimensions": true,
      "match": "none",
      "roster_id": null,
      "roster_name": null
@@ -8409,7 +8874,7 @@
    "researchers": [
     {
      "dim_id": "ur.01076320760.69",
-     "name": "Dolores B Koenig",
+     "name": "Dolores Koenig",
      "orcid": "0000-0001-9105-8440",
      "au_affiliated_in_dimensions": true,
      "match": "none",
@@ -8526,10 +8991,10 @@
    "id": "grant.6416887",
    "title": "Global Internet Governance: Actors, Regulations, Transactions and Strategies – GIG-ARTS",
    "grant_number": "ANR-15-MRSE-0009",
-   "start_date": "2015-10-21",
-   "end_date": "2017-04-20",
+   "start_date": "2015-10-04",
+   "end_date": "2017-04-03",
    "start_year": 2015,
-   "funding_usd": 33322.0,
+   "funding_usd": 33307.0,
    "funder": "Agence Nationale de la Recherche",
    "funder_country": "France",
    "linkout": "h",
@@ -8686,7 +9151,7 @@
    "researchers": [
     {
      "dim_id": "ur.013301760751.26",
-     "name": "Demetrios P Poulios",
+     "name": "Demetrios Poulios",
      "orcid": null,
      "au_affiliated_in_dimensions": true,
      "match": "auto",
@@ -8909,12 +9374,12 @@
    "researchers": [
     {
      "dim_id": "ur.013156370262.71",
-     "name": "Gregory M Harry",
-     "orcid": "0000-0002-8905-7622",
-     "au_affiliated_in_dimensions": true,
-     "match": "auto",
-     "roster_id": "https://www.american.edu/cas/faculty/harry.cfm",
-     "roster_name": "Gregory Harry"
+     "name": "",
+     "orcid": null,
+     "au_affiliated_in_dimensions": false,
+     "match": "none",
+     "roster_id": null,
+     "roster_name": null
     }
    ]
   },
@@ -9289,6 +9754,19 @@
    ]
   },
   {
+   "id": "grant.15563856",
+   "title": "For a joint project with the Norwegian Ministry of Foreign Affairs on the role of new actors from developing countries and emerging powers in peacebuilding",
+   "grant_number": "N/A",
+   "start_date": "2014-09-11",
+   "end_date": "2017-04-11",
+   "start_year": 2014,
+   "funding_usd": 500000.0,
+   "funder": "Carnegie Corporation of New York",
+   "funder_country": "United States",
+   "linkout": "h",
+   "researchers": []
+  },
+  {
    "id": "grant.7700762",
    "title": "4362 | Fulbright-Northern Ireland Governance and Public Policy",
    "grant_number": "N/A",
@@ -9553,6 +10031,19 @@
    ]
   },
   {
+   "id": "grant.15557709",
+   "title": "For a project on bridging the gap between academia and the policy world",
+   "grant_number": "N/A",
+   "start_date": "2014-03-06",
+   "end_date": "2016-09-06",
+   "start_year": 2014,
+   "funding_usd": 741000.0,
+   "funder": "Carnegie Corporation of New York",
+   "funder_country": "United States",
+   "linkout": "h",
+   "researchers": []
+  },
+  {
    "id": "grant.3490645",
    "title": "WORKSHOP: Strengthening Sociolegal Research: Approaches That Involve Undergraduates, Washington, DC metro area, Summer of 2014",
    "grant_number": "1354369",
@@ -9634,7 +10125,7 @@
      "orcid": "0000-0002-2849-0799",
      "au_affiliated_in_dimensions": true,
      "match": "auto",
-     "roster_id": "https://www.american.edu/spa/faculty/cynthia.cfm",
+     "roster_id": "https://www.american.edu/baker/faculty/cynthia.cfm",
      "roster_name": "Cynthia Miller-Idriss"
     },
     {
@@ -9828,6 +10319,19 @@
      "roster_name": null
     }
    ]
+  },
+  {
+   "id": "grant.15560097",
+   "title": "As a one-time grant for scholar mobility fellowships to U.S. universities in support of social scientists from the Arab Region",
+   "grant_number": "N/A",
+   "start_date": "2013-09-12",
+   "end_date": "2018-09-12",
+   "start_year": 2013,
+   "funding_usd": 300000.0,
+   "funder": "Carnegie Corporation of New York",
+   "funder_country": "United States",
+   "linkout": "h",
+   "researchers": []
   },
   {
    "id": "grant.3825968",
@@ -10388,6 +10892,19 @@
      "roster_name": null
     }
    ]
+  },
+  {
+   "id": "grant.15559481",
+   "title": "For a project to investigate and report on conditions inside the immigration detention system",
+   "grant_number": "N/A",
+   "start_date": "2013-03-07",
+   "end_date": "2013-09-07",
+   "start_year": 2013,
+   "funding_usd": 50000.0,
+   "funder": "Carnegie Corporation of New York",
+   "funder_country": "United States",
+   "linkout": "h",
+   "researchers": []
   },
   {
    "id": "grant.3482299",
@@ -11147,12 +11664,12 @@
    "researchers": [
     {
      "dim_id": "ur.013156370262.71",
-     "name": "Gregory M Harry",
-     "orcid": "0000-0002-8905-7622",
-     "au_affiliated_in_dimensions": true,
-     "match": "auto",
-     "roster_id": "https://www.american.edu/cas/faculty/harry.cfm",
-     "roster_name": "Gregory Harry"
+     "name": "",
+     "orcid": null,
+     "au_affiliated_in_dimensions": false,
+     "match": "none",
+     "roster_id": null,
+     "roster_name": null
     }
    ]
   },
@@ -11229,7 +11746,7 @@
      "orcid": "0000-0002-2849-0799",
      "au_affiliated_in_dimensions": true,
      "match": "auto",
-     "roster_id": "https://www.american.edu/spa/faculty/cynthia.cfm",
+     "roster_id": "https://www.american.edu/baker/faculty/cynthia.cfm",
      "roster_name": "Cynthia Miller-Idriss"
     }
    ]
@@ -11393,6 +11910,19 @@
      "roster_name": "Taryn Morrissey"
     }
    ]
+  },
+  {
+   "id": "grant.15563470",
+   "title": "For a joint project, with the University of California, Berkeley and Duke University, on global strategic challenges and foreign policy",
+   "grant_number": "N/A",
+   "start_date": "2011-12-15",
+   "end_date": "2014-06-15",
+   "start_year": 2011,
+   "funding_usd": 595000.0,
+   "funder": "Carnegie Corporation of New York",
+   "funder_country": "United States",
+   "linkout": "h",
+   "researchers": []
   },
   {
    "id": "grant.7547028",
@@ -11725,11 +12255,11 @@
      "roster_name": null
     },
     {
-     "dim_id": "ur.013324307442.10",
+     "dim_id": "ur.012301316451.49",
      "name": "Mohammed Abu-Nimer",
-     "orcid": null,
-     "au_affiliated_in_dimensions": false,
-     "match": "review",
+     "orcid": "0000-0003-3363-3608",
+     "au_affiliated_in_dimensions": true,
+     "match": "auto",
      "roster_id": "https://www.american.edu/sis/faculty/abunimer.cfm",
      "roster_name": "Mohammed Abu-Nimer"
     }
@@ -11927,6 +12457,38 @@
    "researchers": []
   },
   {
+   "id": "grant.5223268",
+   "title": "Reform of the European Court of Human Rights - A European Certiorari?",
+   "grant_number": "133523",
+   "start_date": "2010-10-01",
+   "end_date": "2010-12-31",
+   "start_year": 2010,
+   "funding_usd": 9769.0,
+   "funder": "Swiss National Science Foundation",
+   "funder_country": "Switzerland",
+   "linkout": "h",
+   "researchers": [
+    {
+     "dim_id": "ur.0631112017.24",
+     "name": "Alexander H E Morawa",
+     "orcid": null,
+     "au_affiliated_in_dimensions": false,
+     "match": "none",
+     "roster_id": null,
+     "roster_name": null
+    },
+    {
+     "dim_id": "ur.010001752433.50",
+     "name": "Diego Rodriguez-Pinzon",
+     "orcid": null,
+     "au_affiliated_in_dimensions": true,
+     "match": "none",
+     "roster_id": null,
+     "roster_name": null
+    }
+   ]
+  },
+  {
    "id": "grant.3116568",
    "title": "Ideas, Technology, and Economic Change: The Impact of the Printing Press",
    "grant_number": "1023380",
@@ -11999,7 +12561,7 @@
     },
     {
      "dim_id": "ur.010201224366.45",
-     "name": "Kara Marie Reynolds",
+     "name": "Kara M Reynolds",
      "orcid": "0000-0002-2570-4384",
      "au_affiliated_in_dimensions": true,
      "match": "auto",
@@ -12007,6 +12569,19 @@
      "roster_name": "Kara Reynolds"
     }
    ]
+  },
+  {
+   "id": "grant.15557831",
+   "title": "For investigative reporting focused on America's immigration detention facilities",
+   "grant_number": "N/A",
+   "start_date": "2010-09-16",
+   "end_date": "2011-03-16",
+   "start_year": 2010,
+   "funding_usd": 50000.0,
+   "funder": "Carnegie Corporation of New York",
+   "funder_country": "United States",
+   "linkout": "h",
+   "researchers": []
   },
   {
    "id": "grant.9931764",
@@ -12951,7 +13526,7 @@
    "researchers": [
     {
      "dim_id": "ur.01076320760.69",
-     "name": "Dolores B Koenig",
+     "name": "Dolores Koenig",
      "orcid": "0000-0001-9105-8440",
      "au_affiliated_in_dimensions": true,
      "match": "none",
@@ -13168,6 +13743,19 @@
      "roster_name": null
     }
    ]
+  },
+  {
+   "id": "grant.15564516",
+   "title": "Toward convenings to consider changes in the Presidential primary schedule for future elections",
+   "grant_number": "N/A",
+   "start_date": "2008-03-06",
+   "end_date": "2009-03-06",
+   "start_year": 2008,
+   "funding_usd": 25000.0,
+   "funder": "Carnegie Corporation of New York",
+   "funder_country": "United States",
+   "linkout": "h",
+   "researchers": []
   },
   {
    "id": "grant.7687832",
@@ -13516,7 +14104,7 @@
    "researchers": [
     {
      "dim_id": "ur.01076320760.69",
-     "name": "Dolores B Koenig",
+     "name": "Dolores Koenig",
      "orcid": "0000-0001-9105-8440",
      "au_affiliated_in_dimensions": true,
      "match": "none",
@@ -13828,6 +14416,19 @@
    ]
   },
   {
+   "id": "grant.15560290",
+   "title": "Toward the establishment of the Center for the Study of the American Electorate",
+   "grant_number": "N/A",
+   "start_date": "2006-03-02",
+   "end_date": "2007-07-02",
+   "start_year": 2006,
+   "funding_usd": 50000.0,
+   "funder": "Carnegie Corporation of New York",
+   "funder_country": "United States",
+   "linkout": "h",
+   "researchers": []
+  },
+  {
    "id": "grant.9910606",
    "title": "Scholarship to Nathan Harshman",
    "grant_number": "N/A",
@@ -13872,6 +14473,19 @@
      "roster_name": null
     }
    ]
+  },
+  {
+   "id": "grant.15559960",
+   "title": "Toward dissemination of the recommendations of a commission on federal election reform",
+   "grant_number": "N/A",
+   "start_date": "2005-12-01",
+   "end_date": "2009-12-01",
+   "start_year": 2005,
+   "funding_usd": 200000.0,
+   "funder": "Carnegie Corporation of New York",
+   "funder_country": "United States",
+   "linkout": "h",
+   "researchers": []
   },
   {
    "id": "grant.3063081",
@@ -14014,6 +14628,19 @@
      "roster_name": null
     }
    ]
+  },
+  {
+   "id": "grant.15559476",
+   "title": "Toward a commission on federal election reform",
+   "grant_number": "N/A",
+   "start_date": "2005-06-09",
+   "end_date": "2006-06-09",
+   "start_year": 2005,
+   "funding_usd": 50000.0,
+   "funder": "Carnegie Corporation of New York",
+   "funder_country": "United States",
+   "linkout": "h",
+   "researchers": []
   },
   {
    "id": "grant.9902864",
@@ -14977,7 +15604,7 @@
    "researchers": [
     {
      "dim_id": "ur.012746151521.24",
-     "name": "James E Salzman",
+     "name": "James Salzman",
      "orcid": null,
      "au_affiliated_in_dimensions": true,
      "match": "none",
@@ -15095,9 +15722,9 @@
      "name": "James Goldgeier",
      "orcid": null,
      "au_affiliated_in_dimensions": true,
-     "match": "auto",
-     "roster_id": "https://www.american.edu/profiles/faculty/jgoldgei.cfm",
-     "roster_name": "James Goldgeier"
+     "match": "none",
+     "roster_id": null,
+     "roster_name": null
     }
    ]
   },
@@ -16097,8 +16724,8 @@
    "researchers": [
     {
      "dim_id": "ur.011512360275.89",
-     "name": "Deborah A Bräutigam",
-     "orcid": null,
+     "name": "Deborah Brautigam",
+     "orcid": "0000-0002-3282-0375",
      "au_affiliated_in_dimensions": true,
      "match": "none",
      "roster_id": null,
@@ -16202,7 +16829,7 @@
    "researchers": [
     {
      "dim_id": "ur.01076320760.69",
-     "name": "Dolores B Koenig",
+     "name": "Dolores Koenig",
      "orcid": "0000-0001-9105-8440",
      "au_affiliated_in_dimensions": true,
      "match": "none",
@@ -16583,7 +17210,7 @@
    "researchers": [
     {
      "dim_id": "ur.012746151521.24",
-     "name": "James E Salzman",
+     "name": "James Salzman",
      "orcid": null,
      "au_affiliated_in_dimensions": true,
      "match": "none",
@@ -16621,15 +17248,6 @@
      "dim_id": "ur.01251570041.79",
      "name": "Jb Ruhl",
      "orcid": "0000-0003-3866-733X",
-     "au_affiliated_in_dimensions": false,
-     "match": "none",
-     "roster_id": null,
-     "roster_name": null
-    },
-    {
-     "dim_id": "ur.016162772311.86",
-     "name": "Herman E Daly",
-     "orcid": null,
      "au_affiliated_in_dimensions": false,
      "match": "none",
      "roster_id": null,
@@ -18054,7 +18672,7 @@
    "researchers": [
     {
      "dim_id": "ur.013031505673.47",
-     "name": "Louise Isobel Shelley",
+     "name": "Louise I Shelley",
      "orcid": "0000-0002-8113-796X",
      "au_affiliated_in_dimensions": true,
      "match": "none",
@@ -18233,7 +18851,7 @@
    "researchers": [
     {
      "dim_id": "ur.01076320760.69",
-     "name": "Dolores B Koenig",
+     "name": "Dolores Koenig",
      "orcid": "0000-0001-9105-8440",
      "au_affiliated_in_dimensions": true,
      "match": "none",
@@ -21536,7 +22154,7 @@
    "researchers": [
     {
      "dim_id": "ur.013031505673.47",
-     "name": "Louise Isobel Shelley",
+     "name": "Louise I Shelley",
      "orcid": "0000-0002-8113-796X",
      "au_affiliated_in_dimensions": true,
      "match": "none",

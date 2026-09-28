@@ -51,6 +51,7 @@
   --school-soc:   #c2185b;
   --school-kogod: #6a2faa;
   --school-soe:   #455a64;
+  --school-library: #8b5a2b;
   --school-other: #6b6760;
   --link-weak:    #b5b1ab;
 }
@@ -87,6 +88,7 @@
   --school-soc:   #f27bae;
   --school-kogod: #b088ee;
   --school-soe:   #93aebc;
+  --school-library: #d99a5c;
   --school-other: #a8a39c;
   --link-weak:    #4e4a45;
 }
@@ -109,6 +111,7 @@
     --school-soc:   #f27bae;
     --school-kogod: #b088ee;
     --school-soe:   #93aebc;
+    --school-library: #d99a5c;
     --school-other: #a8a39c;
     --link-weak:    #4e4a45;
   }

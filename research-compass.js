@@ -7,17 +7,18 @@
 //   - No generated content. Empty sources = honest empty states.
 // ============================================================
 
-const SCHOOL_ORDER = ['CAS', 'SPA', 'SIS', 'Kogod', 'SOE', 'SOC', 'WCL', 'Other'];
+const SCHOOL_ORDER = ['CAS', 'SPA', 'SIS', 'Kogod', 'SOE', 'SOC', 'WCL', 'Library', 'Other'];
 // CSS variables so colors adapt to light/dark theme automatically
 const SCHOOL_COLORS = {
-  'CAS':   'var(--school-cas)',
-  'SPA':   'var(--school-spa)',
-  'SIS':   'var(--school-sis)',
-  'WCL':   'var(--school-wcl)',
-  'SOC':   'var(--school-soc)',
-  'Kogod': 'var(--school-kogod)',
-  'SOE':   'var(--school-soe)',
-  'Other': 'var(--school-other)',
+  'CAS':     'var(--school-cas)',
+  'SPA':     'var(--school-spa)',
+  'SIS':     'var(--school-sis)',
+  'WCL':     'var(--school-wcl)',
+  'SOC':     'var(--school-soc)',
+  'Kogod':   'var(--school-kogod)',
+  'SOE':     'var(--school-soe)',
+  'Library': 'var(--school-library)',
+  'Other':   'var(--school-other)',
 };
 
 const state = {

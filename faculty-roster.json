@@ -1,22 +1,58 @@
 {
   "_source": "Scraped from american.edu per-school faculty directories (scrape-roster.py)",
-  "_scraped_at": "2026-07-06",
+  "_scraped_at": "2026-09-28",
   "_schools_included": [
+    "Baker",
     "CAS",
     "Kogod",
-    "LIB",
+    "Library",
     "President, Office of the",
     "SIS",
     "SOC",
     "SOE",
     "SPA",
+    "UEAS",
     "WCL"
   ],
   "_known_gaps": [
-    "WCL — wcl.american.edu returning 404s site-wide as of 2026-07; re-run when site recovers"
+    "WCL — wcl.american.edu returning 404s site-wide as of 2026-07; re-run when site recovers",
+    "CAS/faculty-m.cfm: The read operation timed out — re-run to retry this page"
   ],
-  "_total": 919,
+  "_total": 874,
   "faculty": [
+    {
+      "name": "Simone Davison",
+      "title": "Professorial Lecturer",
+      "school": "Baker",
+      "department": "City Teaching Alliance",
+      "email": "sdavison@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/baker/faculty/sdavison.cfm",
+      "_worksfor_raw": "Baker | City Teaching Alliance",
+      "_source_page": "https://www.american.edu/baker/faculty/"
+    },
+    {
+      "name": "Sarah McMenamin",
+      "title": "Professorial Lecturer",
+      "school": "Baker",
+      "department": "Baker School of Education",
+      "email": "mcmenami@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/baker/faculty/mcmenami.cfm",
+      "_worksfor_raw": "Baker - Baker School of Education",
+      "_source_page": "https://www.american.edu/baker/faculty/"
+    },
+    {
+      "name": "Alexes Terry",
+      "title": "Senior Professorial Lecturer",
+      "school": "Baker",
+      "department": "City Teaching Alliance",
+      "email": "aterry@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/baker/faculty/aterry.cfm",
+      "_worksfor_raw": "Baker | City Teaching Alliance",
+      "_source_page": "https://www.american.edu/baker/faculty/"
+    },
     {
       "name": "Ayesha Abdullah",
       "title": "Bishop Hamilton Lecturer in Residence",
@@ -448,7 +484,7 @@
     },
     {
       "name": "Shiblee Barua",
-      "title": "Research Assistant Professor",
+      "title": "Research Assistant Professor In Residence",
       "school": "CAS",
       "department": "Physics",
       "email": "barua@american.edu",
@@ -459,7 +495,7 @@
     },
     {
       "name": "Cameron Bassiri",
-      "title": "Senior Professorial Lecturer",
+      "title": "Hurst Senior Professorial Lecturer",
       "school": "CAS",
       "department": "Philosophy/Religion",
       "email": "bassiri@american.edu",
@@ -524,28 +560,6 @@
       "_source_page": "https://www.american.edu/cas/faculty/faculty-b.cfm"
     },
     {
-      "name": "Brian Beaudoin",
-      "title": "Hurst Senior Professorial Lecturer",
-      "school": "CAS",
-      "department": "Physics",
-      "email": "bbeaudoin@american.edu",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/cas/faculty/bbeaudoin.cfm",
-      "_worksfor_raw": "CAS | Physics",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-b.cfm"
-    },
-    {
-      "name": "Janine Beekman",
-      "title": "Professorial Lecturer",
-      "school": "CAS",
-      "department": "Psychology",
-      "email": "beekman@american.edu",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/cas/faculty/beekman.cfm",
-      "_worksfor_raw": "CAS | Psychology",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-b.cfm"
-    },
-    {
       "name": "Laura Beers",
       "title": "Professor",
       "school": "CAS",
@@ -558,7 +572,7 @@
     },
     {
       "name": "Juliet Bellow",
-      "title": "Associate Professor",
+      "title": "Professor",
       "school": "CAS",
       "department": "Art",
       "email": "bellow@american.edu",
@@ -843,17 +857,6 @@
       "_source_page": "https://www.american.edu/cas/faculty/faculty-b.cfm"
     },
     {
-      "name": "Orisanmi Burton",
-      "title": "Associate Professor",
-      "school": "CAS",
-      "department": "Anthropology",
-      "email": "oburton@american.edu",
-      "phone": "(202) 885-6792",
-      "au_profile_url": "https://www.american.edu/cas/faculty/oburton.cfm",
-      "_worksfor_raw": "CAS | Anthropology",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-b.cfm"
-    },
-    {
       "name": "Kim Butler",
       "title": "Associate Professor",
       "school": "CAS",
@@ -1031,7 +1034,7 @@
     },
     {
       "name": "Amanda Choutka",
-      "title": "Senior Professorial Lecturer",
+      "title": "Hurst Senior Professorial Lecturer",
       "school": "CAS",
       "department": "Literature",
       "email": "choutka@american.edu",
@@ -1042,7 +1045,7 @@
     },
     {
       "name": "Brenda Chow",
-      "title": "Senior Professorial Lecturer",
+      "title": "Hurst Senior Professorial Lecturer",
       "school": "CAS",
       "department": "Biology",
       "email": "bchow@american.edu",
@@ -1064,7 +1067,7 @@
     },
     {
       "name": "Tyler Christensen",
-      "title": "Professorial Lecturer",
+      "title": "Senior Professorial Lecturer",
       "school": "CAS",
       "department": "Critical RGC Studies",
       "email": "christen@american.edu",
@@ -1152,24 +1155,13 @@
     },
     {
       "name": "Victoria Connaughton",
-      "title": "Professor",
+      "title": "Professor of Biology and Department Chair, Biology",
       "school": "CAS",
       "department": "Biology",
       "email": "vconn@american.edu",
       "phone": "(202) 885-2188",
       "au_profile_url": "https://www.american.edu/cas/faculty/vconn.cfm",
       "_worksfor_raw": "CAS | Biology",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-c.cfm"
-    },
-    {
-      "name": "Casey Cook",
-      "title": "Chorus Director-in-Residence",
-      "school": "CAS",
-      "department": "Performing Arts",
-      "email": "caseyc@american.edu",
-      "phone": "(202) 885-3425",
-      "au_profile_url": "https://www.american.edu/cas/faculty/caseyc.cfm",
-      "_worksfor_raw": "CAS | Performing Arts",
       "_source_page": "https://www.american.edu/cas/faculty/faculty-c.cfm"
     },
     {
@@ -1196,7 +1188,7 @@
     },
     {
       "name": "Roberto Corizzo",
-      "title": "Assistant Professor",
+      "title": "Associate Professor",
       "school": "CAS",
       "department": "Computer Science",
       "email": "rcorizzo@american.edu",
@@ -1207,7 +1199,7 @@
     },
     {
       "name": "Zev Cossin",
-      "title": "Professorial Lecturer",
+      "title": "Assistant Professor",
       "school": "CAS",
       "department": "Anthropology",
       "email": "cossin@american.edu",
@@ -1317,7 +1309,7 @@
     },
     {
       "name": "Elizabeth Curran",
-      "title": "Professorial Lecturer",
+      "title": "Senior Professorial Lecturer",
       "school": "CAS",
       "department": "Math and Statistics",
       "email": "curran@american.edu",
@@ -1382,28 +1374,6 @@
       "_source_page": "https://www.american.edu/cas/faculty/faculty-d.cfm"
     },
     {
-      "name": "Catherine Davis",
-      "title": "Lecturer",
-      "school": "CAS",
-      "department": "",
-      "email": "cd2994a@american.edu",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/profiles/students/cd2994a.cfm",
-      "_worksfor_raw": "",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-d.cfm"
-    },
-    {
-      "name": "Celeste Davis",
-      "title": "Professorial Lecturer and Director of Public Health Scholars",
-      "school": "CAS",
-      "department": "Health Studies",
-      "email": "cdavis@american.edu",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/cas/faculty/cdavis.cfm",
-      "_worksfor_raw": "CAS | Health Studies",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-d.cfm"
-    },
-    {
       "name": "Wendy Davis",
       "title": "Adjunct Assoc Prof",
       "school": "CAS",
@@ -1412,6 +1382,17 @@
       "phone": "",
       "au_profile_url": "https://www.american.edu/cas/faculty/wdavis.cfm",
       "_worksfor_raw": "CAS - Dean's Office",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-d.cfm"
+    },
+    {
+      "name": "Catherine Davis",
+      "title": "Lecturer",
+      "school": "CAS",
+      "department": "",
+      "email": "cd2994a@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/profiles/students/cd2994a.cfm",
+      "_worksfor_raw": "",
       "_source_page": "https://www.american.edu/cas/faculty/faculty-d.cfm"
     },
     {
@@ -1492,17 +1473,6 @@
       "_source_page": "https://www.american.edu/cas/faculty/faculty-d.cfm"
     },
     {
-      "name": "James Dickens",
-      "title": "Senior Professorial Lecturer",
-      "school": "CAS",
-      "department": "Math and Statistics",
-      "email": "jdickens@american.edu",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/cas/faculty/jdickens.cfm",
-      "_worksfor_raw": "CAS | Math and Statistics",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-d.cfm"
-    },
-    {
       "name": "Jay DiEdwards",
       "title": "Sr. Administrative Assistant",
       "school": "CAS",
@@ -1515,7 +1485,7 @@
     },
     {
       "name": "Donna Dietz",
-      "title": "Senior Professorial Lecturer",
+      "title": "Hurst Senior Professorial Lecturer",
       "school": "CAS",
       "department": "Math and Statistics",
       "email": "dietz@american.edu",
@@ -1815,9 +1785,9 @@
       "title": "Lab Technician",
       "school": "CAS",
       "department": "Biology",
-      "email": "oreoluwa@american.edu",
+      "email": "oe2926a@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/profiles/staff/oreoluwa.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/staff/oe2926a.cfm",
       "_worksfor_raw": "CAS | Biology",
       "_source_page": "https://www.american.edu/cas/faculty/faculty-e.cfm"
     },
@@ -1826,9 +1796,9 @@
       "title": "Lab Technician",
       "school": "CAS",
       "department": "Biology",
-      "email": "oe2926a@american.edu",
+      "email": "oreoluwa@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/profiles/staff/oe2926a.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/staff/oreoluwa.cfm",
       "_worksfor_raw": "CAS | Biology",
       "_source_page": "https://www.american.edu/cas/faculty/faculty-e.cfm"
     },
@@ -1867,24 +1837,13 @@
     },
     {
       "name": "Sara Faggi",
-      "title": "Research Assistant Professor",
+      "title": "Research Associate Professor",
       "school": "CAS",
       "department": "Physics",
       "email": "faggi@american.edu",
       "phone": "",
       "au_profile_url": "https://www.american.edu/cas/faculty/faggi.cfm",
       "_worksfor_raw": "CAS | Physics",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-f.cfm"
-    },
-    {
-      "name": "Bryan Fantie",
-      "title": "Associate Professor",
-      "school": "CAS",
-      "department": "Psychology",
-      "email": "bfantie@american.edu",
-      "phone": "(202) 885-1790",
-      "au_profile_url": "https://www.american.edu/cas/faculty/bfantie.cfm",
-      "_worksfor_raw": "CAS | Psychology",
       "_source_page": "https://www.american.edu/cas/faculty/faculty-f.cfm"
     },
     {
@@ -1987,6 +1946,17 @@
       "_source_page": "https://www.american.edu/cas/faculty/faculty-f.cfm"
     },
     {
+      "name": "Suzi Fox",
+      "title": "Sculptor In Residence",
+      "school": "CAS",
+      "department": "Art",
+      "email": "sfox@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/cas/faculty/sfox.cfm",
+      "_worksfor_raw": "CAS | Art",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-f.cfm"
+    },
+    {
       "name": "Douglas Fox",
       "title": "Professor and Department Chair, Chemistry",
       "school": "CAS",
@@ -2002,9 +1972,20 @@
       "title": "Associate Professor",
       "school": "CAS",
       "department": "History",
-      "email": "franz@american.edu",
-      "phone": "(202) 885-2386",
+      "email": "",
+      "phone": "",
       "au_profile_url": "https://www.american.edu/cas/faculty/franz.cfm",
+      "_worksfor_raw": "CAS | History",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-f.cfm"
+    },
+    {
+      "name": "Max Paul Friedman",
+      "title": "Professor",
+      "school": "CAS",
+      "department": "History",
+      "email": "friedman@american.edu",
+      "phone": "(202) 885-2613",
+      "au_profile_url": "https://www.american.edu/cas/faculty/friedman.cfm",
       "_worksfor_raw": "CAS | History",
       "_source_page": "https://www.american.edu/cas/faculty/faculty-f.cfm"
     },
@@ -2017,17 +1998,6 @@
       "phone": "(202) 885-2963",
       "au_profile_url": "https://www.american.edu/cas/faculty/dustinfr.cfm",
       "_worksfor_raw": "CAS | Literature",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-f.cfm"
-    },
-    {
-      "name": "Max Paul Friedman",
-      "title": "Professor",
-      "school": "CAS",
-      "department": "History",
-      "email": "friedman@american.edu",
-      "phone": "(202) 885-2613",
-      "au_profile_url": "https://www.american.edu/cas/faculty/friedman.cfm",
-      "_worksfor_raw": "CAS | History",
       "_source_page": "https://www.american.edu/cas/faculty/faculty-f.cfm"
     },
     {
@@ -2054,7 +2024,7 @@
     },
     {
       "name": "Jody Gan",
-      "title": "Professorial Lecturer",
+      "title": "Senior Professorial Lecturer",
       "school": "CAS",
       "department": "Health Studies",
       "email": "gan@american.edu",
@@ -2208,7 +2178,7 @@
     },
     {
       "name": "Alex Godwin",
-      "title": "Assistant Professor",
+      "title": "Associate Professor",
       "school": "CAS",
       "department": "Computer Science",
       "email": "godwin@american.edu",
@@ -3010,17 +2980,6 @@
       "_source_page": "https://www.american.edu/cas/faculty/faculty-i-j.cfm"
     },
     {
-      "name": "Jermaine Jones",
-      "title": "Professorial Lecturer",
-      "school": "CAS",
-      "department": "Literature",
-      "email": "charlesj@american.edu",
-      "phone": "(202) 885-2909",
-      "au_profile_url": "https://www.american.edu/cas/faculty/charlesj.cfm",
-      "_worksfor_raw": "CAS | Literature",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-i-j.cfm"
-    },
-    {
       "name": "Demonica Jones",
       "title": "Professorial Lecturer",
       "school": "CAS",
@@ -3044,7 +3003,7 @@
     },
     {
       "name": "Christina Juhasz-Wood",
-      "title": "Professorial Lecturer",
+      "title": "Senior Professorial Lecturer",
       "school": "CAS",
       "department": "Critical RGC Studies",
       "email": "cjwood@american.edu",
@@ -3162,17 +3121,6 @@
       "au_profile_url": "https://www.american.edu/cas/faculty/kearns.cfm",
       "_worksfor_raw": "CAS | Psychology",
       "_source_page": "https://www.american.edu/cas/faculty/faculty-k.cfm"
-    },
-    {
-      "name": "Patricia Montilla Keeling",
-      "title": "Instructor",
-      "school": "CAS",
-      "department": "World Languages and Cultures",
-      "email": "pmk@american.edu",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/cas/faculty/pmk.cfm",
-      "_worksfor_raw": "CAS | World Languages and Cultures",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
     },
     {
       "name": "David Keplinger",
@@ -3297,7 +3245,7 @@
     },
     {
       "name": "K. L. Knee",
-      "title": "Associate Professor",
+      "title": "Professor",
       "school": "CAS",
       "department": "Environmental Science",
       "email": "knee@american.edu",
@@ -3319,7 +3267,7 @@
     },
     {
       "name": "Sarah Knowles",
-      "title": "Senior Professorial Lecturer",
+      "title": "Hurst Senior Professorial Lecturer",
       "school": "CAS",
       "department": "World Languages and Cultures",
       "email": "syoung@american.edu",
@@ -3330,7 +3278,7 @@
     },
     {
       "name": "Monika Konaklieva",
-      "title": "Associate Professor",
+      "title": "Professor",
       "school": "CAS",
       "department": "Chemistry",
       "email": "mkonak@american.edu",
@@ -3374,7 +3322,7 @@
     },
     {
       "name": "Naden Krogan",
-      "title": "Associate Professor and Department Chair, Biology",
+      "title": "Associate Professor",
       "school": "CAS",
       "department": "Biology",
       "email": "nkrogan@american.edu",
@@ -3439,19 +3387,8 @@
       "_source_page": "https://www.american.edu/cas/faculty/faculty-k.cfm"
     },
     {
-      "name": "Thu Ya Kyaw",
-      "title": "Environmental Scientist In-Residence",
-      "school": "CAS",
-      "department": "Environmental Science",
-      "email": "tkyaw@american.edu",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/cas/faculty/tkyaw.cfm",
-      "_worksfor_raw": "CAS | Environmental Science",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-k.cfm"
-    },
-    {
       "name": "Cristina Hernandez Gil de Lamadrid",
-      "title": "Professorial Lecturer",
+      "title": "Senior Professorial Lecturer",
       "school": "CAS",
       "department": "World Languages and Cultures",
       "email": "chernand@american.edu",
@@ -3560,248 +3497,6 @@
       "_source_page": "https://www.american.edu/cas/faculty/faculty-l.cfm"
     },
     {
-      "name": "Stephen MacAvoy",
-      "title": "Associate Professor",
-      "school": "CAS",
-      "department": "Environmental Science",
-      "email": "macavoy@american.edu",
-      "phone": "(202) 885-3003",
-      "au_profile_url": "https://www.american.edu/cas/faculty/macavoy.cfm",
-      "_worksfor_raw": "CAS | Environmental Science",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
-    },
-    {
-      "name": "Manissa Maharawal",
-      "title": "Assistant Professor",
-      "school": "CAS",
-      "department": "Anthropology",
-      "email": "manissam@american.edu",
-      "phone": "(202) 885-6641",
-      "au_profile_url": "https://www.american.edu/cas/faculty/manissam.cfm",
-      "_worksfor_raw": "CAS | Anthropology",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
-    },
-    {
-      "name": "Betty Malloy",
-      "title": "Professor and Director of the Data Science Programs",
-      "school": "CAS",
-      "department": "Math and Statistics",
-      "email": "malloy@american.edu",
-      "phone": "(202) 885-3614",
-      "au_profile_url": "https://www.american.edu/cas/faculty/malloy.cfm",
-      "_worksfor_raw": "CAS | Math and Statistics",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
-    },
-    {
-      "name": "Shoji Malone",
-      "title": "Professorial Lecturer",
-      "school": "CAS",
-      "department": "Critical RGC Studies",
-      "email": "smalone@american.edu",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/cas/faculty/smalone.cfm",
-      "_worksfor_raw": "CAS | Critical RGC Studies",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
-    },
-    {
-      "name": "Elissa Margolin",
-      "title": "Professorial Lecturer",
-      "school": "CAS",
-      "department": "Health Studies",
-      "email": "margolin@american.edu",
-      "phone": "(202) 885-6274",
-      "au_profile_url": "https://www.american.edu/cas/faculty/margolin.cfm",
-      "_worksfor_raw": "CAS - Health Studies",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
-    },
-    {
-      "name": "Susana Marin",
-      "title": "Professorial Lecturer",
-      "school": "CAS",
-      "department": "World Languages and Cultures",
-      "email": "marin@american.edu",
-      "phone": "(202) 885-6920",
-      "au_profile_url": "https://www.american.edu/cas/faculty/marin.cfm",
-      "_worksfor_raw": "CAS - World Languages and Cultures",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
-    },
-    {
-      "name": "Fahimeh Martami",
-      "title": "Postdoctoral Fellow",
-      "school": "CAS",
-      "department": "Health Studies",
-      "email": "fmartami@american.edu",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/cas/faculty/fmartami.cfm",
-      "_worksfor_raw": "CAS | Health Studies",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
-    },
-    {
-      "name": "Nick Martin",
-      "title": "Theatre Director In Residence",
-      "school": "CAS",
-      "department": "Performing Arts",
-      "email": "martin@american.edu",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/cas/faculty/martin.cfm",
-      "_worksfor_raw": "CAS | Performing Arts",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
-    },
-    {
-      "name": "Juliana Martinez",
-      "title": "Associate Professor",
-      "school": "CAS",
-      "department": "World Languages and Cultures",
-      "email": "jmartinez@american.edu",
-      "phone": "(202) 885-2586",
-      "au_profile_url": "https://www.american.edu/cas/faculty/jmartinez.cfm",
-      "_worksfor_raw": "CAS | World Languages and Cultures",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
-    },
-    {
-      "name": "Sarah Marvar",
-      "title": "Sr Professorial Lecturer",
-      "school": "CAS",
-      "department": "Biology",
-      "email": "sknight@american.edu",
-      "phone": "(202) 885-6538",
-      "au_profile_url": "https://www.american.edu/cas/faculty/sknight.cfm",
-      "_worksfor_raw": "CAS - Biology",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
-    },
-    {
-      "name": "Gabriel Mathy",
-      "title": "Associate Professor",
-      "school": "CAS",
-      "department": "Economics",
-      "email": "mathy@american.edu",
-      "phone": "(202) 885-3708",
-      "au_profile_url": "https://www.american.edu/cas/faculty/mathy.cfm",
-      "_worksfor_raw": "CAS | Economics",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
-    },
-    {
-      "name": "Jocelyn McCarthy",
-      "title": "Senior Professorial Lecturer",
-      "school": "CAS",
-      "department": "Literature",
-      "email": "jocelyn.mccarthy@american.edu",
-      "phone": "(202) 885-8942",
-      "au_profile_url": "https://www.american.edu/cas/faculty/mccarthy.cfm",
-      "_worksfor_raw": "CAS | Literature",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
-    },
-    {
-      "name": "Bruce McCollum",
-      "title": "Physicist In Residence",
-      "school": "CAS",
-      "department": "Other Operations and Administration",
-      "email": "mccollum@american.edu",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/cas/faculty/mccollum.cfm",
-      "_worksfor_raw": "CAS | Other Operations and Administration",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
-    },
-    {
-      "name": "Heather McDonald",
-      "title": "Sr Professorial Lecturer",
-      "school": "CAS",
-      "department": "Literature",
-      "email": "heather.mcdonald@american.edu",
-      "phone": "(202) 885-8930",
-      "au_profile_url": "https://www.american.edu/cas/faculty/hmcdonal.cfm",
-      "_worksfor_raw": "CAS - Literature",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
-    },
-    {
-      "name": "Allison McMahon",
-      "title": "STEM Educator-in-Residence",
-      "school": "CAS",
-      "department": "Physics",
-      "email": "mcmahon@american.edu",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/cas/faculty/mcmahon.cfm",
-      "_worksfor_raw": "CAS | Physics",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
-    },
-    {
-      "name": "Marc Medwin",
-      "title": "Assistant Professor",
-      "school": "CAS",
-      "department": "Performing Arts",
-      "email": "medwin@american.edu",
-      "phone": "(202) 885-3446",
-      "au_profile_url": "https://www.american.edu/cas/faculty/medwin.cfm",
-      "_worksfor_raw": "CAS | Performing Arts",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
-    },
-    {
-      "name": "Nimai Mehta",
-      "title": "Hurst Senior Professorial Lecturer",
-      "school": "CAS",
-      "department": "Math and Statistics",
-      "email": "",
-      "phone": "(202) 885-3017",
-      "au_profile_url": "https://www.american.edu/cas/faculty/mehta.cfm",
-      "_worksfor_raw": "CAS | Math and Statistics",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
-    },
-    {
-      "name": "Jesse Meiller",
-      "title": "Hurst Sr Prof Lecturer",
-      "school": "CAS",
-      "department": "Environmental Science",
-      "email": "meiller@american.edu",
-      "phone": "(202) 885-1780",
-      "au_profile_url": "https://www.american.edu/cas/faculty/meiller.cfm",
-      "_worksfor_raw": "CAS - Environmental Science",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
-    },
-    {
-      "name": "Carl Menninger",
-      "title": "Assistant Professor",
-      "school": "CAS",
-      "department": "Performing Arts",
-      "email": "menninge@american.edu",
-      "phone": "(202) 885-3414",
-      "au_profile_url": "https://www.american.edu/cas/faculty/menninge.cfm",
-      "_worksfor_raw": "CAS | Performing Arts",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
-    },
-    {
-      "name": "JP Merz",
-      "title": "Professorial Lecturer",
-      "school": "CAS",
-      "department": "Performing Arts",
-      "email": "merz@american.edu",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/cas/faculty/merz.cfm",
-      "_worksfor_raw": "CAS | Performing Arts",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
-    },
-    {
-      "name": "Jeffrey Romero Middents",
-      "title": "Associate Professor",
-      "school": "CAS",
-      "department": "Literature",
-      "email": "middents@american.edu",
-      "phone": "(202) 885-2979",
-      "au_profile_url": "https://www.american.edu/cas/faculty/middents.cfm",
-      "_worksfor_raw": "CAS | Literature",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
-    },
-    {
-      "name": "Jaime Miller",
-      "title": "Hurst Senior Professorial Lecturer",
-      "school": "CAS",
-      "department": "Math and Statistics",
-      "email": "jmiller@american.edu",
-      "phone": "(202) 885-3685",
-      "au_profile_url": "https://www.american.edu/cas/faculty/jmiller.cfm",
-      "_worksfor_raw": "CAS | Math and Statistics",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
-    },
-    {
       "name": "Gemma Sune Minguella",
       "title": "Hurst Senior Professorial Lecturer",
       "school": "CAS",
@@ -3813,50 +3508,6 @@
       "_source_page": "https://www.american.edu/cas/faculty/faculty-s.cfm"
     },
     {
-      "name": "Manish Mishra",
-      "title": "Sr Adj Prof Lecturer",
-      "school": "CAS",
-      "department": "",
-      "email": "mishra@american.edu",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/cas/faculty/mishra.cfm",
-      "_worksfor_raw": "",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
-    },
-    {
-      "name": "Chris Mitchell",
-      "title": "Administrator-in-Residence",
-      "school": "CAS",
-      "department": "Math and Statistics",
-      "email": "mitchell@american.edu",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/cas/faculty/mitchell.cfm",
-      "_worksfor_raw": "CAS | Math and Statistics",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
-    },
-    {
-      "name": "Bashir Mobasher",
-      "title": "Scholar In Residence",
-      "school": "CAS",
-      "department": "Sociology",
-      "email": "mobasher@american.edu",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/cas/faculty/mobasher.cfm",
-      "_worksfor_raw": "CAS | Sociology",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
-    },
-    {
-      "name": "Amin Mohseni-Cheraghlou",
-      "title": "Senior Professorial Lecturer",
-      "school": "CAS",
-      "department": "Online Partner Programs (OLP)",
-      "email": "amohseni@american.edu",
-      "phone": "(202) 885-3752",
-      "au_profile_url": "https://www.american.edu/cas/faculty/amohseni.cfm",
-      "_worksfor_raw": "CAS | Online Partner Programs (OLP)",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
-    },
-    {
       "name": "Juan Antonio Montecino",
       "title": "Assistant Professor",
       "school": "CAS",
@@ -3866,83 +3517,6 @@
       "au_profile_url": "https://www.american.edu/cas/faculty/Montecino.cfm",
       "_worksfor_raw": "CAS | Economics",
       "_source_page": "https://www.american.edu/cas/faculty/"
-    },
-    {
-      "name": "Chemi Montes",
-      "title": "Associate Professor",
-      "school": "CAS",
-      "department": "Art",
-      "email": "cmontes@american.edu",
-      "phone": "(202) 885-1697",
-      "au_profile_url": "https://www.american.edu/cas/faculty/cmontes.cfm",
-      "_worksfor_raw": "CAS | Art",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
-    },
-    {
-      "name": "Rita Morandi",
-      "title": "Professorial Lecturer",
-      "school": "CAS",
-      "department": "World Languages and Cultures",
-      "email": "morandi@american.edu",
-      "phone": "(202) 885-2389",
-      "au_profile_url": "https://www.american.edu/cas/faculty/morandi.cfm",
-      "_worksfor_raw": "CAS | World Languages and Cultures",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
-    },
-    {
-      "name": "Crystal Moten",
-      "title": "Public Historian-in-Residence",
-      "school": "CAS",
-      "department": "History",
-      "email": "cmoten@american.edu",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/cas/faculty/cmoten.cfm",
-      "_worksfor_raw": "CAS | History",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
-    },
-    {
-      "name": "Ahmad Mousavi",
-      "title": "Assistant Professor",
-      "school": "CAS",
-      "department": "Math and Statistics",
-      "email": "mousavi@american.edu",
-      "phone": "(202) 885-5950",
-      "au_profile_url": "https://www.american.edu/cas/faculty/mousavi.cfm",
-      "_worksfor_raw": "CAS | Math and Statistics",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
-    },
-    {
-      "name": "Agnit Mukhopadhyay",
-      "title": "Research Asst Professor",
-      "school": "CAS",
-      "department": "Physics",
-      "email": "agnitm@american.edu",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/cas/faculty/agnitm.cfm",
-      "_worksfor_raw": "CAS - Physics",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
-    },
-    {
-      "name": "Julia Murphy",
-      "title": "Professorial Lecturer",
-      "school": "CAS",
-      "department": "Literature",
-      "email": "jmurphy@american.edu",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/cas/faculty/jmurphy.cfm",
-      "_worksfor_raw": "CAS - Literature",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
-    },
-    {
-      "name": "Danielle Mysliwiec",
-      "title": "Associate Professor",
-      "school": "CAS",
-      "department": "Art",
-      "email": "mysliwie@american.edu",
-      "phone": "(202) 885-6476",
-      "au_profile_url": "https://www.american.edu/cas/faculty/mysliwie.cfm",
-      "_worksfor_raw": "CAS | Art",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
     },
     {
       "name": "Erez Naaman",
@@ -3964,17 +3538,6 @@
       "phone": "(202) 885-2425",
       "au_profile_url": "https://www.american.edu/cas/faculty/pnadell.cfm",
       "_worksfor_raw": "CAS | History",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-n.cfm"
-    },
-    {
-      "name": "Jacques Nalabandian",
-      "title": "Professorial Lecturer",
-      "school": "CAS",
-      "department": "World Languages and Cultures",
-      "email": "jnalaban@american.edu",
-      "phone": "(202) 885-3771",
-      "au_profile_url": "https://www.american.edu/cas/faculty/jnalaban.cfm",
-      "_worksfor_raw": "CAS | World Languages and Cultures",
       "_source_page": "https://www.american.edu/cas/faculty/faculty-n.cfm"
     },
     {
@@ -4099,6 +3662,17 @@
       "_source_page": "https://www.american.edu/cas/faculty/faculty-n.cfm"
     },
     {
+      "name": "Kate Norris",
+      "title": "Theatre Director In Residence",
+      "school": "CAS",
+      "department": "Other Operations and Administration",
+      "email": "knorris@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/cas/faculty/knorris.cfm",
+      "_worksfor_raw": "CAS | Other Operations and Administration",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-n.cfm"
+    },
+    {
       "name": "Stina Oakes",
       "title": "Hurst Senior Professorial Lecturer",
       "school": "CAS",
@@ -4187,14 +3761,14 @@
       "_source_page": "https://www.american.edu/cas/faculty/faculty-p-q.cfm"
     },
     {
-      "name": "David Page",
-      "title": "Sculptor-in-Residence",
+      "name": "Patricia Park",
+      "title": "Associate Professor",
       "school": "CAS",
-      "department": "Art",
-      "email": "page@american.edu",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/cas/faculty/page.cfm",
-      "_worksfor_raw": "CAS | Art",
+      "department": "Literature",
+      "email": "ppark@american.edu",
+      "phone": "(202) 885-3911",
+      "au_profile_url": "https://www.american.edu/cas/faculty/ppark.cfm",
+      "_worksfor_raw": "CAS | Literature",
       "_source_page": "https://www.american.edu/cas/faculty/faculty-p-q.cfm"
     },
     {
@@ -4206,17 +3780,6 @@
       "phone": "(202) 885-2919",
       "au_profile_url": "https://www.american.edu/cas/faculty/jypark.cfm",
       "_worksfor_raw": "CAS | Philosophy/Religion",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-p-q.cfm"
-    },
-    {
-      "name": "Patricia Park",
-      "title": "Associate Professor",
-      "school": "CAS",
-      "department": "Literature",
-      "email": "ppark@american.edu",
-      "phone": "(202) 885-3911",
-      "au_profile_url": "https://www.american.edu/cas/faculty/ppark.cfm",
-      "_worksfor_raw": "CAS | Literature",
       "_source_page": "https://www.american.edu/cas/faculty/faculty-p-q.cfm"
     },
     {
@@ -4374,17 +3937,6 @@
       "_source_page": "https://www.american.edu/cas/faculty/faculty-p-q.cfm"
     },
     {
-      "name": "Cynthia Potter",
-      "title": "Senior Professorial Lecturer",
-      "school": "CAS",
-      "department": "Health Studies",
-      "email": "ronzio@american.edu",
-      "phone": "(202) 885-6283",
-      "au_profile_url": "https://www.american.edu/cas/faculty/ronzio.cfm",
-      "_worksfor_raw": "CAS | Health Studies",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-p-q.cfm"
-    },
-    {
       "name": "Demetrios Poulios",
       "title": "Research Assistant Professor",
       "school": "CAS",
@@ -4492,17 +4044,6 @@
       "phone": "(202) 885-1677",
       "au_profile_url": "https://www.american.edu/cas/faculty/resnick.cfm",
       "_worksfor_raw": "CAS - Art",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-r.cfm"
-    },
-    {
-      "name": "Richard Ressler",
-      "title": "Hurst Senior Professorial Lecturer",
-      "school": "CAS",
-      "department": "Math and Statistics",
-      "email": "rressler@american.edu",
-      "phone": "(202) 885-6472",
-      "au_profile_url": "https://www.american.edu/cas/faculty/rressler.cfm",
-      "_worksfor_raw": "CAS | Math and Statistics",
       "_source_page": "https://www.american.edu/cas/faculty/faculty-r.cfm"
     },
     {
@@ -4617,7 +4158,7 @@
     },
     {
       "name": "Mubbashir Rizvi",
-      "title": "Professorial Lecturer",
+      "title": "Senior Professorial Lecturer",
       "school": "CAS",
       "department": "Anthropology",
       "email": "mrizvi@american.edu",
@@ -4990,17 +4531,6 @@
       "_source_page": "https://www.american.edu/cas/faculty/faculty-s.cfm"
     },
     {
-      "name": "Kathleen Smith",
-      "title": "Assistant Professor",
-      "school": "CAS",
-      "department": "Literature",
-      "email": "kathlees@american.edu",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/cas/faculty/kathlees.cfm",
-      "_worksfor_raw": "CAS | Literature",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-s.cfm"
-    },
-    {
       "name": "Anastasia Snelling",
       "title": "Professor",
       "school": "CAS",
@@ -5045,17 +4575,6 @@
       "_source_page": "https://www.american.edu/cas/faculty/faculty-s.cfm"
     },
     {
-      "name": "Yun Woo Song",
-      "title": "Professorial Lecturer",
-      "school": "CAS",
-      "department": "Philosophy/Religion",
-      "email": "ywsong@american.edu",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/cas/faculty/ywsong.cfm",
-      "_worksfor_raw": "CAS | Philosophy/Religion",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-s.cfm"
-    },
-    {
       "name": "Allison Sparks",
       "title": "Senior Professorial Lecturer",
       "school": "CAS",
@@ -5064,6 +4583,17 @@
       "phone": "(202) 885-2836",
       "au_profile_url": "https://www.american.edu/cas/faculty/asparks.cfm",
       "_worksfor_raw": "CAS | Literature",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-s.cfm"
+    },
+    {
+      "name": "Lilly Springer",
+      "title": "Assistant Professor",
+      "school": "CAS",
+      "department": "Economics",
+      "email": "lspringer@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/cas/faculty/lspringer.cfm",
+      "_worksfor_raw": "CAS | Economics",
       "_source_page": "https://www.american.edu/cas/faculty/faculty-s.cfm"
     },
     {
@@ -5177,17 +4707,6 @@
       "_source_page": "https://www.american.edu/cas/faculty/faculty-t-u.cfm"
     },
     {
-      "name": "Sue Taylor",
-      "title": "Public Anthropologist-in-Residence",
-      "school": "CAS",
-      "department": "Anthropology",
-      "email": "suet@american.edu",
-      "phone": "(202) 885-6793",
-      "au_profile_url": "https://www.american.edu/cas/faculty/suet.cfm",
-      "_worksfor_raw": "CAS | Anthropology",
-      "_source_page": "https://www.american.edu/cas/faculty/faculty-t-u.cfm"
-    },
-    {
       "name": "Andrew Taylor",
       "title": "Director of the Arts Management Program",
       "school": "CAS",
@@ -5196,6 +4715,17 @@
       "phone": "(202) 885-1601",
       "au_profile_url": "https://www.american.edu/cas/faculty/eataylor.cfm",
       "_worksfor_raw": "CAS | Performing Arts",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-t-u.cfm"
+    },
+    {
+      "name": "Sue Taylor",
+      "title": "Public Anthropologist-in-Residence",
+      "school": "CAS",
+      "department": "Anthropology",
+      "email": "suet@american.edu",
+      "phone": "(202) 885-6793",
+      "au_profile_url": "https://www.american.edu/cas/faculty/suet.cfm",
+      "_worksfor_raw": "CAS | Anthropology",
       "_source_page": "https://www.american.edu/cas/faculty/faculty-t-u.cfm"
     },
     {
@@ -5361,6 +4891,17 @@
       "phone": "",
       "au_profile_url": "https://www.american.edu/cas/faculty/dvazquez.cfm",
       "_worksfor_raw": "CAS | Critical RGC Studies",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-v.cfm"
+    },
+    {
+      "name": "Lisa Velkoff",
+      "title": "Assistant Professor",
+      "school": "CAS",
+      "department": "Psychology",
+      "email": "lvelkoff@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/cas/faculty/lvelkoff.cfm",
+      "_worksfor_raw": "CAS | Psychology",
       "_source_page": "https://www.american.edu/cas/faculty/faculty-v.cfm"
     },
     {
@@ -5761,7 +5302,7 @@
     },
     {
       "name": "Alexander Zestos",
-      "title": "Associate Professor",
+      "title": "Professor",
       "school": "CAS",
       "department": "Chemistry",
       "email": "zestos@american.edu",
@@ -5882,7 +5423,7 @@
     },
     {
       "name": "David Bartlett",
-      "title": "Senior Professorial Lecturer",
+      "title": "Hurst Senior Professorial Lecturer",
       "school": "Kogod",
       "department": "Management",
       "email": "dbartlett@american.edu",
@@ -5893,7 +5434,7 @@
     },
     {
       "name": "Sheila Bedford",
-      "title": "Senior Professorial Lecturer",
+      "title": "Hurst Senior Professorial Lecturer",
       "school": "Kogod",
       "department": "Accounting/Tax",
       "email": "bedford@american.edu",
@@ -5926,7 +5467,7 @@
     },
     {
       "name": "Caroline Bruckner",
-      "title": "Senior Professorial Lecturer",
+      "title": "Hurst Senior Professorial Lecturer",
       "school": "Kogod",
       "department": "Accounting/Tax",
       "email": "cbruck@american.edu",
@@ -6080,7 +5621,7 @@
     },
     {
       "name": "Casey Evans",
-      "title": "Associate Dean for Undergraduate Programs and Student Services",
+      "title": "Interim Dean, Kogod School of Business",
       "school": "Kogod",
       "department": "Finance & Personnel Administration",
       "email": "cdevans@american.edu",
@@ -6091,7 +5632,7 @@
     },
     {
       "name": "Tara Fisher",
-      "title": "Senior Professorial Lecturer",
+      "title": "Interim Assistant Dean for Undergraduate Programs and Senior Professorial Lecturer",
       "school": "Kogod",
       "department": "Accounting/Tax",
       "email": "tfisher@american.edu",
@@ -6223,7 +5764,7 @@
     },
     {
       "name": "Octavian Ionici",
-      "title": "Senior Professorial Lecturer",
+      "title": "Hurst Senior Professorial Lecturer",
       "school": "Kogod",
       "department": "Finance/Real Estate",
       "email": "oionici@american.edu",
@@ -6288,17 +5829,6 @@
       "_source_page": "https://www.american.edu/kogod/directory/faculty-directory.cfm"
     },
     {
-      "name": "Daniel Kopman",
-      "title": "Professorial Lecturer",
-      "school": "Kogod",
-      "department": "Management",
-      "email": "dankopman@american.edu",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/kogod/faculty/dankopman.cfm",
-      "_worksfor_raw": "KSB | Management",
-      "_source_page": "https://www.american.edu/kogod/directory/faculty-directory.cfm"
-    },
-    {
       "name": "Nandini Lahiri",
       "title": "Associate Professor",
       "school": "Kogod",
@@ -6310,17 +5840,6 @@
       "_source_page": "https://www.american.edu/kogod/directory/faculty-directory.cfm"
     },
     {
-      "name": "Brad Lee",
-      "title": "Research Asst Professor",
-      "school": "Kogod",
-      "department": "",
-      "email": "bradlee@american.edu",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/kogod/faculty/bradlee.cfm",
-      "_worksfor_raw": "KSB - Kogod School of Business",
-      "_source_page": "https://www.american.edu/kogod/directory/faculty-directory.cfm"
-    },
-    {
       "name": "Jeffrey Lee",
       "title": "Provost Associate Professor",
       "school": "Kogod",
@@ -6329,6 +5848,17 @@
       "phone": "",
       "au_profile_url": "https://www.american.edu/kogod/faculty/jefflee.cfm",
       "_worksfor_raw": "KSB | Marketing",
+      "_source_page": "https://www.american.edu/kogod/directory/faculty-directory.cfm"
+    },
+    {
+      "name": "Brad Lee",
+      "title": "Research Asst Professor",
+      "school": "Kogod",
+      "department": "",
+      "email": "bradlee@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/kogod/faculty/bradlee.cfm",
+      "_worksfor_raw": "KSB - Kogod School of Business",
       "_source_page": "https://www.american.edu/kogod/directory/faculty-directory.cfm"
     },
     {
@@ -6344,13 +5874,13 @@
     },
     {
       "name": "Emily Lindsay",
-      "title": "Adjunct Senior Professorial Lecturer",
+      "title": "Senior Professorial Lecturer Emerita",
       "school": "Kogod",
-      "department": "Accounting/Tax",
+      "department": "",
       "email": "lindsay@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/kogod/faculty/lindsay.cfm",
-      "_worksfor_raw": "KSB | Accounting/Tax",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/lindsay.cfm",
+      "_worksfor_raw": "",
       "_source_page": "https://www.american.edu/kogod/directory/faculty-directory.cfm"
     },
     {
@@ -6388,7 +5918,7 @@
     },
     {
       "name": "Kimberly Luchtenberg",
-      "title": "Assistant Professor",
+      "title": "Associate Professor",
       "school": "Kogod",
       "department": "Finance/Real Estate",
       "email": "luchtenb@american.edu",
@@ -6410,7 +5940,7 @@
     },
     {
       "name": "Sarah Mady",
-      "title": "Hurst Senior Professorial Lecturer",
+      "title": "Assistant Dean of Strategic Initiatives and Hurst Senior Professorial Lecturer",
       "school": "Kogod",
       "department": "Marketing",
       "email": "mady@american.edu",
@@ -6519,17 +6049,6 @@
       "_source_page": "https://www.american.edu/kogod/directory/faculty-directory.cfm"
     },
     {
-      "name": "Paolo Petacchi",
-      "title": "Senior Professorial Lecturer",
-      "school": "Kogod",
-      "department": "Accounting/Tax",
-      "email": "",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/kogod/faculty/petacchi.cfm",
-      "_worksfor_raw": "KSB | Accounting/Tax",
-      "_source_page": "https://www.american.edu/kogod/directory/faculty-directory.cfm"
-    },
-    {
       "name": "James Potepa",
       "title": "Associate Professor",
       "school": "Kogod",
@@ -6608,7 +6127,7 @@
     },
     {
       "name": "Jay Simon",
-      "title": "Associate Professor",
+      "title": "Professor",
       "school": "Kogod",
       "department": "Information Technology & Analytics",
       "email": "",
@@ -6630,7 +6149,7 @@
     },
     {
       "name": "Ioannis Spyridopoulos",
-      "title": "Assistant Professor",
+      "title": "Associate Professor",
       "school": "Kogod",
       "department": "Finance/Real Estate",
       "email": "ispyrido@american.edu",
@@ -6753,11 +6272,11 @@
       "name": "Donald Williamson",
       "title": "Professor Emeritus",
       "school": "Kogod",
-      "department": "Accounting/Tax",
+      "department": "",
       "email": "dwillia@american.edu",
       "phone": "(202) 885-1942",
       "au_profile_url": "https://www.american.edu/kogod/faculty/dwillia.cfm",
-      "_worksfor_raw": "KSB | Accounting/Tax",
+      "_worksfor_raw": "",
       "_source_page": "https://www.american.edu/kogod/directory/faculty-directory.cfm"
     },
     {
@@ -6816,15 +6335,125 @@
       "_source_page": "https://www.american.edu/kogod/directory/faculty-directory.cfm"
     },
     {
+      "name": "Melissa Becher",
+      "title": "Associate Director of Research, Teaching, and Learning and Art History Librarian",
+      "school": "Library",
+      "department": "University Library",
+      "email": "mbecher@american.edu",
+      "phone": "(202) 885-3263",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/mbecher.cfm",
+      "_worksfor_raw": "LIB | University Library",
+      "_source_page": "https://www.american.edu/library/about/faculty.cfm"
+    },
+    {
+      "name": "Rachel Borchardt",
+      "title": "Scholarly Communication Librarian",
+      "school": "Library",
+      "department": "University Library",
+      "email": "borchard@american.edu",
+      "phone": "(202) 885-3657",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/borchard.cfm",
+      "_worksfor_raw": "LIB | University Library",
+      "_source_page": "https://www.american.edu/library/about/faculty.cfm"
+    },
+    {
+      "name": "Sarah Gilchrist",
+      "title": "Graduate International Studies and Political Science Librarian",
+      "school": "Library",
+      "department": "University Library",
+      "email": "gilchris@american.edu",
+      "phone": "(202) 885-3181",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/gilchris.cfm",
+      "_worksfor_raw": "LIB | University Library",
+      "_source_page": "https://www.american.edu/library/about/faculty.cfm"
+    },
+    {
+      "name": "Katie Hut",
+      "title": "Business and Economics Librarian",
+      "school": "Library",
+      "department": "University Library",
+      "email": "khut@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/khut.cfm",
+      "_worksfor_raw": "LIB | University Library",
+      "_source_page": "https://www.american.edu/library/about/faculty.cfm"
+    },
+    {
+      "name": "Clarissa Ihssen",
+      "title": "Sciences Librarian",
+      "school": "Library",
+      "department": "University Library",
+      "email": "ihssen@american.edu",
+      "phone": "(202) 885-3841",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/ihssen.cfm",
+      "_worksfor_raw": "LIB | University Library",
+      "_source_page": "https://www.american.edu/library/about/faculty.cfm"
+    },
+    {
+      "name": "Olivia Ivey",
+      "title": "Public Affairs Librarian",
+      "school": "Library",
+      "department": "University Library",
+      "email": "oivey@american.edu",
+      "phone": "(202) 885-3236",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/oivey.cfm",
+      "_worksfor_raw": "LIB | University Library",
+      "_source_page": "https://www.american.edu/library/about/faculty.cfm"
+    },
+    {
+      "name": "Derrick Jefferson",
+      "title": "Communication Librarian",
+      "school": "Library",
+      "department": "University Library",
+      "email": "derrickj@american.edu",
+      "phone": "(202) 885-3787",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/derrickj.cfm",
+      "_worksfor_raw": "LIB | University Library",
+      "_source_page": "https://www.american.edu/library/about/faculty.cfm"
+    },
+    {
+      "name": "Nobue Matsuoka",
+      "title": "Music & Performing Arts Librarian",
+      "school": "Library",
+      "department": "University Library",
+      "email": "nobue@american.edu",
+      "phone": "(202) 885-3465",
+      "au_profile_url": "https://www.american.edu/cas/faculty/nobue.cfm",
+      "_worksfor_raw": "LIB | University Library",
+      "_source_page": "https://www.american.edu/library/about/faculty.cfm"
+    },
+    {
+      "name": "Alayne Mundt",
+      "title": "Director of Technical Services",
+      "school": "Library",
+      "department": "University Library",
+      "email": "mundt@american.edu",
+      "phone": "(202) 885-3344",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/mundt.cfm",
+      "_worksfor_raw": "LIB | University Library",
+      "_source_page": "https://www.american.edu/library/about/faculty.cfm"
+    },
+    {
       "name": "Hannah Park",
       "title": "Librarian",
-      "school": "LIB",
+      "school": "Library",
       "department": "University Library",
       "email": "hpark@american.edu",
       "phone": "(202) 885-3845",
       "au_profile_url": "https://www.american.edu/profiles/faculty/hpark.cfm",
       "_worksfor_raw": "LIB | University Library",
       "_source_page": "https://www.american.edu/baker/faculty/"
+    },
+    {
+      "name": "Gwendolyn Reece",
+      "title": "Librarian",
+      "school": "Library",
+      "department": "University Library",
+      "email": "greece@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/greece.cfm",
+      "_worksfor_raw": "LIB | University Library",
+      "_source_page": "https://www.american.edu/library/about/faculty.cfm"
     },
     {
       "name": "Brian Chiglinsky",
@@ -6981,17 +6610,6 @@
       "_source_page": "https://www.american.edu/sis/faculty/"
     },
     {
-      "name": "Piper Campbell",
-      "title": "Hurst Sr Prof Lecturer and Chair, Dept of Foreign Policy and Global Security",
-      "school": "SIS",
-      "department": "Foreign Policy & Global Security",
-      "email": "pipercamp@american.edu",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/sis/faculty/pipercamp.cfm",
-      "_worksfor_raw": "SIS | Foreign Policy & Global Security",
-      "_source_page": "https://www.american.edu/sis/faculty/"
-    },
-    {
       "name": "Susanna Campbell",
       "title": "Provost Associate Professor",
       "school": "SIS",
@@ -6999,6 +6617,17 @@
       "email": "susanna.campbell@american.edu",
       "phone": "(202) 885-1428",
       "au_profile_url": "https://www.american.edu/sis/faculty/scampbel.cfm",
+      "_worksfor_raw": "SIS | Foreign Policy & Global Security",
+      "_source_page": "https://www.american.edu/sis/faculty/"
+    },
+    {
+      "name": "Piper Campbell",
+      "title": "Hurst Sr Prof Lecturer and Chair, Dept of Foreign Policy and Global Security",
+      "school": "SIS",
+      "department": "Foreign Policy & Global Security",
+      "email": "pipercamp@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/sis/faculty/pipercamp.cfm",
       "_worksfor_raw": "SIS | Foreign Policy & Global Security",
       "_source_page": "https://www.american.edu/sis/faculty/"
     },
@@ -7223,17 +6852,6 @@
       "_source_page": "https://www.american.edu/sis/faculty/"
     },
     {
-      "name": "James Goldgeier",
-      "title": "Professor Emeritus",
-      "school": "SIS",
-      "department": "",
-      "email": "jgoldgei@american.edu",
-      "phone": "(202) 885-1699",
-      "au_profile_url": "https://www.american.edu/profiles/faculty/jgoldgei.cfm",
-      "_worksfor_raw": "",
-      "_source_page": "https://www.american.edu/sis/faculty/"
-    },
-    {
       "name": "Louis Goodman",
       "title": "Professor and Dean Emeritus, SIS",
       "school": "SIS",
@@ -7290,7 +6908,7 @@
     },
     {
       "name": "Anders Hardig",
-      "title": "Senior Professorial Lecturer",
+      "title": "Hurst Senior Professorial Lecturer",
       "school": "SIS",
       "department": "Politics, Governance & Economics",
       "email": "hardig@american.edu",
@@ -7487,17 +7105,6 @@
       "_source_page": "https://www.american.edu/sis/faculty/"
     },
     {
-      "name": "Nanette Levinson",
-      "title": "Professor Emerita",
-      "school": "SIS",
-      "department": "",
-      "email": "nlevins@american.edu",
-      "phone": "(202) 885-1480",
-      "au_profile_url": "https://www.american.edu/profiles/faculty/nlevins.cfm",
-      "_worksfor_raw": "",
-      "_source_page": "https://www.american.edu/sis/faculty/"
-    },
-    {
       "name": "Garret Martin",
       "title": "Hurst Senior Professorial Lecturer",
       "school": "SIS",
@@ -7561,17 +7168,6 @@
       "phone": "(202) 885-6827",
       "au_profile_url": "https://www.american.edu/sis/faculty/morosini.cfm",
       "_worksfor_raw": "SIS | Peace, Human Rights & Cultural Relations",
-      "_source_page": "https://www.american.edu/sis/faculty/"
-    },
-    {
-      "name": "Shoon Murray",
-      "title": "Associate Professor Emerita",
-      "school": "SIS",
-      "department": "",
-      "email": "smurray@american.edu",
-      "phone": "(202) 885-1630",
-      "au_profile_url": "https://www.american.edu/profiles/faculty/smurray.cfm",
-      "_worksfor_raw": "",
       "_source_page": "https://www.american.edu/sis/faculty/"
     },
     {
@@ -7675,7 +7271,7 @@
     },
     {
       "name": "Joshua Rovner",
-      "title": "Associate Professor",
+      "title": "Professor",
       "school": "SIS",
       "department": "Foreign Policy & Global Security",
       "email": "jrovner@american.edu",
@@ -7905,17 +7501,6 @@
       "_source_page": "https://www.american.edu/sis/faculty/"
     },
     {
-      "name": "Earl Anthony Wayne",
-      "title": "Hurst Senior Professorial Lecturer and Distinguished Diplomat in Residence",
-      "school": "SIS",
-      "department": "Foreign Policy & Global Security",
-      "email": "",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/sis/faculty/eawayne.cfm",
-      "_worksfor_raw": "SIS | Foreign Policy & Global Security",
-      "_source_page": "https://www.american.edu/sis/faculty/"
-    },
-    {
       "name": "Sharon Weiner",
       "title": "Associate Professor",
       "school": "SIS",
@@ -7994,7 +7579,7 @@
     },
     {
       "name": "Dario Bernardini",
-      "title": "Senior Professorial Lecturer",
+      "title": "Hurst Senior Professorial Lecturer",
       "school": "SOC",
       "department": "Public Communication",
       "email": "dariob@american.edu",
@@ -8027,7 +7612,7 @@
     },
     {
       "name": "Kurt Braddock",
-      "title": "Assistant Professor",
+      "title": "Associate Professor",
       "school": "SOC",
       "department": "Public Communication",
       "email": "",
@@ -8225,7 +7810,7 @@
     },
     {
       "name": "Adrienne Massanari",
-      "title": "Associate Professor",
+      "title": "Professor",
       "school": "SOC",
       "department": "Communication Studies",
       "email": "adrienne@american.edu",
@@ -8357,7 +7942,7 @@
     },
     {
       "name": "Margot Susca",
-      "title": "Assistant Professor",
+      "title": "Associate Professor",
       "school": "SOC",
       "department": "Journalism",
       "email": "susca@american.edu",
@@ -8374,17 +7959,6 @@
       "email": "talan@american.edu",
       "phone": "(202) 885-6461",
       "au_profile_url": "https://www.american.edu/soc/faculty/talan.cfm",
-      "_worksfor_raw": "SOC | Public Communication",
-      "_source_page": "https://www.american.edu/soc/faculty/"
-    },
-    {
-      "name": "Filippo Trevisan",
-      "title": "Associate Professor",
-      "school": "SOC",
-      "department": "Public Communication",
-      "email": "trevisan@american.edu",
-      "phone": "(202) 885-6930",
-      "au_profile_url": "https://www.american.edu/soc/faculty/trevisan.cfm",
       "_worksfor_raw": "SOC | Public Communication",
       "_source_page": "https://www.american.edu/soc/faculty/"
     },
@@ -8409,17 +7983,6 @@
       "au_profile_url": "https://www.american.edu/soc/faculty/sherriw.cfm",
       "_worksfor_raw": "SOC | Journalism",
       "_source_page": "https://www.american.edu/soc/faculty/"
-    },
-    {
-      "name": "Golnar Abedin",
-      "title": "Senior Professorial Lecturer",
-      "school": "SOE",
-      "department": "City Teaching Alliance",
-      "email": "abedin@american.edu",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/baker/faculty/abedin.cfm",
-      "_worksfor_raw": "BSE | City Teaching Alliance",
-      "_source_page": "https://www.american.edu/baker/faculty/"
     },
     {
       "name": "Alida Anderson",
@@ -8466,19 +8029,8 @@
       "_source_page": "https://www.american.edu/baker/faculty/"
     },
     {
-      "name": "Simone Davison",
-      "title": "Professorial Lecturer",
-      "school": "SOE",
-      "department": "City Teaching Alliance",
-      "email": "sdavison@american.edu",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/baker/faculty/sdavison.cfm",
-      "_worksfor_raw": "SOE | City Teaching Alliance",
-      "_source_page": "https://www.american.edu/baker/faculty/"
-    },
-    {
       "name": "Amaarah DeCuir",
-      "title": "Senior Professorial Lecturer",
+      "title": "Associate Professor",
       "school": "SOE",
       "department": "Online Partner Programs (OLP)",
       "email": "adecuir@american.edu",
@@ -8489,18 +8041,18 @@
     },
     {
       "name": "Gillian DiMuzio",
-      "title": "Professorial Lecturer",
+      "title": "Adjunct Instructor",
       "school": "SOE",
-      "department": "City Teaching Alliance",
+      "department": "Other Operations and Administration",
       "email": "dimuzio@american.edu",
       "phone": "",
       "au_profile_url": "https://www.american.edu/baker/faculty/dimuzio.cfm",
-      "_worksfor_raw": "BSE | City Teaching Alliance",
+      "_worksfor_raw": "BSE | Other Operations and Administration",
       "_source_page": "https://www.american.edu/baker/faculty/"
     },
     {
       "name": "Antonio Ellis",
-      "title": "Senior Professorial Lecturer and Director of the Institute on Education Equity and Justice",
+      "title": "Associate Professor",
       "school": "SOE",
       "department": "Online Partner Programs (OLP)",
       "email": "aellis@american.edu",
@@ -8544,13 +8096,13 @@
     },
     {
       "name": "Kecia Hayes",
-      "title": "Senior Professorial Lecturer",
+      "title": "Adjunct Professorial Lecturer",
       "school": "SOE",
-      "department": "Online Partner Programs (OLP)",
+      "department": "Other Operations and Administration",
       "email": "khayes@american.edu",
       "phone": "",
       "au_profile_url": "https://www.american.edu/baker/faculty/khayes.cfm",
-      "_worksfor_raw": "BSE | Online Partner Programs (OLP)",
+      "_worksfor_raw": "BSE | Other Operations and Administration",
       "_source_page": "https://www.american.edu/baker/faculty/"
     },
     {
@@ -8565,6 +8117,17 @@
       "_source_page": "https://www.american.edu/baker/faculty/"
     },
     {
+      "name": "Rodney Hopson",
+      "title": "Professor",
+      "school": "SOE",
+      "department": "General Academics & Research",
+      "email": "rhopson@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/baker/faculty/rhopson.cfm",
+      "_worksfor_raw": "BSE | General Academics & Research",
+      "_source_page": "https://www.american.edu/baker/faculty/"
+    },
+    {
       "name": "William N. Thomas IV",
       "title": "Director of EdD Program & Professorial Lecturer",
       "school": "SOE",
@@ -8572,23 +8135,12 @@
       "email": "wthomas@american.edu",
       "phone": "(202) 885-8254",
       "au_profile_url": "https://www.american.edu/baker/faculty/wthomas.cfm",
-      "_worksfor_raw": "SOE | Online Partner Programs (OLP)",
-      "_source_page": "https://www.american.edu/baker/faculty/"
-    },
-    {
-      "name": "Reuben Jacobson",
-      "title": "Director of the Education Policy and Leadership Program & Hurst Sr. Professorial Lecturer",
-      "school": "SOE",
-      "department": "Online Partner Programs (OLP)",
-      "email": "reubenj@american.edu",
-      "phone": "(202) 885-3786",
-      "au_profile_url": "https://www.american.edu/baker/faculty/reubenj.cfm",
       "_worksfor_raw": "BSE | Online Partner Programs (OLP)",
       "_source_page": "https://www.american.edu/baker/faculty/"
     },
     {
       "name": "Ocheze Joseph",
-      "title": "Director of Undergraduate Programs, Teacher Educ and Sr Professorial Lecturer",
+      "title": "Director of Undergraduate Teacher Education and Hurst Senior Professorial Lecturer",
       "school": "SOE",
       "department": "General Academics & Research",
       "email": "ojoseph@american.edu",
@@ -8675,17 +8227,6 @@
       "_source_page": "https://www.american.edu/baker/faculty/"
     },
     {
-      "name": "Moya Malcolm",
-      "title": "Postdoctoral Fellow",
-      "school": "SOE",
-      "department": "Online Partner Programs (OLP)",
-      "email": "mmalcolm@american.edu",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/baker/faculty/mmalcolm.cfm",
-      "_worksfor_raw": "BSE | Online Partner Programs (OLP)",
-      "_source_page": "https://www.american.edu/baker/faculty/"
-    },
-    {
       "name": "Brian McGowan",
       "title": "Professor",
       "school": "SOE",
@@ -8697,36 +8238,14 @@
       "_source_page": "https://www.american.edu/baker/faculty/"
     },
     {
-      "name": "Sarah McMenamin",
-      "title": "Professorial Lecturer",
-      "school": "SOE",
-      "department": "",
-      "email": "mcmenami@american.edu",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/baker/faculty/mcmenami.cfm",
-      "_worksfor_raw": "SOE - School of Education",
-      "_source_page": "https://www.american.edu/baker/faculty/"
-    },
-    {
       "name": "Cynthia Miller-Idriss",
-      "title": "Professor, School of Public Affairs and School of Education",
+      "title": "Professor, School of Public Affairs and Baker School of Education",
       "school": "SOE",
       "department": "",
       "email": "",
       "phone": "(202) 885-3740",
-      "au_profile_url": "https://www.american.edu/spa/faculty/cynthia.cfm",
+      "au_profile_url": "https://www.american.edu/baker/faculty/cynthia.cfm",
       "_worksfor_raw": "",
-      "_source_page": "https://www.american.edu/baker/faculty/"
-    },
-    {
-      "name": "Terence Ngwa",
-      "title": "Senior Professorial Lecturer",
-      "school": "SOE",
-      "department": "General Academics & Research",
-      "email": "ngwa@american.edu",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/baker/faculty/ngwa.cfm",
-      "_worksfor_raw": "BSE | General Academics & Research",
       "_source_page": "https://www.american.edu/baker/faculty/"
     },
     {
@@ -8851,17 +8370,6 @@
       "_source_page": "https://www.american.edu/baker/faculty/"
     },
     {
-      "name": "Alexes Terry",
-      "title": "Senior Professorial Lecturer",
-      "school": "SOE",
-      "department": "City Teaching Alliance",
-      "email": "aterry@american.edu",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/baker/faculty/aterry.cfm",
-      "_worksfor_raw": "SOE | City Teaching Alliance",
-      "_source_page": "https://www.american.edu/baker/faculty/"
-    },
-    {
       "name": "Vivian Vasquez",
       "title": "Distinguished Professor",
       "school": "SOE",
@@ -8869,7 +8377,7 @@
       "email": "vvasque@american.edu",
       "phone": "",
       "au_profile_url": "https://www.american.edu/baker/faculty/vvasque.cfm",
-      "_worksfor_raw": "SOE | General Academics & Research",
+      "_worksfor_raw": "BSE | General Academics & Research",
       "_source_page": "https://www.american.edu/baker/faculty/"
     },
     {
@@ -8880,7 +8388,7 @@
       "email": "vassallo@american.edu",
       "phone": "(202) 885-3048",
       "au_profile_url": "https://www.american.edu/baker/faculty/vassallo.cfm",
-      "_worksfor_raw": "SOE | General Academics & Research",
+      "_worksfor_raw": "BSE | General Academics & Research",
       "_source_page": "https://www.american.edu/baker/faculty/"
     },
     {
@@ -8891,7 +8399,7 @@
       "email": "warmbrodt@american.edu",
       "phone": "",
       "au_profile_url": "https://www.american.edu/baker/faculty/warmbrodt.cfm",
-      "_worksfor_raw": "SOE | City Teaching Alliance",
+      "_worksfor_raw": "BSE | City Teaching Alliance",
       "_source_page": "https://www.american.edu/baker/faculty/"
     },
     {
@@ -8924,7 +8432,7 @@
       "email": "wendel@american.edu",
       "phone": "",
       "au_profile_url": "https://www.american.edu/baker/faculty/wendel.cfm",
-      "_worksfor_raw": "SOE | City Teaching Alliance",
+      "_worksfor_raw": "BSE | City Teaching Alliance",
       "_source_page": "https://www.american.edu/baker/faculty/"
     },
     {
@@ -8946,7 +8454,7 @@
       "email": "wrightc@american.edu",
       "phone": "",
       "au_profile_url": "https://www.american.edu/baker/faculty/wrightc.cfm",
-      "_worksfor_raw": "SOE | General Academics & Research",
+      "_worksfor_raw": "BSE | General Academics & Research",
       "_source_page": "https://www.american.edu/baker/faculty/"
     },
     {
@@ -8957,7 +8465,7 @@
       "email": "yanisko@american.edu",
       "phone": "",
       "au_profile_url": "https://www.american.edu/baker/faculty/yanisko.cfm",
-      "_worksfor_raw": "SOE | City Teaching Alliance",
+      "_worksfor_raw": "BSE | City Teaching Alliance",
       "_source_page": "https://www.american.edu/baker/faculty/"
     },
     {
@@ -8984,7 +8492,7 @@
     },
     {
       "name": "Lynn Addington",
-      "title": "Professor",
+      "title": "Distinguished Professor",
       "school": "SPA",
       "department": "Justice, Law & Criminology",
       "email": "adding@american.edu",
@@ -9017,7 +8525,7 @@
     },
     {
       "name": "Bryan Arva",
-      "title": "Professorial Lecturer",
+      "title": "Senior Professorial Lecturer",
       "school": "SPA",
       "department": "Justice, Law & Criminology",
       "email": "arva@american.edu",
@@ -9148,6 +8656,17 @@
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
     {
+      "name": "Michael Becker",
+      "title": "Senior Researcher",
+      "school": "SPA",
+      "department": "PERIL Institute",
+      "email": "mhbecker@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/spa/faculty/mhbecker.cfm",
+      "_worksfor_raw": "SPA | PERIL Institute",
+      "_source_page": "https://www.american.edu/spa/faculty/"
+    },
+    {
       "name": "Eric Beinhart",
       "title": "Adjunct Instructor",
       "school": "SPA",
@@ -9159,17 +8678,6 @@
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
     {
-      "name": "Andrew Bennett",
-      "title": "Adjunct Professorial Lecturer",
-      "school": "SPA",
-      "department": "Key Executive Education IRC Programs",
-      "email": "andrewb@american.edu",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/spa/faculty/andrewb.cfm",
-      "_worksfor_raw": "SPA | Key Executive Education IRC Programs",
-      "_source_page": "https://www.american.edu/spa/faculty/"
-    },
-    {
       "name": "Richard Bennett",
       "title": "Prof Emeritus",
       "school": "SPA",
@@ -9178,6 +8686,17 @@
       "phone": "(202) 885-2956",
       "au_profile_url": "https://www.american.edu/profiles/faculty/bennett.cfm",
       "_worksfor_raw": "",
+      "_source_page": "https://www.american.edu/spa/faculty/"
+    },
+    {
+      "name": "Andrew Bennett",
+      "title": "Adjunct Professorial Lecturer",
+      "school": "SPA",
+      "department": "Key Executive Education IRC Programs",
+      "email": "andrewb@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/spa/faculty/andrewb.cfm",
+      "_worksfor_raw": "SPA | Key Executive Education IRC Programs",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
     {
@@ -9734,11 +9253,11 @@
       "name": "Ron Elving",
       "title": "Executive-in-Residence Emeritus",
       "school": "SPA",
-      "department": "Finance & Personnel Administration",
+      "department": "Government",
       "email": "elving@american.edu",
       "phone": "",
       "au_profile_url": "https://www.american.edu/spa/faculty/elving.cfm",
-      "_worksfor_raw": "SPA | Finance & Personnel Administration",
+      "_worksfor_raw": "SPA | Government",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
     {
@@ -10029,7 +9548,7 @@
     },
     {
       "name": "Sharan Grewal",
-      "title": "Assistant Professor",
+      "title": "Associate Professor",
       "school": "SPA",
       "department": "Government",
       "email": "sgrewal@american.edu",
@@ -10040,7 +9559,7 @@
     },
     {
       "name": "Claire Griggs",
-      "title": "Senior Professorial Lecturer",
+      "title": "Associate Dean for Undergraduate Education",
       "school": "SPA",
       "department": "Justice, Law & Criminology",
       "email": "cgriggs@american.edu",
@@ -10083,17 +9602,6 @@
       "_source_page": "https://www.american.edu/baker/faculty/"
     },
     {
-      "name": "Betsy Fischer Martin",
-      "title": "Executive Director, Women & Politics Institute and Executive in Residence",
-      "school": "SPA",
-      "department": "Government",
-      "email": "betsy.fischermartin@american.edu",
-      "phone": "(202) 885-6149",
-      "au_profile_url": "https://www.american.edu/spa/faculty/fischerm.cfm",
-      "_worksfor_raw": "SPA | Government",
-      "_source_page": "https://www.american.edu/spa/faculty/"
-    },
-    {
       "name": "Taryn Morrissey",
       "title": "Professor, DPAP Chair, and Associate Dean of Research",
       "school": "SPA",
@@ -10105,19 +9613,19 @@
       "_source_page": "https://www.american.edu/baker/faculty/"
     },
     {
-      "name": "Joe Young",
-      "title": "Adjunct Professor",
-      "school": "SPA",
-      "department": "Justice, Law & Criminology",
-      "email": "jyoung@american.edu",
-      "phone": "(202) 885-2618",
-      "au_profile_url": "https://www.american.edu/spa/faculty/jyoung.cfm",
-      "_worksfor_raw": "SPA | Justice, Law & Criminology",
-      "_source_page": "https://www.american.edu/sis/faculty/"
+      "name": "Moya Malcolm",
+      "title": "Interim Director of the Center for Postsecondary Readiness and Success (CPRS)",
+      "school": "UEAS",
+      "department": "AU Experience",
+      "email": "mmalcolm@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/baker/faculty/mmalcolm.cfm",
+      "_worksfor_raw": "UEAS | AU Experience",
+      "_source_page": "https://www.american.edu/baker/faculty/"
     },
     {
       "name": "Khelani Clay",
-      "title": "Assistant Law Librarian",
+      "title": "Associate Law Librarian",
       "school": "WCL",
       "department": "Library",
       "email": "kclay@wcl.american.edu",
@@ -10125,28 +9633,6 @@
       "au_profile_url": "https://www.american.edu/wcl/faculty/kclay.cfm",
       "_worksfor_raw": "WCL | Library",
       "_source_page": "https://www.american.edu/spa/faculty/"
-    }
-  ],
-  "_deduped": [
-    {
-      "removed": "https://www.american.edu/cas/faculty/kyaw.cfm",
-      "kept": "https://www.american.edu/cas/faculty/tkyaw.cfm",
-      "reason": "same person listed twice in AU directory (placeholder vs named account); verified 2026-07-11"
-    },
-    {
-      "removed": "https://www.american.edu/cas/faculty/mukhopad.cfm",
-      "kept": "https://www.american.edu/cas/faculty/agnitm.cfm",
-      "reason": "same person listed twice in AU directory (placeholder vs named account); verified 2026-07-11"
-    },
-    {
-      "removed": "https://www.american.edu/cas/faculty/jn6911a.cfm",
-      "kept": "https://www.american.edu/cas/faculty/neumanj.cfm",
-      "reason": "same person listed twice in AU directory (placeholder vs named account); verified 2026-07-11"
-    },
-    {
-      "removed": "https://www.american.edu/cas/faculty/ak9747a.cfm",
-      "kept": "https://www.american.edu/cas/faculty/afkaplan.cfm",
-      "reason": "same person listed twice in AU directory (placeholder vs named account); verified 2026-07-11"
     }
   ]
 }
