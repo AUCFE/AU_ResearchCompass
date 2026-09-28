@@ -2,7 +2,6 @@
   "_source": "Scraped from american.edu per-school faculty directories (scrape-roster.py)",
   "_scraped_at": "2026-09-28",
   "_schools_included": [
-    "Baker",
     "CAS",
     "Kogod",
     "Library",
@@ -11,7 +10,6 @@
     "SOC",
     "SOE",
     "SPA",
-    "UEAS",
     "WCL"
   ],
   "_known_gaps": [
@@ -20,39 +18,6 @@
   ],
   "_total": 874,
   "faculty": [
-    {
-      "name": "Simone Davison",
-      "title": "Professorial Lecturer",
-      "school": "Baker",
-      "department": "City Teaching Alliance",
-      "email": "sdavison@american.edu",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/baker/faculty/sdavison.cfm",
-      "_worksfor_raw": "Baker | City Teaching Alliance",
-      "_source_page": "https://www.american.edu/baker/faculty/"
-    },
-    {
-      "name": "Sarah McMenamin",
-      "title": "Professorial Lecturer",
-      "school": "Baker",
-      "department": "Baker School of Education",
-      "email": "mcmenami@american.edu",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/baker/faculty/mcmenami.cfm",
-      "_worksfor_raw": "Baker - Baker School of Education",
-      "_source_page": "https://www.american.edu/baker/faculty/"
-    },
-    {
-      "name": "Alexes Terry",
-      "title": "Senior Professorial Lecturer",
-      "school": "Baker",
-      "department": "City Teaching Alliance",
-      "email": "aterry@american.edu",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/baker/faculty/aterry.cfm",
-      "_worksfor_raw": "Baker | City Teaching Alliance",
-      "_source_page": "https://www.american.edu/baker/faculty/"
-    },
     {
       "name": "Ayesha Abdullah",
       "title": "Bishop Hamilton Lecturer in Residence",
@@ -1785,9 +1750,9 @@
       "title": "Lab Technician",
       "school": "CAS",
       "department": "Biology",
-      "email": "oe2926a@american.edu",
+      "email": "oreoluwa@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/profiles/staff/oe2926a.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/staff/oreoluwa.cfm",
       "_worksfor_raw": "CAS | Biology",
       "_source_page": "https://www.american.edu/cas/faculty/faculty-e.cfm"
     },
@@ -1796,9 +1761,9 @@
       "title": "Lab Technician",
       "school": "CAS",
       "department": "Biology",
-      "email": "oreoluwa@american.edu",
+      "email": "oe2926a@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/profiles/staff/oreoluwa.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/staff/oe2926a.cfm",
       "_worksfor_raw": "CAS | Biology",
       "_source_page": "https://www.american.edu/cas/faculty/faculty-e.cfm"
     },
@@ -8029,6 +7994,17 @@
       "_source_page": "https://www.american.edu/baker/faculty/"
     },
     {
+      "name": "Simone Davison",
+      "title": "Professorial Lecturer",
+      "school": "SOE",
+      "department": "City Teaching Alliance",
+      "email": "sdavison@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/baker/faculty/sdavison.cfm",
+      "_worksfor_raw": "Baker | City Teaching Alliance",
+      "_source_page": "https://www.american.edu/baker/faculty/"
+    },
+    {
       "name": "Amaarah DeCuir",
       "title": "Associate Professor",
       "school": "SOE",
@@ -8227,6 +8203,17 @@
       "_source_page": "https://www.american.edu/baker/faculty/"
     },
     {
+      "name": "Moya Malcolm",
+      "title": "Interim Director of the Center for Postsecondary Readiness and Success (CPRS)",
+      "school": "SOE",
+      "department": "AU Experience",
+      "email": "mmalcolm@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/baker/faculty/mmalcolm.cfm",
+      "_worksfor_raw": "UEAS | AU Experience",
+      "_source_page": "https://www.american.edu/baker/faculty/"
+    },
+    {
       "name": "Brian McGowan",
       "title": "Professor",
       "school": "SOE",
@@ -8235,6 +8222,17 @@
       "phone": "(202) 885-2809",
       "au_profile_url": "https://www.american.edu/baker/faculty/bmcgowan.cfm",
       "_worksfor_raw": "BSE | Online Partner Programs (OLP)",
+      "_source_page": "https://www.american.edu/baker/faculty/"
+    },
+    {
+      "name": "Sarah McMenamin",
+      "title": "Professorial Lecturer",
+      "school": "SOE",
+      "department": "Baker School of Education",
+      "email": "mcmenami@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/baker/faculty/mcmenami.cfm",
+      "_worksfor_raw": "Baker - Baker School of Education",
       "_source_page": "https://www.american.edu/baker/faculty/"
     },
     {
@@ -8367,6 +8365,17 @@
       "phone": "(202) 885-3762",
       "au_profile_url": "https://www.american.edu/baker/faculty/steele.cfm",
       "_worksfor_raw": "BSE | General Academics & Research",
+      "_source_page": "https://www.american.edu/baker/faculty/"
+    },
+    {
+      "name": "Alexes Terry",
+      "title": "Senior Professorial Lecturer",
+      "school": "SOE",
+      "department": "City Teaching Alliance",
+      "email": "aterry@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/baker/faculty/aterry.cfm",
+      "_worksfor_raw": "Baker | City Teaching Alliance",
       "_source_page": "https://www.american.edu/baker/faculty/"
     },
     {
@@ -9610,17 +9619,6 @@
       "phone": "(202) 885-6323",
       "au_profile_url": "https://www.american.edu/spa/faculty/morrisse.cfm",
       "_worksfor_raw": "SPA | Public Administration",
-      "_source_page": "https://www.american.edu/baker/faculty/"
-    },
-    {
-      "name": "Moya Malcolm",
-      "title": "Interim Director of the Center for Postsecondary Readiness and Success (CPRS)",
-      "school": "UEAS",
-      "department": "AU Experience",
-      "email": "mmalcolm@american.edu",
-      "phone": "",
-      "au_profile_url": "https://www.american.edu/baker/faculty/mmalcolm.cfm",
-      "_worksfor_raw": "UEAS | AU Experience",
       "_source_page": "https://www.american.edu/baker/faculty/"
     },
     {
