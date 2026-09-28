@@ -1,5 +1,5 @@
 // ============================================================
-// Research Compass — landing page interactions
+// AU Research Compass — landing page interactions
 // Cursor-reactive hero glow, scroll-triggered reveals, and the
 // per-card particle motif (same particle layout, recolored on
 // hover — rest/hover are two pre-drawn canvases crossfaded via CSS).
