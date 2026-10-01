@@ -1,6 +1,6 @@
 {
   "_source": "Scraped from american.edu per-school faculty directories (scrape-roster.py)",
-  "_scraped_at": "2026-09-28",
+  "_scraped_at": "2026-10-01",
   "_schools_included": [
     "CAS",
     "Kogod",
@@ -12,11 +12,8 @@
     "SPA",
     "WCL"
   ],
-  "_known_gaps": [
-    "WCL — wcl.american.edu returning 404s site-wide as of 2026-07; re-run when site recovers",
-    "CAS/faculty-m.cfm: The read operation timed out — re-run to retry this page"
-  ],
-  "_total": 874,
+  "_known_gaps": [],
+  "_total": 973,
   "faculty": [
     {
       "name": "Ayesha Abdullah",
@@ -416,7 +413,7 @@
     },
     {
       "name": "Maria Barouti",
-      "title": "Director of the Online MS in Data Science Program and Senior Professorial Lecturer",
+      "title": "Director of the Online MS in Data Science Program and Hurst Senior Professorial Lecturer",
       "school": "CAS",
       "department": "Online Partner Programs (OLP)",
       "email": "barouti@american.edu",
@@ -1750,9 +1747,9 @@
       "title": "Lab Technician",
       "school": "CAS",
       "department": "Biology",
-      "email": "oreoluwa@american.edu",
+      "email": "oe2926a@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/profiles/staff/oreoluwa.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/staff/oe2926a.cfm",
       "_worksfor_raw": "CAS | Biology",
       "_source_page": "https://www.american.edu/cas/faculty/faculty-e.cfm"
     },
@@ -1761,9 +1758,9 @@
       "title": "Lab Technician",
       "school": "CAS",
       "department": "Biology",
-      "email": "oe2926a@american.edu",
+      "email": "oreoluwa@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/profiles/staff/oe2926a.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/staff/oreoluwa.cfm",
       "_worksfor_raw": "CAS | Biology",
       "_source_page": "https://www.american.edu/cas/faculty/faculty-e.cfm"
     },
@@ -3088,6 +3085,17 @@
       "_source_page": "https://www.american.edu/cas/faculty/faculty-k.cfm"
     },
     {
+      "name": "Patricia Montilla Keeling",
+      "title": "Instructor",
+      "school": "CAS",
+      "department": "World Languages and Cultures",
+      "email": "pmk@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/cas/faculty/pmk.cfm",
+      "_worksfor_raw": "CAS | World Languages and Cultures",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
+    },
+    {
       "name": "David Keplinger",
       "title": "Professor",
       "school": "CAS",
@@ -3462,6 +3470,248 @@
       "_source_page": "https://www.american.edu/cas/faculty/faculty-l.cfm"
     },
     {
+      "name": "Stephen MacAvoy",
+      "title": "Professor",
+      "school": "CAS",
+      "department": "Environmental Science",
+      "email": "macavoy@american.edu",
+      "phone": "(202) 885-3003",
+      "au_profile_url": "https://www.american.edu/cas/faculty/macavoy.cfm",
+      "_worksfor_raw": "CAS | Environmental Science",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
+    },
+    {
+      "name": "Manissa Maharawal",
+      "title": "Assistant Professor",
+      "school": "CAS",
+      "department": "Anthropology",
+      "email": "manissam@american.edu",
+      "phone": "(202) 885-6641",
+      "au_profile_url": "https://www.american.edu/cas/faculty/manissam.cfm",
+      "_worksfor_raw": "CAS | Anthropology",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
+    },
+    {
+      "name": "Betty Malloy",
+      "title": "Professor and Director of the Data Science Programs",
+      "school": "CAS",
+      "department": "Math and Statistics",
+      "email": "malloy@american.edu",
+      "phone": "(202) 885-3614",
+      "au_profile_url": "https://www.american.edu/cas/faculty/malloy.cfm",
+      "_worksfor_raw": "CAS | Math and Statistics",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
+    },
+    {
+      "name": "Shoji Malone",
+      "title": "Professorial Lecturer",
+      "school": "CAS",
+      "department": "Critical RGC Studies",
+      "email": "smalone@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/cas/faculty/smalone.cfm",
+      "_worksfor_raw": "CAS | Critical RGC Studies",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
+    },
+    {
+      "name": "Elissa Margolin",
+      "title": "Professorial Lecturer",
+      "school": "CAS",
+      "department": "Health Studies",
+      "email": "margolin@american.edu",
+      "phone": "(202) 885-6274",
+      "au_profile_url": "https://www.american.edu/cas/faculty/margolin.cfm",
+      "_worksfor_raw": "CAS - Health Studies",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
+    },
+    {
+      "name": "Susana Marin",
+      "title": "Professorial Lecturer",
+      "school": "CAS",
+      "department": "World Languages and Cultures",
+      "email": "marin@american.edu",
+      "phone": "(202) 885-6920",
+      "au_profile_url": "https://www.american.edu/cas/faculty/marin.cfm",
+      "_worksfor_raw": "CAS - World Languages and Cultures",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
+    },
+    {
+      "name": "Fahimeh Martami",
+      "title": "Postdoctoral Fellow",
+      "school": "CAS",
+      "department": "Health Studies",
+      "email": "fmartami@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/cas/faculty/fmartami.cfm",
+      "_worksfor_raw": "CAS | Health Studies",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
+    },
+    {
+      "name": "Nick Martin",
+      "title": "Theatre Director In Residence",
+      "school": "CAS",
+      "department": "Performing Arts",
+      "email": "martin@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/cas/faculty/martin.cfm",
+      "_worksfor_raw": "CAS | Performing Arts",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
+    },
+    {
+      "name": "Juliana Martinez",
+      "title": "Associate Professor",
+      "school": "CAS",
+      "department": "World Languages and Cultures",
+      "email": "jmartinez@american.edu",
+      "phone": "(202) 885-2586",
+      "au_profile_url": "https://www.american.edu/cas/faculty/jmartinez.cfm",
+      "_worksfor_raw": "CAS | World Languages and Cultures",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
+    },
+    {
+      "name": "Sarah Marvar",
+      "title": "Sr Professorial Lecturer",
+      "school": "CAS",
+      "department": "Biology",
+      "email": "sknight@american.edu",
+      "phone": "(202) 885-6538",
+      "au_profile_url": "https://www.american.edu/cas/faculty/sknight.cfm",
+      "_worksfor_raw": "CAS - Biology",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
+    },
+    {
+      "name": "Gabriel Mathy",
+      "title": "Associate Professor",
+      "school": "CAS",
+      "department": "Economics",
+      "email": "mathy@american.edu",
+      "phone": "(202) 885-3708",
+      "au_profile_url": "https://www.american.edu/cas/faculty/mathy.cfm",
+      "_worksfor_raw": "CAS | Economics",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
+    },
+    {
+      "name": "Jocelyn McCarthy",
+      "title": "Senior Professorial Lecturer",
+      "school": "CAS",
+      "department": "Literature",
+      "email": "jocelyn.mccarthy@american.edu",
+      "phone": "(202) 885-8942",
+      "au_profile_url": "https://www.american.edu/cas/faculty/mccarthy.cfm",
+      "_worksfor_raw": "CAS | Literature",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
+    },
+    {
+      "name": "Bruce McCollum",
+      "title": "Physicist In Residence",
+      "school": "CAS",
+      "department": "Other Operations and Administration",
+      "email": "mccollum@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/cas/faculty/mccollum.cfm",
+      "_worksfor_raw": "CAS | Other Operations and Administration",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
+    },
+    {
+      "name": "Heather McDonald",
+      "title": "Sr Professorial Lecturer",
+      "school": "CAS",
+      "department": "Literature",
+      "email": "heather.mcdonald@american.edu",
+      "phone": "(202) 885-8930",
+      "au_profile_url": "https://www.american.edu/cas/faculty/hmcdonal.cfm",
+      "_worksfor_raw": "CAS - Literature",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
+    },
+    {
+      "name": "Allison McMahon",
+      "title": "STEM Educator-in-Residence",
+      "school": "CAS",
+      "department": "Physics",
+      "email": "mcmahon@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/cas/faculty/mcmahon.cfm",
+      "_worksfor_raw": "CAS | Physics",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
+    },
+    {
+      "name": "Marc Medwin",
+      "title": "Senior Professorial Lecturer",
+      "school": "CAS",
+      "department": "Performing Arts",
+      "email": "medwin@american.edu",
+      "phone": "(202) 885-3446",
+      "au_profile_url": "https://www.american.edu/cas/faculty/medwin.cfm",
+      "_worksfor_raw": "CAS | Performing Arts",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
+    },
+    {
+      "name": "Nimai Mehta",
+      "title": "Hurst Senior Professorial Lecturer",
+      "school": "CAS",
+      "department": "Math and Statistics",
+      "email": "",
+      "phone": "(202) 885-3017",
+      "au_profile_url": "https://www.american.edu/cas/faculty/mehta.cfm",
+      "_worksfor_raw": "CAS | Math and Statistics",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
+    },
+    {
+      "name": "Jesse Meiller",
+      "title": "Hurst Sr Prof Lecturer",
+      "school": "CAS",
+      "department": "Environmental Science",
+      "email": "meiller@american.edu",
+      "phone": "(202) 885-1780",
+      "au_profile_url": "https://www.american.edu/cas/faculty/meiller.cfm",
+      "_worksfor_raw": "CAS - Environmental Science",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
+    },
+    {
+      "name": "Carl Menninger",
+      "title": "Assistant Professor",
+      "school": "CAS",
+      "department": "Performing Arts",
+      "email": "menninge@american.edu",
+      "phone": "(202) 885-3414",
+      "au_profile_url": "https://www.american.edu/cas/faculty/menninge.cfm",
+      "_worksfor_raw": "CAS | Performing Arts",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
+    },
+    {
+      "name": "JP Merz",
+      "title": "Professorial Lecturer",
+      "school": "CAS",
+      "department": "Performing Arts",
+      "email": "merz@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/cas/faculty/merz.cfm",
+      "_worksfor_raw": "CAS | Performing Arts",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
+    },
+    {
+      "name": "Jeffrey Romero Middents",
+      "title": "Associate Professor",
+      "school": "CAS",
+      "department": "Literature",
+      "email": "middents@american.edu",
+      "phone": "(202) 885-2979",
+      "au_profile_url": "https://www.american.edu/cas/faculty/middents.cfm",
+      "_worksfor_raw": "CAS | Literature",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
+    },
+    {
+      "name": "Jaime Miller",
+      "title": "Hurst Senior Professorial Lecturer",
+      "school": "CAS",
+      "department": "Math and Statistics",
+      "email": "jmiller@american.edu",
+      "phone": "(202) 885-3685",
+      "au_profile_url": "https://www.american.edu/cas/faculty/jmiller.cfm",
+      "_worksfor_raw": "CAS | Math and Statistics",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
+    },
+    {
       "name": "Gemma Sune Minguella",
       "title": "Hurst Senior Professorial Lecturer",
       "school": "CAS",
@@ -3473,6 +3723,50 @@
       "_source_page": "https://www.american.edu/cas/faculty/faculty-s.cfm"
     },
     {
+      "name": "Manish Mishra",
+      "title": "Sr Adj Prof Lecturer",
+      "school": "CAS",
+      "department": "",
+      "email": "mishra@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/cas/faculty/mishra.cfm",
+      "_worksfor_raw": "",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
+    },
+    {
+      "name": "Chris Mitchell",
+      "title": "Senior Professorial Lecturer",
+      "school": "CAS",
+      "department": "Math and Statistics",
+      "email": "mitchell@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/cas/faculty/mitchell.cfm",
+      "_worksfor_raw": "CAS | Math and Statistics",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
+    },
+    {
+      "name": "Bashir Mobasher",
+      "title": "Scholar In Residence",
+      "school": "CAS",
+      "department": "Sociology",
+      "email": "mobasher@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/cas/faculty/mobasher.cfm",
+      "_worksfor_raw": "CAS | Sociology",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
+    },
+    {
+      "name": "Amin Mohseni-Cheraghlou",
+      "title": "Senior Professorial Lecturer",
+      "school": "CAS",
+      "department": "Online Partner Programs (OLP)",
+      "email": "amohseni@american.edu",
+      "phone": "(202) 885-3752",
+      "au_profile_url": "https://www.american.edu/cas/faculty/amohseni.cfm",
+      "_worksfor_raw": "CAS | Online Partner Programs (OLP)",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
+    },
+    {
       "name": "Juan Antonio Montecino",
       "title": "Assistant Professor",
       "school": "CAS",
@@ -3482,6 +3776,83 @@
       "au_profile_url": "https://www.american.edu/cas/faculty/Montecino.cfm",
       "_worksfor_raw": "CAS | Economics",
       "_source_page": "https://www.american.edu/cas/faculty/"
+    },
+    {
+      "name": "Chemi Montes",
+      "title": "Associate Professor",
+      "school": "CAS",
+      "department": "Art",
+      "email": "cmontes@american.edu",
+      "phone": "(202) 885-1670",
+      "au_profile_url": "https://www.american.edu/cas/faculty/cmontes.cfm",
+      "_worksfor_raw": "CAS | Art",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
+    },
+    {
+      "name": "Rita Morandi",
+      "title": "Professorial Lecturer",
+      "school": "CAS",
+      "department": "World Languages and Cultures",
+      "email": "morandi@american.edu",
+      "phone": "(202) 885-2389",
+      "au_profile_url": "https://www.american.edu/cas/faculty/morandi.cfm",
+      "_worksfor_raw": "CAS | World Languages and Cultures",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
+    },
+    {
+      "name": "Crystal Moten",
+      "title": "Public Historian-in-Residence",
+      "school": "CAS",
+      "department": "History",
+      "email": "cmoten@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/cas/faculty/cmoten.cfm",
+      "_worksfor_raw": "CAS | History",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
+    },
+    {
+      "name": "Ahmad Mousavi",
+      "title": "Assistant Professor",
+      "school": "CAS",
+      "department": "Math and Statistics",
+      "email": "mousavi@american.edu",
+      "phone": "(202) 885-5950",
+      "au_profile_url": "https://www.american.edu/cas/faculty/mousavi.cfm",
+      "_worksfor_raw": "CAS | Math and Statistics",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
+    },
+    {
+      "name": "Agnit Mukhopadhyay",
+      "title": "Research Asst Professor",
+      "school": "CAS",
+      "department": "Physics",
+      "email": "agnitm@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/cas/faculty/agnitm.cfm",
+      "_worksfor_raw": "CAS - Physics",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
+    },
+    {
+      "name": "Julia Murphy",
+      "title": "Professorial Lecturer",
+      "school": "CAS",
+      "department": "Literature",
+      "email": "jmurphy@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/cas/faculty/jmurphy.cfm",
+      "_worksfor_raw": "CAS - Literature",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
+    },
+    {
+      "name": "Danielle Mysliwiec",
+      "title": "Associate Professor",
+      "school": "CAS",
+      "department": "Art",
+      "email": "mysliwie@american.edu",
+      "phone": "(202) 885-6476",
+      "au_profile_url": "https://www.american.edu/cas/faculty/mysliwie.cfm",
+      "_worksfor_raw": "CAS | Art",
+      "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm"
     },
     {
       "name": "Erez Naaman",
@@ -6438,7 +6809,7 @@
       "department": "Peace, Human Rights & Cultural Relations",
       "email": "abunimer@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/sis/faculty/abunimer.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/abunimer.cfm",
       "_worksfor_raw": "SIS | Peace, Human Rights & Cultural Relations",
       "_source_page": "https://www.american.edu/sis/faculty/"
     },
@@ -6449,7 +6820,7 @@
       "department": "Global Inquiry",
       "email": "aacharya@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/sis/faculty/aacharya.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/aacharya.cfm",
       "_worksfor_raw": "SIS | Global Inquiry",
       "_source_page": "https://www.american.edu/sis/faculty/"
     },
@@ -6460,7 +6831,7 @@
       "department": "Global Inquiry",
       "email": "adcock@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/sis/faculty/adcock.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/adcock.cfm",
       "_worksfor_raw": "SIS | Global Inquiry",
       "_source_page": "https://www.american.edu/sis/faculty/"
     },
@@ -6471,7 +6842,7 @@
       "department": "Foreign Policy & Global Security",
       "email": "aftandil@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/sis/faculty/aftandil.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/aftandil.cfm",
       "_worksfor_raw": "SIS | Foreign Policy & Global Security",
       "_source_page": "https://www.american.edu/sis/faculty/"
     },
@@ -6482,7 +6853,7 @@
       "department": "Peace, Human Rights & Cultural Relations",
       "email": "akbar@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/sis/faculty/akbar.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/akbar.cfm",
       "_worksfor_raw": "SIS | Peace, Human Rights & Cultural Relations",
       "_source_page": "https://www.american.edu/sis/faculty/"
     },
@@ -6493,7 +6864,7 @@
       "department": "Foreign Policy & Global Security",
       "email": "atzili@american.edu",
       "phone": "(202) 885-1648",
-      "au_profile_url": "https://www.american.edu/sis/faculty/atzili.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/atzili.cfm",
       "_worksfor_raw": "SIS | Foreign Policy & Global Security",
       "_source_page": "https://www.american.edu/sis/faculty/"
     },
@@ -6515,7 +6886,7 @@
       "department": "Environment, Development & Health",
       "email": "bartilow@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/sis/faculty/bartilow.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/bartilow.cfm",
       "_worksfor_raw": "SIS | Environment, Development & Health",
       "_source_page": "https://www.american.edu/sis/faculty/"
     },
@@ -6548,7 +6919,7 @@
       "department": "Global Inquiry",
       "email": "boesenec@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/sis/faculty/boesenec.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/boesenec.cfm",
       "_worksfor_raw": "SIS | Global Inquiry",
       "_source_page": "https://www.american.edu/sis/faculty/"
     },
@@ -6570,7 +6941,7 @@
       "department": "Politics, Governance & Economics",
       "email": "brunel@american.edu",
       "phone": "(202) 885-1667",
-      "au_profile_url": "https://www.american.edu/sis/faculty/brunel.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/brunel.cfm",
       "_worksfor_raw": "SIS | Politics, Governance & Economics",
       "_source_page": "https://www.american.edu/sis/faculty/"
     },
@@ -6614,7 +6985,7 @@
       "department": "Peace, Human Rights & Cultural Relations",
       "email": "cchin@american.edu",
       "phone": "(202) 885-6365",
-      "au_profile_url": "https://www.american.edu/sis/faculty/cchin.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/cchin.cfm",
       "_worksfor_raw": "SIS | Peace, Human Rights & Cultural Relations",
       "_source_page": "https://www.american.edu/sis/faculty/"
     },
@@ -6669,7 +7040,7 @@
       "department": "Politics, Governance & Economics",
       "email": "cadavis@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/sis/faculty/cadavis.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/cadavis.cfm",
       "_worksfor_raw": "SIS | Politics, Governance & Economics",
       "_source_page": "https://www.american.edu/sis/faculty/"
     },
@@ -6757,7 +7128,7 @@
       "department": "Peace, Human Rights & Cultural Relations",
       "email": "awfontes@american.edu",
       "phone": "(202) 885-6704",
-      "au_profile_url": "https://www.american.edu/sis/faculty/awfontes.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/awfontes.cfm",
       "_worksfor_raw": "SIS | Peace, Human Rights & Cultural Relations",
       "_source_page": "https://www.american.edu/sis/faculty/"
     },
@@ -6790,7 +7161,7 @@
       "department": "Peace, Human Rights & Cultural Relations",
       "email": "caroleg@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/sis/faculty/caroleg.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/caroleg.cfm",
       "_worksfor_raw": "SIS | Peace, Human Rights & Cultural Relations",
       "_source_page": "https://www.american.edu/sis/faculty/"
     },
@@ -6867,7 +7238,7 @@
       "department": "Environment, Development & Health",
       "email": "shader@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/sis/faculty/shader.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/shader.cfm",
       "_worksfor_raw": "SIS | Environment, Development & Health",
       "_source_page": "https://www.american.edu/sis/faculty/"
     },
@@ -6878,7 +7249,7 @@
       "department": "Politics, Governance & Economics",
       "email": "hardig@american.edu",
       "phone": "(202) 885-1541",
-      "au_profile_url": "https://www.american.edu/sis/faculty/hardig.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/students/hardig.cfm",
       "_worksfor_raw": "SIS | Politics, Governance & Economics",
       "_source_page": "https://www.american.edu/sis/faculty/"
     },
@@ -6889,7 +7260,7 @@
       "department": "Politics, Governance & Economics",
       "email": "ahart@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/sis/faculty/ahart.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/ahart.cfm",
       "_worksfor_raw": "SIS | Politics, Governance & Economics",
       "_source_page": "https://www.american.edu/sis/faculty/"
     },
@@ -6977,7 +7348,7 @@
       "department": "Peace, Human Rights & Cultural Relations",
       "email": "jkelley@american.edu",
       "phone": "(202) 885-1558",
-      "au_profile_url": "https://www.american.edu/sis/faculty/jkelley.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/students/jkelley.cfm",
       "_worksfor_raw": "SIS | Peace, Human Rights & Cultural Relations",
       "_source_page": "https://www.american.edu/sis/faculty/"
     },
@@ -7032,7 +7403,7 @@
       "department": "Peace, Human Rights & Cultural Relations",
       "email": "kuraduse@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/sis/faculty/kuraduse.cfm",
+      "au_profile_url": "https://www.american.edu/baker/faculty/kuraduse.cfm",
       "_worksfor_raw": "SIS | Peace, Human Rights & Cultural Relations",
       "_source_page": "https://www.american.edu/sis/faculty/"
     },
@@ -7142,7 +7513,7 @@
       "department": "Accountability Research Center",
       "email": "",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/sis/faculty/nadelman.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/staff/nadelman.cfm",
       "_worksfor_raw": "SIS | Accountability Research Center",
       "_source_page": "https://www.american.edu/sis/faculty/"
     },
@@ -7153,7 +7524,7 @@
       "department": "Environment, Development & Health",
       "email": "simon.nicholson@american.edu",
       "phone": "(202) 885-1614",
-      "au_profile_url": "https://www.american.edu/sis/faculty/snichols.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/students/snichols.cfm",
       "_worksfor_raw": "SIS | Environment, Development & Health",
       "_source_page": "https://www.american.edu/sis/faculty/"
     },
@@ -7197,7 +7568,7 @@
       "department": "Global Inquiry",
       "email": "",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/sis/faculty/rancatoj.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/rancatoj.cfm",
       "_worksfor_raw": "SIS | Global Inquiry",
       "_source_page": "https://www.american.edu/sis/faculty/"
     },
@@ -7274,7 +7645,7 @@
       "department": "Peace, Human Rights & Cultural Relations",
       "email": "sajjad@american.edu",
       "phone": "(202) 885-6572",
-      "au_profile_url": "https://www.american.edu/sis/faculty/sajjad.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/students/sajjad.cfm",
       "_worksfor_raw": "SIS | Peace, Human Rights & Cultural Relations",
       "_source_page": "https://www.american.edu/sis/faculty/"
     },
@@ -7285,7 +7656,7 @@
       "department": "Foreign Policy & Global Security",
       "email": "dschneid@american.edu",
       "phone": "(202) 885-1687",
-      "au_profile_url": "https://www.american.edu/sis/faculty/dschneid.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/students/dschneid.cfm",
       "_worksfor_raw": "SIS | Foreign Policy & Global Security",
       "_source_page": "https://www.american.edu/sis/faculty/"
     },
@@ -7362,7 +7733,7 @@
       "department": "Peace, Human Rights & Cultural Relations",
       "email": "bsims@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/sis/faculty/bsims.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/bsims.cfm",
       "_worksfor_raw": "SIS | Peace, Human Rights & Cultural Relations",
       "_source_page": "https://www.american.edu/sis/faculty/"
     },
@@ -7439,7 +7810,7 @@
       "department": "Peace, Human Rights & Cultural Relations",
       "email": "atileva@american.edu",
       "phone": "(202) 885-6080",
-      "au_profile_url": "https://www.american.edu/sis/faculty/atileva.cfm",
+      "au_profile_url": "https://www.american.edu/cas/faculty/atileva.cfm",
       "_worksfor_raw": "SIS | Peace, Human Rights & Cultural Relations",
       "_source_page": "https://www.american.edu/sis/faculty/"
     },
@@ -7461,7 +7832,7 @@
       "department": "Politics, Governance & Economics",
       "email": "tuomi@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/sis/faculty/tuomi.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/students/tuomi.cfm",
       "_worksfor_raw": "SIS | Politics, Governance & Economics",
       "_source_page": "https://www.american.edu/sis/faculty/"
     },
@@ -7560,7 +7931,7 @@
       "department": "Public Communication",
       "email": "bhaskar@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/soc/faculty/bhaskar.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/bhaskar.cfm",
       "_worksfor_raw": "SOC | Public Communication",
       "_source_page": "https://www.american.edu/soc/faculty/"
     },
@@ -7571,7 +7942,7 @@
       "department": "Public Communication",
       "email": "borum@american.edu",
       "phone": "(202) 885-6485",
-      "au_profile_url": "https://www.american.edu/soc/faculty/chattoo.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/chattoo.cfm",
       "_worksfor_raw": "SOC | Public Communication",
       "_source_page": "https://www.american.edu/soc/faculty/"
     },
@@ -7582,7 +7953,7 @@
       "department": "Public Communication",
       "email": "",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/soc/faculty/braddock.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/braddock.cfm",
       "_worksfor_raw": "SOC | Public Communication",
       "_source_page": "https://www.american.edu/soc/faculty/"
     },
@@ -7604,7 +7975,7 @@
       "department": "Journalism",
       "email": "bryant@american.edu",
       "phone": "(202) 885-2062",
-      "au_profile_url": "https://www.american.edu/soc/faculty/bryant.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/bryant.cfm",
       "_worksfor_raw": "SOC | Journalism",
       "_source_page": "https://www.american.edu/soc/faculty/"
     },
@@ -7615,7 +7986,7 @@
       "department": "Communication Studies",
       "email": "butkowsk@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/soc/faculty/butkowsk.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/butkowsk.cfm",
       "_worksfor_raw": "SOC | Communication Studies",
       "_source_page": "https://www.american.edu/soc/faculty/"
     },
@@ -7648,7 +8019,7 @@
       "department": "Public Communication",
       "email": "doshi@american.edu",
       "phone": "(202) 885-2017",
-      "au_profile_url": "https://www.american.edu/soc/faculty/doshi.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/doshi.cfm",
       "_worksfor_raw": "SOC | Public Communication",
       "_source_page": "https://www.american.edu/soc/faculty/"
     },
@@ -7692,7 +8063,7 @@
       "department": "Film & Media Arts",
       "email": "hinson@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/soc/faculty/hinson.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/staff/hinson.cfm",
       "_worksfor_raw": "SOC | Film & Media Arts",
       "_source_page": "https://www.american.edu/soc/faculty/"
     },
@@ -7725,7 +8096,7 @@
       "department": "Film & Media Arts",
       "email": "ljayasw@american.edu",
       "phone": "(202) 885-2662",
-      "au_profile_url": "https://www.american.edu/soc/faculty/ljayasw.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/ljayasw.cfm",
       "_worksfor_raw": "SOC | Film & Media Arts",
       "_source_page": "https://www.american.edu/soc/faculty/"
     },
@@ -7758,7 +8129,7 @@
       "department": "Film & Media Arts",
       "email": "livio@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/soc/faculty/livio.cfm",
+      "au_profile_url": "https://www.american.edu/cas/faculty/livio.cfm",
       "_worksfor_raw": "SOC | Film & Media Arts",
       "_source_page": "https://www.american.edu/soc/faculty/"
     },
@@ -7769,7 +8140,7 @@
       "department": "Film & Media Arts",
       "email": "bmaher@american.edu",
       "phone": "(202) 885-2664",
-      "au_profile_url": "https://www.american.edu/soc/faculty/bmaher.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/bmaher.cfm",
       "_worksfor_raw": "SOC | Film & Media Arts",
       "_source_page": "https://www.american.edu/soc/faculty/"
     },
@@ -7835,7 +8206,7 @@
       "department": "Public Communication",
       "email": "parell@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/soc/faculty/parell.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/parell.cfm",
       "_worksfor_raw": "SOC | Public Communication",
       "_source_page": "https://www.american.edu/soc/faculty/"
     },
@@ -7879,7 +8250,7 @@
       "department": "Communication Studies",
       "email": "aram@american.edu",
       "phone": "(202) 885-6518",
-      "au_profile_url": "https://www.american.edu/soc/faculty/aram.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/aram.cfm",
       "_worksfor_raw": "SOC | Communication Studies",
       "_source_page": "https://www.american.edu/soc/faculty/"
     },
@@ -7901,7 +8272,7 @@
       "department": "Communication Studies",
       "email": "bstokes@american.edu",
       "phone": "(202) 885-2066",
-      "au_profile_url": "https://www.american.edu/soc/faculty/bstokes.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/bstokes.cfm",
       "_worksfor_raw": "SOC | Communication Studies",
       "_source_page": "https://www.american.edu/soc/faculty/"
     },
@@ -8484,7 +8855,7 @@
       "department": "Public Administration",
       "email": "abouassi@american.edu",
       "phone": "(202) 885-2509",
-      "au_profile_url": "https://www.american.edu/spa/faculty/abouassi.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/abouassi.cfm",
       "_worksfor_raw": "SPA | Public Administration",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -8495,7 +8866,7 @@
       "department": "Online Partner Programs (OLP)",
       "email": "accius@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/spa/faculty/accius.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/accius.cfm",
       "_worksfor_raw": "SPA | Online Partner Programs (OLP)",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -8506,7 +8877,7 @@
       "department": "Justice, Law & Criminology",
       "email": "adding@american.edu",
       "phone": "(202) 885-2902",
-      "au_profile_url": "https://www.american.edu/spa/faculty/adding.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/adding.cfm",
       "_worksfor_raw": "SPA | Justice, Law & Criminology",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -8528,7 +8899,7 @@
       "department": "Public Administration",
       "email": "amirkhan@american.edu",
       "phone": "(202) 885-6289",
-      "au_profile_url": "https://www.american.edu/spa/faculty/amirkhan.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/amirkhan.cfm",
       "_worksfor_raw": "SPA | Public Administration",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -8539,7 +8910,7 @@
       "department": "Justice, Law & Criminology",
       "email": "arva@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/spa/faculty/arva.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/arva.cfm",
       "_worksfor_raw": "SPA | Justice, Law & Criminology",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -8550,7 +8921,7 @@
       "department": "Online Partner Programs (OLP)",
       "email": "aubourg@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/spa/faculty/aubourg.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/aubourg.cfm",
       "_worksfor_raw": "SPA | Online Partner Programs (OLP)",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -8561,7 +8932,7 @@
       "department": "Government",
       "email": "bachiys@american.edu",
       "phone": "(202) 885-2034",
-      "au_profile_url": "https://www.american.edu/spa/faculty/bachiys.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/bachiys.cfm",
       "_worksfor_raw": "SPA | Government",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -8572,7 +8943,7 @@
       "department": "Justice, Law & Criminology",
       "email": "bacon@american.edu",
       "phone": "(202) 885-6556",
-      "au_profile_url": "https://www.american.edu/spa/faculty/bacon.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/bacon.cfm",
       "_worksfor_raw": "SPA | Justice, Law & Criminology",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -8583,7 +8954,7 @@
       "department": "Public Administration",
       "email": "baehler@american.edu",
       "phone": "(202) 885-6072",
-      "au_profile_url": "https://www.american.edu/spa/faculty/baehler.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/baehler.cfm",
       "_worksfor_raw": "SPA | Public Administration",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -8594,7 +8965,7 @@
       "department": "Justice, Law & Criminology",
       "email": "jbaldwin@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/spa/faculty/jbaldwin.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/jbaldwin.cfm",
       "_worksfor_raw": "SPA | Justice, Law & Criminology",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -8616,7 +8987,7 @@
       "department": "General Academics & Research",
       "email": "cbarnettryan@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/spa/faculty/cbarnettryan.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/cbarnettryan.cfm",
       "_worksfor_raw": "SPA | General Academics & Research",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -8627,7 +8998,7 @@
       "department": "Justice, Law & Criminology",
       "email": "bartholo@american.edu",
       "phone": "(202) 885-2367",
-      "au_profile_url": "https://www.american.edu/spa/faculty/bartholo.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/bartholo.cfm",
       "_worksfor_raw": "SPA | Justice, Law & Criminology",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -8649,7 +9020,7 @@
       "department": "General Academics & Research",
       "email": "zbauer@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/spa/faculty/zbauer.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/zbauer.cfm",
       "_worksfor_raw": "SPA | General Academics & Research",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -8660,7 +9031,7 @@
       "department": "Online Partner Programs (OLP)",
       "email": "bawden@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/spa/faculty/bawden.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/bawden.cfm",
       "_worksfor_raw": "SPA | Online Partner Programs (OLP)",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -8682,7 +9053,7 @@
       "department": "Justice, Law & Criminology",
       "email": "beinhart@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/spa/faculty/beinhart.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/beinhart.cfm",
       "_worksfor_raw": "SPA | Justice, Law & Criminology",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -8704,7 +9075,7 @@
       "department": "Key Executive Education IRC Programs",
       "email": "andrewb@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/spa/faculty/andrewb.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/andrewb.cfm",
       "_worksfor_raw": "SPA | Key Executive Education IRC Programs",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -8715,7 +9086,7 @@
       "department": "Public Administration",
       "email": "betesh@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/spa/faculty/betesh.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/betesh.cfm",
       "_worksfor_raw": "SPA | Public Administration",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -8726,7 +9097,7 @@
       "department": "Online Partner Programs (OLP)",
       "email": "",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/spa/faculty/abhatt.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/abhatt.cfm",
       "_worksfor_raw": "SPA | Online Partner Programs (OLP)",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -8737,7 +9108,7 @@
       "department": "Justice, Law & Criminology",
       "email": "abills@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/spa/faculty/abills.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/abills.cfm",
       "_worksfor_raw": "SPA | Justice, Law & Criminology",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -8748,7 +9119,7 @@
       "department": "Public Administration",
       "email": "birenbau@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/spa/faculty/birenbau.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/birenbau.cfm",
       "_worksfor_raw": "SPA | Public Administration",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -8759,7 +9130,7 @@
       "department": "Justice, Law & Criminology",
       "email": "booth@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/spa/faculty/booth.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/booth.cfm",
       "_worksfor_raw": "SPA | Justice, Law & Criminology",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -8781,7 +9152,7 @@
       "department": "Justice, Law & Criminology",
       "email": "boyle@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/spa/faculty/boyle.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/boyle.cfm",
       "_worksfor_raw": "SPA | Justice, Law & Criminology",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -8792,7 +9163,7 @@
       "department": "General Academics & Research",
       "email": "brayton@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/spa/faculty/brayton.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/brayton.cfm",
       "_worksfor_raw": "SPA | General Academics & Research",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -8814,7 +9185,7 @@
       "department": "Justice, Law & Criminology",
       "email": "bruni@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/spa/faculty/bruni.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/bruni.cfm",
       "_worksfor_raw": "SPA | Justice, Law & Criminology",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -8825,7 +9196,7 @@
       "department": "Public Administration",
       "email": "dburley@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/spa/faculty/dburley.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/dburley.cfm",
       "_worksfor_raw": "SPA | Public Administration",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -8847,7 +9218,7 @@
       "department": "Public Administration",
       "email": "burrell@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/spa/faculty/burrell.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/burrell.cfm",
       "_worksfor_raw": "SPA | Public Administration",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -8858,7 +9229,7 @@
       "department": "Public Administration",
       "email": "caglayan@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/spa/faculty/caglayan.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/caglayan.cfm",
       "_worksfor_raw": "SPA | Public Administration",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -8869,7 +9240,7 @@
       "department": "Washington Semester Programs",
       "email": "cal@american.edu",
       "phone": "(202) 895-4913",
-      "au_profile_url": "https://www.american.edu/spa/faculty/cal.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/cal.cfm",
       "_worksfor_raw": "SPA | Washington Semester Programs",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -8891,7 +9262,7 @@
       "department": "Finance & Personnel Administration",
       "email": "careiro@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/spa/faculty/careiro.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/careiro.cfm",
       "_worksfor_raw": "SPA | Finance & Personnel Administration",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -8902,7 +9273,7 @@
       "department": "Justice, Law & Criminology",
       "email": "carlisle@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/spa/faculty/carlisle.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/carlisle.cfm",
       "_worksfor_raw": "SPA | Justice, Law & Criminology",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -8924,7 +9295,7 @@
       "department": "Justice, Law & Criminology",
       "email": "carter@american.edu",
       "phone": "(202) 885-3021",
-      "au_profile_url": "https://www.american.edu/spa/faculty/carter.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/carter.cfm",
       "_worksfor_raw": "SPA | Justice, Law & Criminology",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -8935,7 +9306,7 @@
       "department": "Public Administration",
       "email": "champion@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/spa/faculty/champion.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/champion.cfm",
       "_worksfor_raw": "SPA | Public Administration",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -8968,7 +9339,7 @@
       "department": "Public Administration",
       "email": "achiarenza@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/spa/faculty/achiarenza.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/achiarenza.cfm",
       "_worksfor_raw": "SPA | Public Administration",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -9023,7 +9394,7 @@
       "department": "Public Administration",
       "email": "crawford@american.edu",
       "phone": "(202) 885-2357",
-      "au_profile_url": "https://www.american.edu/spa/faculty/crawford.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/students/crawford.cfm",
       "_worksfor_raw": "SPA | Public Administration",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -9045,7 +9416,7 @@
       "department": "Washington Semester Programs",
       "email": "crouch@american.edu",
       "phone": "(202) 895-4974",
-      "au_profile_url": "https://www.american.edu/spa/faculty/crouch.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/crouch.cfm",
       "_worksfor_raw": "SPA | Washington Semester Programs",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -9221,7 +9592,7 @@
       "department": "Justice, Law & Criminology",
       "email": "jeassey@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/spa/faculty/jeassey.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/staff/jeassey.cfm",
       "_worksfor_raw": "SPA | Justice, Law & Criminology",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -9254,7 +9625,7 @@
       "department": "Public Administration",
       "email": "aelsayed@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/spa/faculty/aelsayed.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/aelsayed.cfm",
       "_worksfor_raw": "SPA | Public Administration",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -9265,7 +9636,7 @@
       "department": "Government",
       "email": "elving@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/spa/faculty/elving.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/elving.cfm",
       "_worksfor_raw": "SPA | Government",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -9287,7 +9658,7 @@
       "department": "Justice, Law & Criminology",
       "email": "fabrikan@american.edu",
       "phone": "(202) 885-3397",
-      "au_profile_url": "https://www.american.edu/spa/faculty/fabrikan.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/fabrikan.cfm",
       "_worksfor_raw": "SPA | Justice, Law & Criminology",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -9386,7 +9757,7 @@
       "department": "Government",
       "email": "aflores@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/spa/faculty/aflores.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/aflores.cfm",
       "_worksfor_raw": "SPA | Government",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -9430,7 +9801,7 @@
       "department": "Justice, Law & Criminology",
       "email": "afox@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/spa/faculty/afox.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/afox.cfm",
       "_worksfor_raw": "SPA | Justice, Law & Criminology",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -9441,7 +9812,7 @@
       "department": "Government",
       "email": "cfrench@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/spa/faculty/cfrench.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/cfrench.cfm",
       "_worksfor_raw": "SPA | Government",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -9463,7 +9834,7 @@
       "department": "Government",
       "email": "samg@american.edu",
       "phone": "(202) 885-3491",
-      "au_profile_url": "https://www.american.edu/spa/faculty/samg.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/samg.cfm",
       "_worksfor_raw": "SPA | Government",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -9485,7 +9856,7 @@
       "department": "General Academics & Research",
       "email": "gettman@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/spa/faculty/gettman.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/gettman.cfm",
       "_worksfor_raw": "SPA | General Academics & Research",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -9496,7 +9867,7 @@
       "department": "Public Administration",
       "email": "vg7211a@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/spa/faculty/vg7211a.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/students/vg7211a.cfm",
       "_worksfor_raw": "SPA | Public Administration",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -9507,7 +9878,7 @@
       "department": "Government",
       "email": "cgiddins@american.edu",
       "phone": "",
-      "au_profile_url": "https://www.american.edu/spa/faculty/cgiddins.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/cgiddins.cfm",
       "_worksfor_raw": "SPA | Government",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -9573,7 +9944,7 @@
       "department": "Justice, Law & Criminology",
       "email": "cgriggs@american.edu",
       "phone": "(202) 885-6684",
-      "au_profile_url": "https://www.american.edu/spa/faculty/cgriggs.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/cgriggs.cfm",
       "_worksfor_raw": "SPA | Justice, Law & Criminology",
       "_source_page": "https://www.american.edu/spa/faculty/"
     },
@@ -9622,15 +9993,730 @@
       "_source_page": "https://www.american.edu/baker/faculty/"
     },
     {
+      "name": "Jamie Abrams",
+      "title": "Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "jamieabrams@wcl.american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/jamieabrams.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Padideh Ala'i",
+      "title": "Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "palai@wcl.american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/palai.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Hilary Allen",
+      "title": "Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "hjallen@wcl.american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/hjallen.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Kenneth Anderson",
+      "title": "Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "kanders@wcl.american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/kanders.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Priya Baskaran",
+      "title": "Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "baskaran@wcl.american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/baskaran.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Elizabeth Earle Beske",
+      "title": "Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "beske@wcl.american.edu",
+      "phone": "(202) 274-4302",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/beske.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Chaz Brooks",
+      "title": "Associate Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "cbrooks@wcl.american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/cbrooks.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Susan Carle",
+      "title": "Distinguished Professor of Law",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "scarle@wcl.american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/wcl/faculty/scarle.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Michael Carroll",
+      "title": "Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "mcarroll@wcl.american.edu",
+      "phone": "(202) 274-4047",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/mcarroll.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Janie Chuang",
+      "title": "Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "jchuang@wcl.american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/jchuang.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
       "name": "Khelani Clay",
       "title": "Associate Law Librarian",
       "school": "WCL",
       "department": "Library",
       "email": "kclay@wcl.american.edu",
       "phone": "(202) 274-4441",
-      "au_profile_url": "https://www.american.edu/wcl/faculty/kclay.cfm",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/kclay.cfm",
       "_worksfor_raw": "WCL | Library",
       "_source_page": "https://www.american.edu/spa/faculty/"
+    },
+    {
+      "name": "Sam Dresner",
+      "title": "Graduate Teaching Fellow",
+      "school": "WCL",
+      "department": "Legal Methods",
+      "email": "sd1654a@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/wcl/faculty/sd1654a.cfm",
+      "_worksfor_raw": "WCL | Legal Methods",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Sam Dresner",
+      "title": "Graduate Teaching Fellow",
+      "school": "WCL",
+      "department": "Legal Methods",
+      "email": "sdresner@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/wcl/faculty/sdresner.cfm",
+      "_worksfor_raw": "WCL | Legal Methods",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Charles Duan",
+      "title": "Associate Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "cduan@wcl.american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/cduan.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "N. Jeremi Duru",
+      "title": "Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "jduru@wcl.american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/jduru.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Walter Effross",
+      "title": "Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "effross@wcl.american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/effross.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Lia Epperson",
+      "title": "Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "Epperson@wcl.american.edu",
+      "phone": "(202) 274-4431",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/epperson.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Christine Haight Farley",
+      "title": "Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "cfarley@wcl.american.edu",
+      "phone": "(202) 274-4171",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/cfarley.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Sean Flynn",
+      "title": "Adjunct Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "sflynn@wcl.american.edu",
+      "phone": "(202) 274-4157",
+      "au_profile_url": "https://www.american.edu/profiles/staff/sflynn.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Susan Franck",
+      "title": "Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "sfranck@wcl.american.edu",
+      "phone": "(202) 274-4362",
+      "au_profile_url": "https://www.american.edu/wcl/faculty/sfranck.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Bianca Garcia",
+      "title": "Professor of Legal Rhetoric",
+      "school": "WCL",
+      "department": "Legal Methods",
+      "email": "bgarcia@wcl.american.edu",
+      "phone": "(202) 274-4408",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/bgarcia.cfm",
+      "_worksfor_raw": "WCL | Legal Methods",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Robert Goldman",
+      "title": "Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "goldman@wcl.american.edu",
+      "phone": "(202) 274-4111",
+      "au_profile_url": "https://www.american.edu/wcl/faculty/goldman.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Claudio Grossman",
+      "title": "Professor of Law and Dean Emeritus",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "grossman@wcl.american.edu",
+      "phone": "(202) 274-4004",
+      "au_profile_url": "https://www.american.edu/kogod/faculty/grossman.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Lewis Grossman",
+      "title": "Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "lewisg@wcl.american.edu",
+      "phone": "(202) 885-6300",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/lewisg.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Rebecca Hamilton",
+      "title": "Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "hamilton@wcl.american.edu",
+      "phone": "(202) 274-4241",
+      "au_profile_url": "https://www.american.edu/wcl/faculty/hamilton.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "John Heywood",
+      "title": "Law Librarian",
+      "school": "WCL",
+      "department": "Library",
+      "email": "heywood@wcl.american.edu",
+      "phone": "(202) 274-4329",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/heywood.cfm",
+      "_worksfor_raw": "WCL | Library",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Heather Hughes",
+      "title": "Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "hhughes@wcl.american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/hhughes.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "David Hunter",
+      "title": "Professor Emeritus",
+      "school": "WCL",
+      "department": "",
+      "email": "dhunter@wcl.american.edu",
+      "phone": "(202) 274-4415",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/hunterd.cfm",
+      "_worksfor_raw": "",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Cynthia Jones",
+      "title": "Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "cejones@wcl.american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/cejones.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Jeff Kahn",
+      "title": "Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "jkahn@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/wcl/faculty/jkahn.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Rachel Marblestone Kamins",
+      "title": "Practitioner In Residence",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "rkamins@wcl.american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/wcl/faculty/rkamins.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Elizabeth Keith",
+      "title": "Professor of Legal Rhetoric",
+      "school": "WCL",
+      "department": "Legal Methods",
+      "email": "ekeith@wcl.american.edu",
+      "phone": "(202) 274-4326",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/ekeith.cfm",
+      "_worksfor_raw": "WCL | Legal Methods",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Daniela Kraiem",
+      "title": "Assistant Dean, Career & Professional Development",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "Kraiem@wcl.american.edu",
+      "phone": "(202) 274-4249",
+      "au_profile_url": "https://www.american.edu/profiles/staff/kraiem.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Benjamin Leff",
+      "title": "Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "bleff@wcl.american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/bleff.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Sylvia Lu",
+      "title": "Assistant Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "slu@wcl.american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/wcl/faculty/slu.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Jeffrey Lubbers",
+      "title": "Professor of the Practice of Law",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "jlubbers@wcl.american.edu",
+      "phone": "(202) 274-4266",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/jlubbers.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Maya Manian",
+      "title": "Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "mmanian@wcl.american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/mmanian.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Claudia Martin",
+      "title": "Co-Director Human Rights Academy & Humanitarian Law",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "cmartin@wcl.american.edu",
+      "phone": "(202) 274-4283",
+      "au_profile_url": "https://www.american.edu/profiles/staff/cmartin.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "James May",
+      "title": "Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "may@wcl.american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/may.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Binny Miller",
+      "title": "Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "bmiller@wcl.american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/bmiller.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Horacio Naon",
+      "title": "Distinguished Practitioner-in-Residence",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "hnaon@wcl.american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/hnaon.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Fernanda Nicola",
+      "title": "Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "fnicola@wcl.american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/wcl/faculty/fnicola.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Kenechukwu Okocha",
+      "title": "Assistant Professor of Law",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "kokocha@wcl.american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/wcl/faculty/kokocha.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Marcos Orellana",
+      "title": "Assistant Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "orellana@wcl.american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/orellana.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Victoria Phillips",
+      "title": "Professor of the Practice of Law",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "vfphillips@wcl.american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/wcl/faculty/vfphill.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Andrew Popper",
+      "title": "Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "apopper@wcl.american.edu",
+      "phone": "(202) 274-4233",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/apopper.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Adeen Postar",
+      "title": "Law Librarian Emerita",
+      "school": "WCL",
+      "department": "",
+      "email": "apostar@wcl.american.edu",
+      "phone": "(202) 274-4374",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/apostar.cfm",
+      "_worksfor_raw": "",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Anjali Prakash",
+      "title": "Assistant Professor of Legal Rhetoric",
+      "school": "WCL",
+      "department": "Legal Methods",
+      "email": "apprakash@american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/apprakash.cfm",
+      "_worksfor_raw": "WCL | Legal Methods",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Gustavo Ribeiro",
+      "title": "Associate Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "gribeiro@wcl.american.edu",
+      "phone": "(202) 274-4131",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/gribeiro.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Heather Ridenour",
+      "title": "Professor of Legal Rhetoric",
+      "school": "WCL",
+      "department": "Legal Methods",
+      "email": "hridenou@wcl.american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/hridenou.cfm",
+      "_worksfor_raw": "WCL | Legal Methods",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Ira Robbins",
+      "title": "Distinguished Professor of Law and Barnard T. Welsh Scholar",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "robbins@wcl.american.edu",
+      "phone": "(202) 274-4235",
+      "au_profile_url": "https://www.american.edu/wcl/faculty/robbins.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Shannon Roddy",
+      "title": "Law Librarian",
+      "school": "WCL",
+      "department": "Library",
+      "email": "roddy@wcl.american.edu",
+      "phone": "(202) 274-4332",
+      "au_profile_url": "https://www.american.edu/wcl/faculty/roddy.cfm",
+      "_worksfor_raw": "WCL | Library",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Diego Rodriguez-Pinzon",
+      "title": "Co-Director Human Rights Academy & Humanitarian Law",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "drodrig@wcl.american.edu",
+      "phone": "(202) 274-4285",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/drodrig.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Ezra Rosser",
+      "title": "Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "erosser@wcl.american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/wcl/faculty/erosser.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Elizabeth Rylander",
+      "title": "Adjunct Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "erylander@wcl.american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/erylander.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Susana Sacouto",
+      "title": "Adjunct Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "ssacouto@wcl.american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/profiles/staff/ssacouto.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Anita Sinha",
+      "title": "Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "asinha@wcl.american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/asinha.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "William Snape",
+      "title": "Assistant Dean for Adjunct Faculty Affairs",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "wsnape@wcl.american.edu",
+      "phone": "(202) 274-4443",
+      "au_profile_url": "https://www.american.edu/wcl/faculty/wsnape.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "David Snyder",
+      "title": "Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "dsnyder@wcl.american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/wcl/faculty/dsnyder.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "David Spratt",
+      "title": "Professor of Legal Rhetoric",
+      "school": "WCL",
+      "department": "Legal Methods",
+      "email": "dspratt@wcl.american.edu",
+      "phone": "(202) 274-4059",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/dspratt.cfm",
+      "_worksfor_raw": "WCL | Legal Methods",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Brandon Weiss",
+      "title": "Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "weiss@wcl.american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/wcl/faculty/weiss.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Ripple Weistling",
+      "title": "Associate Law Librarian",
+      "school": "WCL",
+      "department": "Library",
+      "email": "ripple@wcl.american.edu",
+      "phone": "(202) 274-4382",
+      "au_profile_url": "https://www.american.edu/wcl/faculty/ripple.cfm",
+      "_worksfor_raw": "WCL | Library",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Linda Wen",
+      "title": "Law Librarian",
+      "school": "WCL",
+      "department": "Library",
+      "email": "lwen@wcl.american.edu",
+      "phone": "(202) 274-4345",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/lwen.cfm",
+      "_worksfor_raw": "WCL | Library",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Caroline Wick",
+      "title": "Practitioner In Residence",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "cwick@wcl.american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/profiles/faculty/cwick.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Thomas Williams",
+      "title": "Associate Professor",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "williamst@wcl.american.edu",
+      "phone": "",
+      "au_profile_url": "https://www.american.edu/wcl/faculty/williamst.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
+    },
+    {
+      "name": "Matthew Williams",
+      "title": "Practitioner In Residence",
+      "school": "WCL",
+      "department": "General Academics & Research",
+      "email": "williams@wcl.american.edu",
+      "phone": "(202) 274-4307",
+      "au_profile_url": "https://www.american.edu/spa/faculty/williams.cfm",
+      "_worksfor_raw": "WCL | General Academics & Research",
+      "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm"
     }
   ]
 }
