@@ -1,12 +1,12 @@
 {
  "_source": "Dimensions DSL API (fetch-dimensions.py) — © Digital Science & Research Solutions. Internal AU use approved via account owner.",
- "_fetched_at": "2026-09-28",
+ "_fetched_at": "2026-10-01",
  "_total_grants": 1207,
  "_match_stats": {
-  "auto": 230,
+  "auto": 235,
   "approved": 0,
-  "review": 59,
-  "none": 1061
+  "review": 79,
+  "none": 1036
  },
  "grants": [
   {
@@ -859,7 +859,7 @@
      "orcid": "0000-0003-0781-7921",
      "au_affiliated_in_dimensions": true,
      "match": "auto",
-     "roster_id": "https://www.american.edu/soc/faculty/chattoo.cfm",
+     "roster_id": "https://www.american.edu/profiles/faculty/chattoo.cfm",
      "roster_name": "Caty Borum"
     }
    ]
@@ -891,7 +891,7 @@
      "orcid": null,
      "au_affiliated_in_dimensions": false,
      "match": "review",
-     "roster_id": "https://www.american.edu/sis/faculty/aacharya.cfm",
+     "roster_id": "https://www.american.edu/profiles/faculty/aacharya.cfm",
      "roster_name": "Amitav Acharya"
     }
    ]
@@ -992,7 +992,7 @@
      "orcid": null,
      "au_affiliated_in_dimensions": false,
      "match": "review",
-     "roster_id": "https://www.american.edu/sis/faculty/caroleg.cfm",
+     "roster_id": "https://www.american.edu/profiles/faculty/caroleg.cfm",
      "roster_name": "Carolyn Gallaher"
     }
    ]
@@ -1430,9 +1430,9 @@
      "name": "Claudia Martin",
      "orcid": null,
      "au_affiliated_in_dimensions": false,
-     "match": "none",
-     "roster_id": null,
-     "roster_name": null
+     "match": "review",
+     "roster_id": "https://www.american.edu/profiles/staff/cmartin.cfm",
+     "roster_name": "Claudia Martin"
     }
    ]
   },
@@ -1555,7 +1555,7 @@
      "orcid": null,
      "au_affiliated_in_dimensions": true,
      "match": "auto",
-     "roster_id": "https://www.american.edu/spa/faculty/dburley.cfm",
+     "roster_id": "https://www.american.edu/profiles/faculty/dburley.cfm",
      "roster_name": "Diana Burley"
     },
     {
@@ -1695,9 +1695,9 @@
      "name": "Rebecca Hamilton",
      "orcid": null,
      "au_affiliated_in_dimensions": true,
-     "match": "none",
-     "roster_id": null,
-     "roster_name": null
+     "match": "auto",
+     "roster_id": "https://www.american.edu/wcl/faculty/hamilton.cfm",
+     "roster_name": "Rebecca Hamilton"
     }
    ]
   },
@@ -2530,7 +2530,7 @@
      "orcid": "0000-0003-0781-7921",
      "au_affiliated_in_dimensions": true,
      "match": "auto",
-     "roster_id": "https://www.american.edu/soc/faculty/chattoo.cfm",
+     "roster_id": "https://www.american.edu/profiles/faculty/chattoo.cfm",
      "roster_name": "Caty Borum"
     }
    ]
@@ -2576,7 +2576,7 @@
      "orcid": null,
      "au_affiliated_in_dimensions": true,
      "match": "auto",
-     "roster_id": "https://www.american.edu/sis/faculty/atzili.cfm",
+     "roster_id": "https://www.american.edu/profiles/faculty/atzili.cfm",
      "roster_name": "Boaz Atzili"
     }
    ]
@@ -3055,7 +3055,7 @@
      "orcid": null,
      "au_affiliated_in_dimensions": false,
      "match": "review",
-     "roster_id": "https://www.american.edu/sis/faculty/aacharya.cfm",
+     "roster_id": "https://www.american.edu/profiles/faculty/aacharya.cfm",
      "roster_name": "Amitav Acharya"
     }
    ]
@@ -3792,7 +3792,7 @@
      "orcid": "0000-0003-0499-9109",
      "au_affiliated_in_dimensions": true,
      "match": "auto",
-     "roster_id": "https://www.american.edu/soc/faculty/aram.cfm",
+     "roster_id": "https://www.american.edu/profiles/faculty/aram.cfm",
      "roster_name": "Aram Sinnreich"
     }
    ]
@@ -4098,7 +4098,7 @@
      "orcid": "0000-0001-7263-9530",
      "au_affiliated_in_dimensions": true,
      "match": "auto",
-     "roster_id": "https://www.american.edu/spa/faculty/dburley.cfm",
+     "roster_id": "https://www.american.edu/profiles/faculty/dburley.cfm",
      "roster_name": "Diana Burley"
     }
    ]
@@ -4765,7 +4765,7 @@
      "orcid": null,
      "au_affiliated_in_dimensions": true,
      "match": "auto",
-     "roster_id": "https://www.american.edu/spa/faculty/jbaldwin.cfm",
+     "roster_id": "https://www.american.edu/profiles/faculty/jbaldwin.cfm",
      "roster_name": "Julie Marie Baldwin"
     },
     {
@@ -4774,7 +4774,7 @@
      "orcid": "0000-0003-2612-3773",
      "au_affiliated_in_dimensions": true,
      "match": "auto",
-     "roster_id": "https://www.american.edu/spa/faculty/jeassey.cfm",
+     "roster_id": "https://www.american.edu/profiles/staff/jeassey.cfm",
      "roster_name": "John Eassey"
     }
    ]
@@ -6164,9 +6164,9 @@
      "name": "Claudia Martin",
      "orcid": null,
      "au_affiliated_in_dimensions": false,
-     "match": "none",
-     "roster_id": null,
-     "roster_name": null
+     "match": "review",
+     "roster_id": "https://www.american.edu/profiles/staff/cmartin.cfm",
+     "roster_name": "Claudia Martin"
     }
    ]
   },
@@ -6324,9 +6324,9 @@
      "name": "David Hunter",
      "orcid": null,
      "au_affiliated_in_dimensions": false,
-     "match": "none",
-     "roster_id": null,
-     "roster_name": null
+     "match": "review",
+     "roster_id": "https://www.american.edu/profiles/faculty/hunterd.cfm",
+     "roster_name": "David Hunter"
     }
    ]
   },
@@ -8230,9 +8230,9 @@
      "name": "Padideh Ala'I",
      "orcid": "0000-0002-5449-4099",
      "au_affiliated_in_dimensions": true,
-     "match": "none",
-     "roster_id": null,
-     "roster_name": null
+     "match": "auto",
+     "roster_id": "https://www.american.edu/profiles/faculty/palai.cfm",
+     "roster_name": "Padideh Ala'i"
     }
    ]
   },
@@ -8409,7 +8409,7 @@
      "orcid": null,
      "au_affiliated_in_dimensions": false,
      "match": "review",
-     "roster_id": "https://www.american.edu/sis/faculty/snichols.cfm",
+     "roster_id": "https://www.american.edu/profiles/students/snichols.cfm",
      "roster_name": "Simon Nicholson"
     }
    ]
@@ -9244,9 +9244,9 @@
      "name": "David Hunter",
      "orcid": null,
      "au_affiliated_in_dimensions": false,
-     "match": "none",
-     "roster_id": null,
-     "roster_name": null
+     "match": "review",
+     "roster_id": "https://www.american.edu/profiles/faculty/hunterd.cfm",
+     "roster_name": "David Hunter"
     }
    ]
   },
@@ -9815,9 +9815,9 @@
      "name": "Claudia Martin",
      "orcid": null,
      "au_affiliated_in_dimensions": false,
-     "match": "none",
-     "roster_id": null,
-     "roster_name": null
+     "match": "review",
+     "roster_id": "https://www.american.edu/profiles/staff/cmartin.cfm",
+     "roster_name": "Claudia Martin"
     }
    ]
   },
@@ -12227,9 +12227,9 @@
      "name": "Michael W Carroll",
      "orcid": "0000-0002-7472-0153",
      "au_affiliated_in_dimensions": true,
-     "match": "none",
-     "roster_id": null,
-     "roster_name": null
+     "match": "auto",
+     "roster_id": "https://www.american.edu/profiles/faculty/mcarroll.cfm",
+     "roster_name": "Michael Carroll"
     }
    ]
   },
@@ -12260,7 +12260,7 @@
      "orcid": "0000-0003-3363-3608",
      "au_affiliated_in_dimensions": true,
      "match": "auto",
-     "roster_id": "https://www.american.edu/sis/faculty/abunimer.cfm",
+     "roster_id": "https://www.american.edu/profiles/faculty/abunimer.cfm",
      "roster_name": "Mohammed Abu-Nimer"
     }
    ]
@@ -12482,9 +12482,9 @@
      "name": "Diego Rodriguez-Pinzon",
      "orcid": null,
      "au_affiliated_in_dimensions": true,
-     "match": "none",
-     "roster_id": null,
-     "roster_name": null
+     "match": "auto",
+     "roster_id": "https://www.american.edu/profiles/faculty/drodrig.cfm",
+     "roster_name": "Diego Rodriguez-Pinzon"
     }
    ]
   },
@@ -12641,9 +12641,9 @@
      "name": "David Hunter",
      "orcid": null,
      "au_affiliated_in_dimensions": false,
-     "match": "none",
-     "roster_id": null,
-     "roster_name": null
+     "match": "review",
+     "roster_id": "https://www.american.edu/profiles/faculty/hunterd.cfm",
+     "roster_name": "David Hunter"
     }
    ]
   },
@@ -12916,9 +12916,9 @@
      "name": "Claudio Grossman",
      "orcid": null,
      "au_affiliated_in_dimensions": false,
-     "match": "none",
-     "roster_id": null,
-     "roster_name": null
+     "match": "review",
+     "roster_id": "https://www.american.edu/kogod/faculty/grossman.cfm",
+     "roster_name": "Claudio Grossman"
     }
    ]
   },
@@ -13493,9 +13493,9 @@
      "name": "Claudio Grossman",
      "orcid": null,
      "au_affiliated_in_dimensions": false,
-     "match": "none",
-     "roster_id": null,
-     "roster_name": null
+     "match": "review",
+     "roster_id": "https://www.american.edu/kogod/faculty/grossman.cfm",
+     "roster_name": "Claudio Grossman"
     }
    ]
   },
@@ -13606,9 +13606,9 @@
      "name": "Jeffrey S Lubbers",
      "orcid": "0000-0001-8463-4059",
      "au_affiliated_in_dimensions": true,
-     "match": "none",
-     "roster_id": null,
-     "roster_name": null
+     "match": "auto",
+     "roster_id": "https://www.american.edu/profiles/faculty/jlubbers.cfm",
+     "roster_name": "Jeffrey Lubbers"
     }
    ]
   },
@@ -14692,7 +14692,7 @@
      "orcid": null,
      "au_affiliated_in_dimensions": true,
      "match": "auto",
-     "roster_id": "https://www.american.edu/soc/faculty/bmaher.cfm",
+     "roster_id": "https://www.american.edu/profiles/faculty/bmaher.cfm",
      "roster_name": "Brigid Maher"
     }
    ]
@@ -15039,9 +15039,9 @@
      "name": "Diego Rodriguez-Pinzon",
      "orcid": null,
      "au_affiliated_in_dimensions": false,
-     "match": "none",
-     "roster_id": null,
-     "roster_name": null
+     "match": "review",
+     "roster_id": "https://www.american.edu/profiles/faculty/drodrig.cfm",
+     "roster_name": "Diego Rodriguez-Pinzon"
     }
    ]
   },
@@ -15483,9 +15483,9 @@
      "name": "Jeffrey Lubbers",
      "orcid": null,
      "au_affiliated_in_dimensions": false,
-     "match": "none",
-     "roster_id": null,
-     "roster_name": null
+     "match": "review",
+     "roster_id": "https://www.american.edu/profiles/faculty/jlubbers.cfm",
+     "roster_name": "Jeffrey Lubbers"
     }
    ]
   },
@@ -16951,9 +16951,9 @@
      "name": "Kenneth Anderson",
      "orcid": null,
      "au_affiliated_in_dimensions": false,
-     "match": "none",
-     "roster_id": null,
-     "roster_name": null
+     "match": "review",
+     "roster_id": "https://www.american.edu/profiles/faculty/kanders.cfm",
+     "roster_name": "Kenneth Anderson"
     }
    ]
   },
@@ -17405,9 +17405,9 @@
      "name": "Robert Kogod Goldman",
      "orcid": null,
      "au_affiliated_in_dimensions": false,
-     "match": "none",
-     "roster_id": null,
-     "roster_name": null
+     "match": "review",
+     "roster_id": "https://www.american.edu/wcl/faculty/goldman.cfm",
+     "roster_name": "Robert Goldman"
     }
    ]
   },
@@ -18482,9 +18482,9 @@
      "name": "Claudio Grossman",
      "orcid": null,
      "au_affiliated_in_dimensions": false,
-     "match": "none",
-     "roster_id": null,
-     "roster_name": null
+     "match": "review",
+     "roster_id": "https://www.american.edu/kogod/faculty/grossman.cfm",
+     "roster_name": "Claudio Grossman"
     }
    ]
   },
@@ -18514,9 +18514,9 @@
      "name": "Claudio Grossman",
      "orcid": null,
      "au_affiliated_in_dimensions": false,
-     "match": "none",
-     "roster_id": null,
-     "roster_name": null
+     "match": "review",
+     "roster_id": "https://www.american.edu/kogod/faculty/grossman.cfm",
+     "roster_name": "Claudio Grossman"
     }
    ]
   },
@@ -19319,9 +19319,9 @@
      "name": "Claudio Grossman",
      "orcid": null,
      "au_affiliated_in_dimensions": false,
-     "match": "none",
-     "roster_id": null,
-     "roster_name": null
+     "match": "review",
+     "roster_id": "https://www.american.edu/kogod/faculty/grossman.cfm",
+     "roster_name": "Claudio Grossman"
     }
    ]
   },
@@ -19383,9 +19383,9 @@
      "name": "Claudio Grossman",
      "orcid": null,
      "au_affiliated_in_dimensions": false,
-     "match": "none",
-     "roster_id": null,
-     "roster_name": null
+     "match": "review",
+     "roster_id": "https://www.american.edu/kogod/faculty/grossman.cfm",
+     "roster_name": "Claudio Grossman"
     }
    ]
   },
@@ -20910,9 +20910,9 @@
      "name": "Claudio Grossman",
      "orcid": null,
      "au_affiliated_in_dimensions": false,
-     "match": "none",
-     "roster_id": null,
-     "roster_name": null
+     "match": "review",
+     "roster_id": "https://www.american.edu/kogod/faculty/grossman.cfm",
+     "roster_name": "Claudio Grossman"
     }
    ]
   },
@@ -21171,9 +21171,9 @@
      "name": "Claudio Grossman",
      "orcid": null,
      "au_affiliated_in_dimensions": false,
-     "match": "none",
-     "roster_id": null,
-     "roster_name": null
+     "match": "review",
+     "roster_id": "https://www.american.edu/kogod/faculty/grossman.cfm",
+     "roster_name": "Claudio Grossman"
     }
    ]
   },
@@ -22134,9 +22134,9 @@
      "name": "Robert K Goldman",
      "orcid": null,
      "au_affiliated_in_dimensions": false,
-     "match": "none",
-     "roster_id": null,
-     "roster_name": null
+     "match": "review",
+     "roster_id": "https://www.american.edu/wcl/faculty/goldman.cfm",
+     "roster_name": "Robert Goldman"
     }
    ]
   },
@@ -22382,9 +22382,9 @@
      "name": "Claudio Grossman",
      "orcid": null,
      "au_affiliated_in_dimensions": false,
-     "match": "none",
-     "roster_id": null,
-     "roster_name": null
+     "match": "review",
+     "roster_id": "https://www.american.edu/kogod/faculty/grossman.cfm",
+     "roster_name": "Claudio Grossman"
     },
     {
      "dim_id": "ur.010240531322.68",

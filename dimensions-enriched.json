@@ -1,60 +1,16 @@
 {
- "_source": "faculty-roster.json + Dimensions publications 2019+ (v4/fetch-dimensions-pubs.py). © Digital Science & Research Solutions — internal AU use approved via account owner.",
- "_enriched_at": "2026-09-28",
+ "_source": "faculty-roster.json + Dimensions publications 2019+ (fetch-dimensions-pubs.py). © Digital Science & Research Solutions — internal AU use approved via account owner.",
+ "_enriched_at": "2026-10-01",
  "_counts": {
-  "confirmed": 366,
+  "confirmed": 395,
   "review": 0,
-  "none": 508,
-  "publications_scanned": 5736
+  "none": 578,
+  "publications_scanned": 5742
  },
  "_known_gaps": [
-  "WCL — wcl.american.edu returning 404s site-wide as of 2026-07; re-run when site recovers",
-  "CAS/faculty-m.cfm: The read operation timed out — re-run to retry this page",
   "Publications limited to 2019+ (recent-collaboration focus)"
  ],
  "faculty": [
-  {
-   "name": "Simone Davison",
-   "title": "Professorial Lecturer",
-   "school": "Baker",
-   "department": "City Teaching Alliance",
-   "email": "sdavison@american.edu",
-   "phone": "",
-   "au_profile_url": "https://www.american.edu/baker/faculty/sdavison.cfm",
-   "_worksfor_raw": "Baker | City Teaching Alliance",
-   "_source_page": "https://www.american.edu/baker/faculty/",
-   "topics": [],
-   "fields": [],
-   "pub_match": "none"
-  },
-  {
-   "name": "Sarah McMenamin",
-   "title": "Professorial Lecturer",
-   "school": "Baker",
-   "department": "Baker School of Education",
-   "email": "mcmenami@american.edu",
-   "phone": "",
-   "au_profile_url": "https://www.american.edu/baker/faculty/mcmenami.cfm",
-   "_worksfor_raw": "Baker - Baker School of Education",
-   "_source_page": "https://www.american.edu/baker/faculty/",
-   "topics": [],
-   "fields": [],
-   "pub_match": "none"
-  },
-  {
-   "name": "Alexes Terry",
-   "title": "Senior Professorial Lecturer",
-   "school": "Baker",
-   "department": "City Teaching Alliance",
-   "email": "aterry@american.edu",
-   "phone": "",
-   "au_profile_url": "https://www.american.edu/baker/faculty/aterry.cfm",
-   "_worksfor_raw": "Baker | City Teaching Alliance",
-   "_source_page": "https://www.american.edu/baker/faculty/",
-   "topics": [],
-   "fields": [],
-   "pub_match": "none"
-  },
   {
    "name": "Ayesha Abdullah",
    "title": "Bishop Hamilton Lecturer in Residence",
@@ -408,7 +364,7 @@
    "_source_page": "https://www.american.edu/cas/faculty/",
    "dim_researcher_id": "ur.016512622745.51",
    "works_count": 51,
-   "cited_by_count": 892,
+   "cited_by_count": 893,
    "topics": [
     {
      "id": "coronal mass ejections",
@@ -930,7 +886,7 @@
    "_source_page": "https://www.american.edu/cas/faculty/",
    "dim_researcher_id": "ur.07465233251.74",
    "works_count": 21,
-   "cited_by_count": 184,
+   "cited_by_count": 186,
    "topics": [
     {
      "id": "water vapor",
@@ -1706,7 +1662,7 @@
   },
   {
    "name": "Maria Barouti",
-   "title": "Director of the Online MS in Data Science Program and Senior Professorial Lecturer",
+   "title": "Director of the Online MS in Data Science Program and Hurst Senior Professorial Lecturer",
    "school": "CAS",
    "department": "Online Partner Programs (OLP)",
    "email": "barouti@american.edu",
@@ -2598,7 +2554,7 @@
    "_source_page": "https://www.american.edu/cas/faculty/faculty-b.cfm",
    "dim_researcher_id": "ur.0602615043.30",
    "works_count": 31,
-   "cited_by_count": 610,
+   "cited_by_count": 612,
    "topics": [
     {
      "id": "rental assistance",
@@ -2835,7 +2791,7 @@
    "_source_page": "https://www.american.edu/cas/faculty/faculty-b.cfm",
    "dim_researcher_id": "ur.013451527073.07",
    "works_count": 17,
-   "cited_by_count": 26,
+   "cited_by_count": 27,
    "topics": [
     {
      "id": "temple",
@@ -3922,7 +3878,7 @@
    "_source_page": "https://www.american.edu/cas/faculty/faculty-c.cfm",
    "dim_researcher_id": "ur.015067511573.40",
    "works_count": 12,
-   "cited_by_count": 310,
+   "cited_by_count": 312,
    "topics": [
     {
      "id": "microbial communities",
@@ -4765,7 +4721,7 @@
    "_source_page": "https://www.american.edu/cas/faculty/faculty-c.cfm",
    "dim_researcher_id": "ur.01366065522.23",
    "works_count": 5,
-   "cited_by_count": 328,
+   "cited_by_count": 329,
    "topics": [
     {
      "id": "body mass index",
@@ -5190,7 +5146,7 @@
    "_source_page": "https://www.american.edu/cas/faculty/faculty-c.cfm",
    "dim_researcher_id": "ur.015577570460.22",
    "works_count": 80,
-   "cited_by_count": 1620,
+   "cited_by_count": 1621,
    "topics": [
     {
      "id": "state-of-the-art",
@@ -7673,7 +7629,7 @@
    "_source_page": "https://www.american.edu/cas/faculty/faculty-f.cfm",
    "dim_researcher_id": "ur.07555004665.53",
    "works_count": 42,
-   "cited_by_count": 903,
+   "cited_by_count": 916,
    "topics": [
     {
      "id": "TRAPPIST-1",
@@ -10275,7 +10231,7 @@
    "_source_page": "https://www.american.edu/cas/faculty/faculty-h.cfm",
    "dim_researcher_id": "ur.0702143201.86",
    "works_count": 24,
-   "cited_by_count": 158,
+   "cited_by_count": 159,
    "topics": [
     {
      "id": "symptom severity",
@@ -11987,7 +11943,7 @@
    "_source_page": "https://www.american.edu/cas/faculty/faculty-i-j.cfm",
    "dim_researcher_id": "ur.014770252427.74",
    "works_count": 23,
-   "cited_by_count": 77,
+   "cited_by_count": 78,
    "topics": [
     {
      "id": "Medical Practitioners Act",
@@ -13031,6 +12987,20 @@
     }
    ],
    "pub_match": "confirmed"
+  },
+  {
+   "name": "Patricia Montilla Keeling",
+   "title": "Instructor",
+   "school": "CAS",
+   "department": "World Languages and Cultures",
+   "email": "pmk@american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/cas/faculty/pmk.cfm",
+   "_worksfor_raw": "CAS | World Languages and Cultures",
+   "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
   },
   {
    "name": "David Keplinger",
@@ -14416,6 +14386,1009 @@
    "pub_match": "confirmed"
   },
   {
+   "name": "Stephen MacAvoy",
+   "title": "Professor",
+   "school": "CAS",
+   "department": "Environmental Science",
+   "email": "macavoy@american.edu",
+   "phone": "(202) 885-3003",
+   "au_profile_url": "https://www.american.edu/cas/faculty/macavoy.cfm",
+   "_worksfor_raw": "CAS | Environmental Science",
+   "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm",
+   "dim_researcher_id": "ur.015003616011.72",
+   "works_count": 10,
+   "cited_by_count": 37,
+   "topics": [
+    {
+     "id": "Anacostia River",
+     "display_name": "Anacostia River"
+    },
+    {
+     "id": "Danio rerio",
+     "display_name": "Danio rerio"
+    },
+    {
+     "id": "early fish development",
+     "display_name": "early fish development"
+    },
+    {
+     "id": "organic contaminants",
+     "display_name": "organic contaminants"
+    },
+    {
+     "id": "water samples",
+     "display_name": "water samples"
+    },
+    {
+     "id": "seepage springs",
+     "display_name": "seepage springs"
+    },
+    {
+     "id": "trophic position",
+     "display_name": "trophic position"
+    },
+    {
+     "id": "ephemeral freshwater habitats",
+     "display_name": "ephemeral freshwater habitats"
+    },
+    {
+     "id": "food web dynamics",
+     "display_name": "food web dynamics"
+    },
+    {
+     "id": "stable isotope analysis",
+     "display_name": "stable isotope analysis"
+    },
+    {
+     "id": "dominant predators",
+     "display_name": "dominant predators"
+    },
+    {
+     "id": "species of Platyhelminthes",
+     "display_name": "species of Platyhelminthes"
+    }
+   ],
+   "fields": [
+    {
+     "id": "4105",
+     "display_name": "Pollution and Contamination",
+     "pubs": 4
+    },
+    {
+     "id": "3103",
+     "display_name": "Ecology",
+     "pubs": 2
+    },
+    {
+     "id": "3708",
+     "display_name": "Oceanography",
+     "pubs": 1
+    },
+    {
+     "id": "4101",
+     "display_name": "Climate Change Impacts and Adaptation",
+     "pubs": 1
+    },
+    {
+     "id": "4102",
+     "display_name": "Ecological Applications",
+     "pubs": 1
+    },
+    {
+     "id": "3214",
+     "display_name": "Pharmacology and Pharmaceutical Sciences",
+     "pubs": 1
+    },
+    {
+     "id": "3707",
+     "display_name": "Hydrology",
+     "pubs": 1
+    }
+   ],
+   "recent_titles": [
+    {
+     "title": "Trophic Dynamics and Organic Carbon Sources in Washington DC, USA Area Seepage Spring Communities",
+     "year": 2026
+    },
+    {
+     "title": "Limno‐STOICH: A comprehensive database linking the elemental stoichiometry of organisms with inland aquatic habitats",
+     "year": 2026
+    },
+    {
+     "title": "Assessing seepage‐spring dwelling amphipod and isopod resilience to environmental warming using stable isotopes as a metabolic plasticity proxy",
+     "year": 2025
+    },
+    {
+     "title": "Loss of adult visual responses by developmental BPA exposure is correlated with altered estrogenic signaling",
+     "year": 2025
+    },
+    {
+     "title": "Concentration and Distribution of Specific Siloxanes (D5 and D6) and PAHs in the Anacostia and Potomac Rivers, USA",
+     "year": 2024
+    }
+   ],
+   "pub_match": "confirmed"
+  },
+  {
+   "name": "Manissa Maharawal",
+   "title": "Assistant Professor",
+   "school": "CAS",
+   "department": "Anthropology",
+   "email": "manissam@american.edu",
+   "phone": "(202) 885-6641",
+   "au_profile_url": "https://www.american.edu/cas/faculty/manissam.cfm",
+   "_worksfor_raw": "CAS | Anthropology",
+   "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm",
+   "dim_researcher_id": "ur.016273144633.73",
+   "works_count": 3,
+   "cited_by_count": 27,
+   "topics": [
+    {
+     "id": "people’s intimate lives",
+     "display_name": "people’s intimate lives"
+    },
+    {
+     "id": "intimate life",
+     "display_name": "intimate life"
+    },
+    {
+     "id": "local epistemologies",
+     "display_name": "local epistemologies"
+    },
+    {
+     "id": "Silicon Valley",
+     "display_name": "Silicon Valley"
+    },
+    {
+     "id": "unending growth",
+     "display_name": "unending growth"
+    },
+    {
+     "id": "commentary I",
+     "display_name": "commentary I"
+    },
+    {
+     "id": "imperialism",
+     "display_name": "imperialism"
+    },
+    {
+     "id": "global conditions",
+     "display_name": "global conditions"
+    },
+    {
+     "id": "San Francisco",
+     "display_name": "San Francisco"
+    },
+    {
+     "id": "postsocialist",
+     "display_name": "postsocialist"
+    },
+    {
+     "id": "San Francisco Bay Area",
+     "display_name": "San Francisco Bay Area"
+    },
+    {
+     "id": "Bay Area",
+     "display_name": "Bay Area"
+    }
+   ],
+   "fields": [
+    {
+     "id": "4406",
+     "display_name": "Human Geography",
+     "pubs": 3
+    },
+    {
+     "id": "4404",
+     "display_name": "Development Studies",
+     "pubs": 2
+    },
+    {
+     "id": "4408",
+     "display_name": "Political Science",
+     "pubs": 1
+    },
+    {
+     "id": "3304",
+     "display_name": "Urban and Regional Planning",
+     "pubs": 1
+    }
+   ],
+   "recent_titles": [
+    {
+     "title": "Imperialism, decentering and Silicon Valley: Commentary on Silicon Valley imperialism: Techo fantasies and frictions in postsocialist times",
+     "year": 2025
+    },
+    {
+     "title": "Book review symposium: A People's Guide to the San Francisco Bay Area",
+     "year": 2022
+    },
+    {
+     "title": "Infrastructural Activism: Google Bus Blockades, Affective Politics, and Environmental Gentrification in San Francisco",
+     "year": 2021
+    }
+   ],
+   "pub_match": "confirmed"
+  },
+  {
+   "name": "Betty Malloy",
+   "title": "Professor and Director of the Data Science Programs",
+   "school": "CAS",
+   "department": "Math and Statistics",
+   "email": "malloy@american.edu",
+   "phone": "(202) 885-3614",
+   "au_profile_url": "https://www.american.edu/cas/faculty/malloy.cfm",
+   "_worksfor_raw": "CAS | Math and Statistics",
+   "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Shoji Malone",
+   "title": "Professorial Lecturer",
+   "school": "CAS",
+   "department": "Critical RGC Studies",
+   "email": "smalone@american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/cas/faculty/smalone.cfm",
+   "_worksfor_raw": "CAS | Critical RGC Studies",
+   "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Elissa Margolin",
+   "title": "Professorial Lecturer",
+   "school": "CAS",
+   "department": "Health Studies",
+   "email": "margolin@american.edu",
+   "phone": "(202) 885-6274",
+   "au_profile_url": "https://www.american.edu/cas/faculty/margolin.cfm",
+   "_worksfor_raw": "CAS - Health Studies",
+   "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Susana Marin",
+   "title": "Professorial Lecturer",
+   "school": "CAS",
+   "department": "World Languages and Cultures",
+   "email": "marin@american.edu",
+   "phone": "(202) 885-6920",
+   "au_profile_url": "https://www.american.edu/cas/faculty/marin.cfm",
+   "_worksfor_raw": "CAS - World Languages and Cultures",
+   "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Fahimeh Martami",
+   "title": "Postdoctoral Fellow",
+   "school": "CAS",
+   "department": "Health Studies",
+   "email": "fmartami@american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/cas/faculty/fmartami.cfm",
+   "_worksfor_raw": "CAS | Health Studies",
+   "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm",
+   "dim_researcher_id": "ur.012331011733.96",
+   "works_count": 7,
+   "cited_by_count": 44,
+   "topics": [
+    {
+     "id": "Gulf War Illness",
+     "display_name": "Gulf War Illness"
+    },
+    {
+     "id": "Gulf",
+     "display_name": "Gulf"
+    },
+    {
+     "id": "illness",
+     "display_name": "illness"
+    },
+    {
+     "id": "low glutamate diet",
+     "display_name": "low glutamate diet"
+    },
+    {
+     "id": "diet",
+     "display_name": "diet"
+    },
+    {
+     "id": "PTSD",
+     "display_name": "PTSD"
+    },
+    {
+     "id": "veterans",
+     "display_name": "veterans"
+    },
+    {
+     "id": "symptoms",
+     "display_name": "symptoms"
+    },
+    {
+     "id": "central sensitization",
+     "display_name": "central sensitization"
+    },
+    {
+     "id": "eating disorder outcomes",
+     "display_name": "eating disorder outcomes"
+    },
+    {
+     "id": "improve PTSD",
+     "display_name": "improve PTSD"
+    },
+    {
+     "id": "disorder outcomes",
+     "display_name": "disorder outcomes"
+    }
+   ],
+   "fields": [
+    {
+     "id": "3210",
+     "display_name": "Nutrition and Dietetics",
+     "pubs": 4
+    },
+    {
+     "id": "3003",
+     "display_name": "Animal Production",
+     "pubs": 3
+    },
+    {
+     "id": "3006",
+     "display_name": "Food Sciences",
+     "pubs": 3
+    },
+    {
+     "id": "3209",
+     "display_name": "Neurosciences",
+     "pubs": 3
+    },
+    {
+     "id": "3202",
+     "display_name": "Clinical Sciences",
+     "pubs": 1
+    },
+    {
+     "id": "3214",
+     "display_name": "Pharmacology and Pharmaceutical Sciences",
+     "pubs": 1
+    }
+   ],
+   "recent_titles": [
+    {
+     "title": "Low Glutamate Diet Improves PTSD and Eating Disorder Outcomes in Veterans With Gulf War Illness",
+     "year": 2025
+    },
+    {
+     "title": "Improving Widespread Chronic Pain and Overall Symptoms in Gulf War Illness With the Low Glutamate Diet",
+     "year": 2025
+    },
+    {
+     "title": "Targeting Mitochondrial Dysfunction in Gulf War Illness: Impact of the Low Glutamate Diet on Fatigue",
+     "year": 2025
+    },
+    {
+     "title": "Unmasking the relationship between CGRP and glutamate: from peripheral excitation to central sensitization in migraine",
+     "year": 2025
+    },
+    {
+     "title": "Therapeutic Effects of the Low Glutamate Diet on PTSD Are Mediated by Reductions in Oxidative Stress",
+     "year": 2024
+    }
+   ],
+   "pub_match": "confirmed"
+  },
+  {
+   "name": "Nick Martin",
+   "title": "Theatre Director In Residence",
+   "school": "CAS",
+   "department": "Performing Arts",
+   "email": "martin@american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/cas/faculty/martin.cfm",
+   "_worksfor_raw": "CAS | Performing Arts",
+   "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Juliana Martinez",
+   "title": "Associate Professor",
+   "school": "CAS",
+   "department": "World Languages and Cultures",
+   "email": "jmartinez@american.edu",
+   "phone": "(202) 885-2586",
+   "au_profile_url": "https://www.american.edu/cas/faculty/jmartinez.cfm",
+   "_worksfor_raw": "CAS | World Languages and Cultures",
+   "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm",
+   "dim_researcher_id": "ur.016123006424.27",
+   "works_count": 5,
+   "cited_by_count": 28,
+   "topics": [
+    {
+     "id": "Buenos Aires",
+     "display_name": "Buenos Aires"
+    },
+    {
+     "id": "high school programmes",
+     "display_name": "high school programmes"
+    },
+    {
+     "id": "sexuality education research",
+     "display_name": "sexuality education research"
+    },
+    {
+     "id": "educational research",
+     "display_name": "educational research"
+    },
+    {
+     "id": "school programmes",
+     "display_name": "school programmes"
+    },
+    {
+     "id": "educational project",
+     "display_name": "educational project"
+    },
+    {
+     "id": "sexuality education",
+     "display_name": "sexuality education"
+    },
+    {
+     "id": "queer utopia",
+     "display_name": "queer utopia"
+    },
+    {
+     "id": "education",
+     "display_name": "education"
+    },
+    {
+     "id": "transformative change",
+     "display_name": "transformative change"
+    },
+    {
+     "id": "high school",
+     "display_name": "high school"
+    },
+    {
+     "id": "trans students",
+     "display_name": "trans students"
+    }
+   ],
+   "fields": [
+    {
+     "id": "4408",
+     "display_name": "Political Science",
+     "pubs": 2
+    },
+    {
+     "id": "3601",
+     "display_name": "Art History, Theory and Criticism",
+     "pubs": 1
+    },
+    {
+     "id": "4705",
+     "display_name": "Literary Studies",
+     "pubs": 1
+    },
+    {
+     "id": "3902",
+     "display_name": "Education Policy, Sociology and Philosophy",
+     "pubs": 1
+    },
+    {
+     "id": "4404",
+     "display_name": "Development Studies",
+     "pubs": 1
+    },
+    {
+     "id": "4405",
+     "display_name": "Gender Studies",
+     "pubs": 1
+    }
+   ],
+   "recent_titles": [
+    {
+     "title": "GENDER-RESTRICTIVE GROUPS, MORAL PANIC AND COMPREHENSIVE SEXUAL EDUCATION",
+     "year": 2024
+    },
+    {
+     "title": "A flor de cuerpo: Representaciones del género y de las disidencias sexo-genéricas en Latinoamérica. Edited by Luciana Moreira and Doris Wieser. Madrid: Iberoamericana Verveurt, 2021. Pp. 379. €36.00 (paperback). ISBN 9788491921363",
+     "year": 2022
+    },
+    {
+     "title": "From rage to love: travesti-centred education in Argentina",
+     "year": 2022
+    },
+    {
+     "title": "Travar el saber: Travesti‐Centred Knowledge‐Making and Education",
+     "year": 2021
+    },
+    {
+     "title": "Public Opinion Toward LGBT People and Rights in Latin America and the Caribbean",
+     "year": 2021
+    }
+   ],
+   "pub_match": "confirmed"
+  },
+  {
+   "name": "Sarah Marvar",
+   "title": "Sr Professorial Lecturer",
+   "school": "CAS",
+   "department": "Biology",
+   "email": "sknight@american.edu",
+   "phone": "(202) 885-6538",
+   "au_profile_url": "https://www.american.edu/cas/faculty/sknight.cfm",
+   "_worksfor_raw": "CAS - Biology",
+   "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm",
+   "dim_researcher_id": "ur.012733742275.11",
+   "works_count": 3,
+   "cited_by_count": 0,
+   "topics": [
+    {
+     "id": "students' understanding",
+     "display_name": "students' understanding"
+    },
+    {
+     "id": "small group work",
+     "display_name": "small group work"
+    },
+    {
+     "id": "mid-semester survey",
+     "display_name": "mid-semester survey"
+    },
+    {
+     "id": "virtual classes",
+     "display_name": "virtual classes"
+    },
+    {
+     "id": "flipped classroom",
+     "display_name": "flipped classroom"
+    },
+    {
+     "id": "sense of community",
+     "display_name": "sense of community"
+    },
+    {
+     "id": "synchronous classes",
+     "display_name": "synchronous classes"
+    },
+    {
+     "id": "group work",
+     "display_name": "group work"
+    },
+    {
+     "id": "lecture format",
+     "display_name": "lecture format"
+    },
+    {
+     "id": "student preparedness",
+     "display_name": "student preparedness"
+    },
+    {
+     "id": "undergraduate human anatomy",
+     "display_name": "undergraduate human anatomy"
+    },
+    {
+     "id": "primary research literature",
+     "display_name": "primary research literature"
+    }
+   ],
+   "fields": [
+    {
+     "id": "3101",
+     "display_name": "Biochemistry and Cell Biology",
+     "pubs": 3
+    },
+    {
+     "id": "3208",
+     "display_name": "Medical Physiology",
+     "pubs": 3
+    }
+   ],
+   "recent_titles": [
+    {
+     "title": "Using a Flipped Classroom to Increase Understanding, Retention and Engagement in a Virtual Anatomy and Physiology Course",
+     "year": 2021
+    },
+    {
+     "title": "Using Primary Research Literature as a Teaching Tool in an Undergraduate Human Anatomy and Physiology Course",
+     "year": 2019
+    },
+    {
+     "title": "Using a Mental Obstacle Course to Engage and Elevate Learning in an Anatomy and Physiology Laboratory",
+     "year": 2020
+    }
+   ],
+   "pub_match": "confirmed"
+  },
+  {
+   "name": "Gabriel Mathy",
+   "title": "Associate Professor",
+   "school": "CAS",
+   "department": "Economics",
+   "email": "mathy@american.edu",
+   "phone": "(202) 885-3708",
+   "au_profile_url": "https://www.american.edu/cas/faculty/mathy.cfm",
+   "_worksfor_raw": "CAS | Economics",
+   "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm",
+   "dim_researcher_id": "ur.014136742663.39",
+   "works_count": 13,
+   "cited_by_count": 38,
+   "topics": [
+    {
+     "id": "Great Depression",
+     "display_name": "Great Depression"
+    },
+    {
+     "id": "paper money",
+     "display_name": "paper money"
+    },
+    {
+     "id": "balance-of-payments constrained growth model",
+     "display_name": "balance-of-payments constrained growth model"
+    },
+    {
+     "id": "balance of payments constraint",
+     "display_name": "balance of payments constraint"
+    },
+    {
+     "id": "metal coins",
+     "display_name": "metal coins"
+    },
+    {
+     "id": "underdeveloped financial markets",
+     "display_name": "underdeveloped financial markets"
+    },
+    {
+     "id": "persistent shortage",
+     "display_name": "persistent shortage"
+    },
+    {
+     "id": "domestic money",
+     "display_name": "domestic money"
+    },
+    {
+     "id": "payments constraint",
+     "display_name": "payments constraint"
+    },
+    {
+     "id": "capital account",
+     "display_name": "capital account"
+    },
+    {
+     "id": "supply shocks",
+     "display_name": "supply shocks"
+    },
+    {
+     "id": "vector autoregression",
+     "display_name": "vector autoregression"
+    }
+   ],
+   "fields": [
+    {
+     "id": "3802",
+     "display_name": "Econometrics",
+     "pubs": 9
+    },
+    {
+     "id": "3801",
+     "display_name": "Applied Economics",
+     "pubs": 8
+    },
+    {
+     "id": "3803",
+     "display_name": "Economic Theory",
+     "pubs": 3
+    },
+    {
+     "id": "3502",
+     "display_name": "Banking, Finance and Investment",
+     "pubs": 2
+    },
+    {
+     "id": "4303",
+     "display_name": "Historical Studies",
+     "pubs": 1
+    }
+   ],
+   "recent_titles": [
+    {
+     "title": "Did Henry Ford Cause the Recession of 1926–1927? A Test of the Granular Hypothesis",
+     "year": 2025
+    },
+    {
+     "title": "A Look Back at the Inflation of the 1910s",
+     "year": 2025
+    },
+    {
+     "title": "The world’s first global safe asset: British public debt, 1718-1913",
+     "year": 2025
+    },
+    {
+     "title": "Could Diffusion Indexes Have Forecasted the Great Depression?",
+     "year": 2024
+    },
+    {
+     "title": "Are jobless recoveries history? Okun’s law, insufficient stimulus, and slow recoveries",
+     "year": 2024
+    }
+   ],
+   "pub_match": "confirmed"
+  },
+  {
+   "name": "Jocelyn McCarthy",
+   "title": "Senior Professorial Lecturer",
+   "school": "CAS",
+   "department": "Literature",
+   "email": "jocelyn.mccarthy@american.edu",
+   "phone": "(202) 885-8942",
+   "au_profile_url": "https://www.american.edu/cas/faculty/mccarthy.cfm",
+   "_worksfor_raw": "CAS | Literature",
+   "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Bruce McCollum",
+   "title": "Physicist In Residence",
+   "school": "CAS",
+   "department": "Other Operations and Administration",
+   "email": "mccollum@american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/cas/faculty/mccollum.cfm",
+   "_worksfor_raw": "CAS | Other Operations and Administration",
+   "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm",
+   "dim_researcher_id": "ur.012015713230.29",
+   "works_count": 1,
+   "cited_by_count": 0,
+   "topics": [
+    {
+     "id": "high-mass young stellar objects",
+     "display_name": "high-mass young stellar objects"
+    },
+    {
+     "id": "halo of NGC",
+     "display_name": "halo of NGC"
+    },
+    {
+     "id": "young stellar objects",
+     "display_name": "young stellar objects"
+    },
+    {
+     "id": "stellar objects",
+     "display_name": "stellar objects"
+    },
+    {
+     "id": "NGC",
+     "display_name": "NGC"
+    },
+    {
+     "id": "halo",
+     "display_name": "halo"
+    },
+    {
+     "id": "objective",
+     "display_name": "objective"
+    }
+   ],
+   "fields": [],
+   "recent_titles": [
+    {
+     "title": "A Probable High-mass Young Stellar Object in the Halo of NGC 253",
+     "year": 2019
+    }
+   ],
+   "pub_match": "confirmed"
+  },
+  {
+   "name": "Heather McDonald",
+   "title": "Sr Professorial Lecturer",
+   "school": "CAS",
+   "department": "Literature",
+   "email": "heather.mcdonald@american.edu",
+   "phone": "(202) 885-8930",
+   "au_profile_url": "https://www.american.edu/cas/faculty/hmcdonal.cfm",
+   "_worksfor_raw": "CAS - Literature",
+   "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Allison McMahon",
+   "title": "STEM Educator-in-Residence",
+   "school": "CAS",
+   "department": "Physics",
+   "email": "mcmahon@american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/cas/faculty/mcmahon.cfm",
+   "_worksfor_raw": "CAS | Physics",
+   "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Marc Medwin",
+   "title": "Senior Professorial Lecturer",
+   "school": "CAS",
+   "department": "Performing Arts",
+   "email": "medwin@american.edu",
+   "phone": "(202) 885-3446",
+   "au_profile_url": "https://www.american.edu/cas/faculty/medwin.cfm",
+   "_worksfor_raw": "CAS | Performing Arts",
+   "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Nimai Mehta",
+   "title": "Hurst Senior Professorial Lecturer",
+   "school": "CAS",
+   "department": "Math and Statistics",
+   "email": "",
+   "phone": "(202) 885-3017",
+   "au_profile_url": "https://www.american.edu/cas/faculty/mehta.cfm",
+   "_worksfor_raw": "CAS | Math and Statistics",
+   "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Jesse Meiller",
+   "title": "Hurst Sr Prof Lecturer",
+   "school": "CAS",
+   "department": "Environmental Science",
+   "email": "meiller@american.edu",
+   "phone": "(202) 885-1780",
+   "au_profile_url": "https://www.american.edu/cas/faculty/meiller.cfm",
+   "_worksfor_raw": "CAS - Environmental Science",
+   "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Carl Menninger",
+   "title": "Assistant Professor",
+   "school": "CAS",
+   "department": "Performing Arts",
+   "email": "menninge@american.edu",
+   "phone": "(202) 885-3414",
+   "au_profile_url": "https://www.american.edu/cas/faculty/menninge.cfm",
+   "_worksfor_raw": "CAS | Performing Arts",
+   "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "JP Merz",
+   "title": "Professorial Lecturer",
+   "school": "CAS",
+   "department": "Performing Arts",
+   "email": "merz@american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/cas/faculty/merz.cfm",
+   "_worksfor_raw": "CAS | Performing Arts",
+   "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Jeffrey Romero Middents",
+   "title": "Associate Professor",
+   "school": "CAS",
+   "department": "Literature",
+   "email": "middents@american.edu",
+   "phone": "(202) 885-2979",
+   "au_profile_url": "https://www.american.edu/cas/faculty/middents.cfm",
+   "_worksfor_raw": "CAS | Literature",
+   "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm",
+   "dim_researcher_id": "ur.07466352507.46",
+   "works_count": 2,
+   "cited_by_count": 0,
+   "topics": [
+    {
+     "id": "slow cinema",
+     "display_name": "slow cinema"
+    },
+    {
+     "id": "video essay",
+     "display_name": "video essay"
+    },
+    {
+     "id": "Paul Schrader",
+     "display_name": "Paul Schrader"
+    },
+    {
+     "id": "cinema",
+     "display_name": "cinema"
+    },
+    {
+     "id": "viewers",
+     "display_name": "viewers"
+    },
+    {
+     "id": "essay",
+     "display_name": "essay"
+    },
+    {
+     "id": "Alfonso",
+     "display_name": "Alfonso"
+    },
+    {
+     "id": "Paul",
+     "display_name": "Paul"
+    },
+    {
+     "id": "Schrader",
+     "display_name": "Schrader"
+    },
+    {
+     "id": "video",
+     "display_name": "video"
+    },
+    {
+     "id": "twenty-first-century trends",
+     "display_name": "twenty-first-century trends"
+    },
+    {
+     "id": "stand-up show",
+     "display_name": "stand-up show"
+    }
+   ],
+   "fields": [
+    {
+     "id": "4410",
+     "display_name": "Sociology",
+     "pubs": 1
+    },
+    {
+     "id": "3605",
+     "display_name": "Screen and Digital Media",
+     "pubs": 1
+    }
+   ],
+   "recent_titles": [
+    {
+     "title": "Being There: The Long Take and Alfonso Cuarón’s Gravity",
+     "year": 2025
+    },
+    {
+     "title": "Con Nariz (blanqui-)roja: Peruvian Comedy, Marca Perú and ¡Asu Mare!",
+     "year": 2020
+    }
+   ],
+   "pub_match": "confirmed"
+  },
+  {
+   "name": "Jaime Miller",
+   "title": "Hurst Senior Professorial Lecturer",
+   "school": "CAS",
+   "department": "Math and Statistics",
+   "email": "jmiller@american.edu",
+   "phone": "(202) 885-3685",
+   "au_profile_url": "https://www.american.edu/cas/faculty/jmiller.cfm",
+   "_worksfor_raw": "CAS | Math and Statistics",
+   "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
    "name": "Gemma Sune Minguella",
    "title": "Hurst Senior Professorial Lecturer",
    "school": "CAS",
@@ -14433,6 +15406,144 @@
    "recent_titles": [
     {
      "title": "Tula sin censura: un recorrido por la otra versión del clásico de Miguel Picazo",
+     "year": 2020
+    }
+   ],
+   "pub_match": "confirmed"
+  },
+  {
+   "name": "Manish Mishra",
+   "title": "Sr Adj Prof Lecturer",
+   "school": "CAS",
+   "department": "",
+   "email": "mishra@american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/cas/faculty/mishra.cfm",
+   "_worksfor_raw": "",
+   "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Chris Mitchell",
+   "title": "Senior Professorial Lecturer",
+   "school": "CAS",
+   "department": "Math and Statistics",
+   "email": "mitchell@american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/cas/faculty/mitchell.cfm",
+   "_worksfor_raw": "CAS | Math and Statistics",
+   "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Bashir Mobasher",
+   "title": "Scholar In Residence",
+   "school": "CAS",
+   "department": "Sociology",
+   "email": "mobasher@american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/cas/faculty/mobasher.cfm",
+   "_worksfor_raw": "CAS | Sociology",
+   "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Amin Mohseni-Cheraghlou",
+   "title": "Senior Professorial Lecturer",
+   "school": "CAS",
+   "department": "Online Partner Programs (OLP)",
+   "email": "amohseni@american.edu",
+   "phone": "(202) 885-3752",
+   "au_profile_url": "https://www.american.edu/cas/faculty/amohseni.cfm",
+   "_worksfor_raw": "CAS | Online Partner Programs (OLP)",
+   "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm",
+   "dim_researcher_id": "ur.011002340205.07",
+   "works_count": 3,
+   "cited_by_count": 34,
+   "topics": [
+    {
+     "id": "fossil fuel subsidies",
+     "display_name": "fossil fuel subsidies"
+    },
+    {
+     "id": "feed-in tariffs",
+     "display_name": "feed-in tariffs"
+    },
+    {
+     "id": "fiscal space",
+     "display_name": "fiscal space"
+    },
+    {
+     "id": "fuel subsidies",
+     "display_name": "fuel subsidies"
+    },
+    {
+     "id": "Iranian Rials",
+     "display_name": "Iranian Rials"
+    },
+    {
+     "id": "industrial investment",
+     "display_name": "industrial investment"
+    },
+    {
+     "id": "economic justification",
+     "display_name": "economic justification"
+    },
+    {
+     "id": "electricity demand",
+     "display_name": "electricity demand"
+    },
+    {
+     "id": "Iranian government",
+     "display_name": "Iranian government"
+    },
+    {
+     "id": "energy development",
+     "display_name": "energy development"
+    },
+    {
+     "id": "financial development",
+     "display_name": "financial development"
+    },
+    {
+     "id": "energy intensity",
+     "display_name": "energy intensity"
+    }
+   ],
+   "fields": [
+    {
+     "id": "3801",
+     "display_name": "Applied Economics",
+     "pubs": 2
+    },
+    {
+     "id": "3502",
+     "display_name": "Banking, Finance and Investment",
+     "pubs": 1
+    },
+    {
+     "id": "3802",
+     "display_name": "Econometrics",
+     "pubs": 1
+    }
+   ],
+   "recent_titles": [
+    {
+     "title": "Wind Power in Iran: Technical, Policy, and Financial Aspects for Better Energy Resource Management",
+     "year": 2022
+    },
+    {
+     "title": "THE IMPACT OF ISLAMIC FINANCIAL DEVELOPMENT ON ENERGY INTENSITY: EVIDENCE FROM ISLAMIC BANKS",
+     "year": 2021
+    },
+    {
+     "title": "Benevolent savings and macroeconomic variables: some empirical evidence from Iran",
      "year": 2020
     }
    ],
@@ -14551,6 +15662,301 @@
     }
    ],
    "pub_match": "confirmed"
+  },
+  {
+   "name": "Chemi Montes",
+   "title": "Associate Professor",
+   "school": "CAS",
+   "department": "Art",
+   "email": "cmontes@american.edu",
+   "phone": "(202) 885-1670",
+   "au_profile_url": "https://www.american.edu/cas/faculty/cmontes.cfm",
+   "_worksfor_raw": "CAS | Art",
+   "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Rita Morandi",
+   "title": "Professorial Lecturer",
+   "school": "CAS",
+   "department": "World Languages and Cultures",
+   "email": "morandi@american.edu",
+   "phone": "(202) 885-2389",
+   "au_profile_url": "https://www.american.edu/cas/faculty/morandi.cfm",
+   "_worksfor_raw": "CAS | World Languages and Cultures",
+   "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Crystal Moten",
+   "title": "Public Historian-in-Residence",
+   "school": "CAS",
+   "department": "History",
+   "email": "cmoten@american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/cas/faculty/cmoten.cfm",
+   "_worksfor_raw": "CAS | History",
+   "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Ahmad Mousavi",
+   "title": "Assistant Professor",
+   "school": "CAS",
+   "department": "Math and Statistics",
+   "email": "mousavi@american.edu",
+   "phone": "(202) 885-5950",
+   "au_profile_url": "https://www.american.edu/cas/faculty/mousavi.cfm",
+   "_worksfor_raw": "CAS | Math and Statistics",
+   "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm",
+   "dim_researcher_id": "ur.016125451103.02",
+   "works_count": 12,
+   "cited_by_count": 11,
+   "topics": [
+    {
+     "id": "support vector machine",
+     "display_name": "support vector machine"
+    },
+    {
+     "id": "state-of-the-art",
+     "display_name": "state-of-the-art"
+    },
+    {
+     "id": "benchmark datasets",
+     "display_name": "benchmark datasets"
+    },
+    {
+     "id": "state-of-the-art accuracy",
+     "display_name": "state-of-the-art accuracy"
+    },
+    {
+     "id": "misinformation detection",
+     "display_name": "misinformation detection"
+    },
+    {
+     "id": "traditional classifiers",
+     "display_name": "traditional classifiers"
+    },
+    {
+     "id": "minority class",
+     "display_name": "minority class"
+    },
+    {
+     "id": "model complex decision boundaries",
+     "display_name": "model complex decision boundaries"
+    },
+    {
+     "id": "twin support vector machine",
+     "display_name": "twin support vector machine"
+    },
+    {
+     "id": "twin support vector machine model",
+     "display_name": "twin support vector machine model"
+    },
+    {
+     "id": "complex decision boundaries",
+     "display_name": "complex decision boundaries"
+    },
+    {
+     "id": "binary classification task",
+     "display_name": "binary classification task"
+    }
+   ],
+   "fields": [
+    {
+     "id": "4611",
+     "display_name": "Machine Learning",
+     "pubs": 6
+    },
+    {
+     "id": "4901",
+     "display_name": "Applied Mathematics",
+     "pubs": 5
+    },
+    {
+     "id": "4903",
+     "display_name": "Numerical and Computational Mathematics",
+     "pubs": 4
+    },
+    {
+     "id": "4608",
+     "display_name": "Human-Centred Computing",
+     "pubs": 2
+    },
+    {
+     "id": "4006",
+     "display_name": "Communications Engineering",
+     "pubs": 1
+    },
+    {
+     "id": "4603",
+     "display_name": "Computer Vision and Multimedia Computation",
+     "pubs": 1
+    },
+    {
+     "id": "4605",
+     "display_name": "Data Management and Data Science",
+     "pubs": 1
+    },
+    {
+     "id": "3502",
+     "display_name": "Banking, Finance and Investment",
+     "pubs": 1
+    }
+   ],
+   "recent_titles": [
+    {
+     "title": "A dynamically nonmonotone trust region algorithm based on scalar estimations of the Hessian with application to binary classification with outliers",
+     "year": 2027
+    },
+    {
+     "title": "ℓ0-Regularized Quadratic Surface Support Vector Machines",
+     "year": 2026
+    },
+    {
+     "title": "E-CaTCH: Event-Centric Cross-Modal Attention With Temporal Consistency and Class-Imbalance Handling for Misinformation Detection",
+     "year": 2026
+    },
+    {
+     "title": "Quadratic surface twin support vector machine for imbalanced data",
+     "year": 2026
+    },
+    {
+     "title": "Systematic Literature Review of Machine Learning Methods for Emotion Recognition Using EEG and Physiological Signals in Healthcare",
+     "year": 2026
+    }
+   ],
+   "pub_match": "confirmed"
+  },
+  {
+   "name": "Agnit Mukhopadhyay",
+   "title": "Research Asst Professor",
+   "school": "CAS",
+   "department": "Physics",
+   "email": "agnitm@american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/cas/faculty/agnitm.cfm",
+   "_worksfor_raw": "CAS - Physics",
+   "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm",
+   "dim_researcher_id": "ur.013167760544.28",
+   "works_count": 3,
+   "cited_by_count": 28,
+   "topics": [
+    {
+     "id": "Space Weather Modeling Framework",
+     "display_name": "Space Weather Modeling Framework"
+    },
+    {
+     "id": "local magnetic fluctuations",
+     "display_name": "local magnetic fluctuations"
+    },
+    {
+     "id": "magnetic fluctuations",
+     "display_name": "magnetic fluctuations"
+    },
+    {
+     "id": "effects of space weather",
+     "display_name": "effects of space weather"
+    },
+    {
+     "id": "Earth's magnetic field",
+     "display_name": "Earth's magnetic field"
+    },
+    {
+     "id": "magnetic field",
+     "display_name": "magnetic field"
+    },
+    {
+     "id": "local geomagnetic disturbances",
+     "display_name": "local geomagnetic disturbances"
+    },
+    {
+     "id": "space weather",
+     "display_name": "space weather"
+    },
+    {
+     "id": "geomagnetic disturbances",
+     "display_name": "geomagnetic disturbances"
+    },
+    {
+     "id": "ionospheric source",
+     "display_name": "ionospheric source"
+    },
+    {
+     "id": "root sum square",
+     "display_name": "root sum square"
+    },
+    {
+     "id": "ionospheric conductivity",
+     "display_name": "ionospheric conductivity"
+    }
+   ],
+   "fields": [
+    {
+     "id": "3701",
+     "display_name": "Atmospheric Sciences",
+     "pubs": 2
+    },
+    {
+     "id": "5109",
+     "display_name": "Space Sciences",
+     "pubs": 1
+    },
+    {
+     "id": "4001",
+     "display_name": "Aerospace Engineering",
+     "pubs": 1
+    }
+   ],
+   "recent_titles": [
+    {
+     "title": "Exploring Localized Geomagnetic Disturbances in Global MHD: Physics and Numerics",
+     "year": 2024
+    },
+    {
+     "title": "Total Ionospheric Conductance: Summation of Sources",
+     "year": 2022
+    },
+    {
+     "title": "Global Driving of Auroral Precipitation: 1. Balance of Sources",
+     "year": 2022
+    }
+   ],
+   "pub_match": "confirmed"
+  },
+  {
+   "name": "Julia Murphy",
+   "title": "Professorial Lecturer",
+   "school": "CAS",
+   "department": "Literature",
+   "email": "jmurphy@american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/cas/faculty/jmurphy.cfm",
+   "_worksfor_raw": "CAS - Literature",
+   "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Danielle Mysliwiec",
+   "title": "Associate Professor",
+   "school": "CAS",
+   "department": "Art",
+   "email": "mysliwie@american.edu",
+   "phone": "(202) 885-6476",
+   "au_profile_url": "https://www.american.edu/cas/faculty/mysliwie.cfm",
+   "_worksfor_raw": "CAS | Art",
+   "_source_page": "https://www.american.edu/cas/faculty/faculty-m.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
   },
   {
    "name": "Erez Naaman",
@@ -14792,7 +16198,7 @@
    "_source_page": "https://www.american.edu/cas/faculty/faculty-n.cfm",
    "dim_researcher_id": "ur.07425342531.78",
    "works_count": 11,
-   "cited_by_count": 190,
+   "cited_by_count": 191,
    "topics": [
     {
      "id": "game",
@@ -16948,7 +18354,7 @@
    "_source_page": "https://www.american.edu/cas/faculty/faculty-r.cfm",
    "dim_researcher_id": "ur.013677244557.62",
    "works_count": 36,
-   "cited_by_count": 344,
+   "cited_by_count": 345,
    "topics": [
     {
      "id": "aversive effects",
@@ -21975,7 +23381,7 @@
    "_source_page": "https://www.american.edu/cas/faculty/faculty-x-z.cfm",
    "dim_researcher_id": "ur.0776663426.60",
    "works_count": 46,
-   "cited_by_count": 432,
+   "cited_by_count": 433,
    "topics": [
     {
      "id": "cyclic voltammetry",
@@ -22146,7 +23552,7 @@
    "_source_page": "https://www.american.edu/cas/faculty/faculty-x-z.cfm",
    "dim_researcher_id": "ur.015241466553.33",
    "works_count": 26,
-   "cited_by_count": 1745,
+   "cited_by_count": 1746,
    "topics": [
     {
      "id": "citations",
@@ -22690,7 +24096,7 @@
    "_source_page": "https://www.american.edu/kogod/directory/faculty-directory.cfm",
    "dim_researcher_id": "ur.013547225062.81",
    "works_count": 8,
-   "cited_by_count": 275,
+   "cited_by_count": 276,
    "topics": [
     {
      "id": "nonfinancial firms",
@@ -23833,7 +25239,7 @@
    "_source_page": "https://www.american.edu/kogod/directory/faculty-directory.cfm",
    "dim_researcher_id": "ur.013773612115.20",
    "works_count": 16,
-   "cited_by_count": 351,
+   "cited_by_count": 353,
    "topics": [
     {
      "id": "resilient leadership",
@@ -24387,7 +25793,7 @@
    "_source_page": "https://www.american.edu/kogod/directory/faculty-directory.cfm",
    "dim_researcher_id": "ur.014727532326.43",
    "works_count": 10,
-   "cited_by_count": 461,
+   "cited_by_count": 462,
    "topics": [
     {
      "id": "public policy",
@@ -24634,7 +26040,7 @@
    "_source_page": "https://www.american.edu/kogod/directory/faculty-directory.cfm",
    "dim_researcher_id": "ur.015473321111.74",
    "works_count": 2,
-   "cited_by_count": 14,
+   "cited_by_count": 15,
    "topics": [
     {
      "id": "marginalized groups",
@@ -25196,7 +26602,7 @@
    "_source_page": "https://www.american.edu/kogod/directory/faculty-directory.cfm",
    "dim_researcher_id": "ur.013535626272.07",
    "works_count": 12,
-   "cited_by_count": 246,
+   "cited_by_count": 247,
    "topics": [
     {
      "id": "project performance",
@@ -26027,7 +27433,7 @@
    "_source_page": "https://www.american.edu/kogod/directory/faculty-directory.cfm",
    "dim_researcher_id": "ur.014751467476.20",
    "works_count": 15,
-   "cited_by_count": 372,
+   "cited_by_count": 374,
    "topics": [
     {
      "id": "international business",
@@ -26460,7 +27866,7 @@
    "_source_page": "https://www.american.edu/kogod/directory/faculty-directory.cfm",
    "dim_researcher_id": "ur.010466425375.02",
    "works_count": 17,
-   "cited_by_count": 196,
+   "cited_by_count": 197,
    "topics": [
     {
      "id": "loan loss provisions",
@@ -26583,7 +27989,7 @@
    "_source_page": "https://www.american.edu/kogod/directory/faculty-directory.cfm",
    "dim_researcher_id": "ur.010013203610.15",
    "works_count": 6,
-   "cited_by_count": 68,
+   "cited_by_count": 69,
    "topics": [
     {
      "id": "tax reform",
@@ -28543,7 +29949,7 @@
    "department": "Peace, Human Rights & Cultural Relations",
    "email": "abunimer@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/sis/faculty/abunimer.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/abunimer.cfm",
    "_worksfor_raw": "SIS | Peace, Human Rights & Cultural Relations",
    "_source_page": "https://www.american.edu/sis/faculty/",
    "dim_researcher_id": "ur.012301316451.49",
@@ -28672,7 +30078,7 @@
    "department": "Global Inquiry",
    "email": "aacharya@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/sis/faculty/aacharya.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/aacharya.cfm",
    "_worksfor_raw": "SIS | Global Inquiry",
    "_source_page": "https://www.american.edu/sis/faculty/",
    "dim_researcher_id": "ur.013114651523.15",
@@ -28781,7 +30187,7 @@
    "department": "Global Inquiry",
    "email": "adcock@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/sis/faculty/adcock.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/adcock.cfm",
    "_worksfor_raw": "SIS | Global Inquiry",
    "_source_page": "https://www.american.edu/sis/faculty/",
    "topics": [],
@@ -28795,7 +30201,7 @@
    "department": "Foreign Policy & Global Security",
    "email": "aftandil@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/sis/faculty/aftandil.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/aftandil.cfm",
    "_worksfor_raw": "SIS | Foreign Policy & Global Security",
    "_source_page": "https://www.american.edu/sis/faculty/",
    "topics": [],
@@ -28809,7 +30215,7 @@
    "department": "Peace, Human Rights & Cultural Relations",
    "email": "akbar@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/sis/faculty/akbar.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/akbar.cfm",
    "_worksfor_raw": "SIS | Peace, Human Rights & Cultural Relations",
    "_source_page": "https://www.american.edu/sis/faculty/",
    "dim_researcher_id": "ur.015067417613.97",
@@ -28852,7 +30258,7 @@
    "department": "Foreign Policy & Global Security",
    "email": "atzili@american.edu",
    "phone": "(202) 885-1648",
-   "au_profile_url": "https://www.american.edu/sis/faculty/atzili.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/atzili.cfm",
    "_worksfor_raw": "SIS | Foreign Policy & Global Security",
    "_source_page": "https://www.american.edu/sis/faculty/",
    "dim_researcher_id": "ur.07527402153.02",
@@ -29033,7 +30439,7 @@
    "department": "Environment, Development & Health",
    "email": "bartilow@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/sis/faculty/bartilow.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/bartilow.cfm",
    "_worksfor_raw": "SIS | Environment, Development & Health",
    "_source_page": "https://www.american.edu/sis/faculty/",
    "dim_researcher_id": "ur.014277432615.84",
@@ -29231,7 +30637,7 @@
    "department": "Global Inquiry",
    "email": "boesenec@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/sis/faculty/boesenec.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/boesenec.cfm",
    "_worksfor_raw": "SIS | Global Inquiry",
    "_source_page": "https://www.american.edu/sis/faculty/",
    "topics": [],
@@ -29359,12 +30765,12 @@
    "department": "Politics, Governance & Economics",
    "email": "brunel@american.edu",
    "phone": "(202) 885-1667",
-   "au_profile_url": "https://www.american.edu/sis/faculty/brunel.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/brunel.cfm",
    "_worksfor_raw": "SIS | Politics, Governance & Economics",
    "_source_page": "https://www.american.edu/sis/faculty/",
    "dim_researcher_id": "ur.015167353417.17",
    "works_count": 6,
-   "cited_by_count": 174,
+   "cited_by_count": 176,
    "topics": [
     {
      "id": "climate-sensitive sectors",
@@ -29602,7 +31008,7 @@
    "_source_page": "https://www.american.edu/sis/faculty/",
    "dim_researcher_id": "ur.01207317331.30",
    "works_count": 16,
-   "cited_by_count": 306,
+   "cited_by_count": 307,
    "topics": [
     {
      "id": "Somali region",
@@ -29726,7 +31132,7 @@
    "department": "Peace, Human Rights & Cultural Relations",
    "email": "cchin@american.edu",
    "phone": "(202) 885-6365",
-   "au_profile_url": "https://www.american.edu/sis/faculty/cchin.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/cchin.cfm",
    "_worksfor_raw": "SIS | Peace, Human Rights & Cultural Relations",
    "_source_page": "https://www.american.edu/sis/faculty/",
    "topics": [],
@@ -29896,7 +31302,7 @@
    "department": "Politics, Governance & Economics",
    "email": "cadavis@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/sis/faculty/cadavis.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/cadavis.cfm",
    "_worksfor_raw": "SIS | Politics, Governance & Economics",
    "_source_page": "https://www.american.edu/sis/faculty/",
    "topics": [],
@@ -30170,7 +31576,7 @@
    "_source_page": "https://www.american.edu/sis/faculty/",
    "dim_researcher_id": "ur.015027551515.93",
    "works_count": 7,
-   "cited_by_count": 16,
+   "cited_by_count": 17,
    "topics": [
     {
      "id": "political elites",
@@ -30378,7 +31784,7 @@
    "department": "Peace, Human Rights & Cultural Relations",
    "email": "awfontes@american.edu",
    "phone": "(202) 885-6704",
-   "au_profile_url": "https://www.american.edu/sis/faculty/awfontes.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/awfontes.cfm",
    "_worksfor_raw": "SIS | Peace, Human Rights & Cultural Relations",
    "_source_page": "https://www.american.edu/sis/faculty/",
    "dim_researcher_id": "ur.013023302036.73",
@@ -30701,7 +32107,7 @@
    "department": "Peace, Human Rights & Cultural Relations",
    "email": "caroleg@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/sis/faculty/caroleg.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/caroleg.cfm",
    "_worksfor_raw": "SIS | Peace, Human Rights & Cultural Relations",
    "_source_page": "https://www.american.edu/sis/faculty/",
    "dim_researcher_id": "ur.012117563077.22",
@@ -31159,7 +32565,7 @@
    "_source_page": "https://www.american.edu/sis/faculty/",
    "dim_researcher_id": "ur.014555077575.76",
    "works_count": 1,
-   "cited_by_count": 6,
+   "cited_by_count": 7,
    "topics": [
     {
      "id": "international peacebuilding interventions",
@@ -31328,7 +32734,7 @@
    "department": "Environment, Development & Health",
    "email": "shader@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/sis/faculty/shader.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/shader.cfm",
    "_worksfor_raw": "SIS | Environment, Development & Health",
    "_source_page": "https://www.american.edu/sis/faculty/",
    "topics": [],
@@ -31342,7 +32748,7 @@
    "department": "Politics, Governance & Economics",
    "email": "hardig@american.edu",
    "phone": "(202) 885-1541",
-   "au_profile_url": "https://www.american.edu/sis/faculty/hardig.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/students/hardig.cfm",
    "_worksfor_raw": "SIS | Politics, Governance & Economics",
    "_source_page": "https://www.american.edu/sis/faculty/",
    "topics": [],
@@ -31356,7 +32762,7 @@
    "department": "Politics, Governance & Economics",
    "email": "ahart@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/sis/faculty/ahart.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/ahart.cfm",
    "_worksfor_raw": "SIS | Politics, Governance & Economics",
    "_source_page": "https://www.american.edu/sis/faculty/",
    "topics": [],
@@ -31714,7 +33120,7 @@
    "department": "Peace, Human Rights & Cultural Relations",
    "email": "jkelley@american.edu",
    "phone": "(202) 885-1558",
-   "au_profile_url": "https://www.american.edu/sis/faculty/jkelley.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/students/jkelley.cfm",
    "_worksfor_raw": "SIS | Peace, Human Rights & Cultural Relations",
    "_source_page": "https://www.american.edu/sis/faculty/",
    "topics": [],
@@ -31875,7 +33281,7 @@
    "department": "Peace, Human Rights & Cultural Relations",
    "email": "kuraduse@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/sis/faculty/kuraduse.cfm",
+   "au_profile_url": "https://www.american.edu/baker/faculty/kuraduse.cfm",
    "_worksfor_raw": "SIS | Peace, Human Rights & Cultural Relations",
    "_source_page": "https://www.american.edu/sis/faculty/",
    "dim_researcher_id": "ur.010754071210.98",
@@ -32484,7 +33890,7 @@
    "department": "Accountability Research Center",
    "email": "",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/sis/faculty/nadelman.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/staff/nadelman.cfm",
    "_worksfor_raw": "SIS | Accountability Research Center",
    "_source_page": "https://www.american.edu/sis/faculty/",
    "topics": [],
@@ -32498,7 +33904,7 @@
    "department": "Environment, Development & Health",
    "email": "simon.nicholson@american.edu",
    "phone": "(202) 885-1614",
-   "au_profile_url": "https://www.american.edu/sis/faculty/snichols.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/students/snichols.cfm",
    "_worksfor_raw": "SIS | Environment, Development & Health",
    "_source_page": "https://www.american.edu/sis/faculty/",
    "dim_researcher_id": "ur.012324551133.10",
@@ -32764,7 +34170,7 @@
    "department": "Global Inquiry",
    "email": "",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/sis/faculty/rancatoj.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/rancatoj.cfm",
    "_worksfor_raw": "SIS | Global Inquiry",
    "_source_page": "https://www.american.edu/sis/faculty/",
    "topics": [],
@@ -33280,7 +34686,7 @@
    "department": "Peace, Human Rights & Cultural Relations",
    "email": "sajjad@american.edu",
    "phone": "(202) 885-6572",
-   "au_profile_url": "https://www.american.edu/sis/faculty/sajjad.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/students/sajjad.cfm",
    "_worksfor_raw": "SIS | Peace, Human Rights & Cultural Relations",
    "_source_page": "https://www.american.edu/sis/faculty/",
    "dim_researcher_id": "ur.016650165117.40",
@@ -33371,7 +34777,7 @@
    "department": "Foreign Policy & Global Security",
    "email": "dschneid@american.edu",
    "phone": "(202) 885-1687",
-   "au_profile_url": "https://www.american.edu/sis/faculty/dschneid.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/students/dschneid.cfm",
    "_worksfor_raw": "SIS | Foreign Policy & Global Security",
    "_source_page": "https://www.american.edu/sis/faculty/",
    "topics": [],
@@ -33697,7 +35103,7 @@
    "department": "Peace, Human Rights & Cultural Relations",
    "email": "bsims@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/sis/faculty/bsims.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/bsims.cfm",
    "_worksfor_raw": "SIS | Peace, Human Rights & Cultural Relations",
    "_source_page": "https://www.american.edu/sis/faculty/",
    "topics": [],
@@ -34131,7 +35537,7 @@
    "department": "Peace, Human Rights & Cultural Relations",
    "email": "atileva@american.edu",
    "phone": "(202) 885-6080",
-   "au_profile_url": "https://www.american.edu/sis/faculty/atileva.cfm",
+   "au_profile_url": "https://www.american.edu/cas/faculty/atileva.cfm",
    "_worksfor_raw": "SIS | Peace, Human Rights & Cultural Relations",
    "_source_page": "https://www.american.edu/sis/faculty/",
    "dim_researcher_id": "ur.015220713757.92",
@@ -34293,7 +35699,7 @@
    "department": "Politics, Governance & Economics",
    "email": "tuomi@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/sis/faculty/tuomi.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/students/tuomi.cfm",
    "_worksfor_raw": "SIS | Politics, Governance & Economics",
    "_source_page": "https://www.american.edu/sis/faculty/",
    "topics": [],
@@ -34813,7 +36219,7 @@
    "department": "Public Communication",
    "email": "bhaskar@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/soc/faculty/bhaskar.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/bhaskar.cfm",
    "_worksfor_raw": "SOC | Public Communication",
    "_source_page": "https://www.american.edu/soc/faculty/",
    "topics": [],
@@ -34827,7 +36233,7 @@
    "department": "Public Communication",
    "email": "borum@american.edu",
    "phone": "(202) 885-6485",
-   "au_profile_url": "https://www.american.edu/soc/faculty/chattoo.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/chattoo.cfm",
    "_worksfor_raw": "SOC | Public Communication",
    "_source_page": "https://www.american.edu/soc/faculty/",
    "dim_researcher_id": "ur.07633627740.48",
@@ -34936,7 +36342,7 @@
    "department": "Public Communication",
    "email": "",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/soc/faculty/braddock.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/braddock.cfm",
    "_worksfor_raw": "SOC | Public Communication",
    "_source_page": "https://www.american.edu/soc/faculty/",
    "dim_researcher_id": "ur.015674721076.27",
@@ -35079,7 +36485,7 @@
    "department": "Journalism",
    "email": "bryant@american.edu",
    "phone": "(202) 885-2062",
-   "au_profile_url": "https://www.american.edu/soc/faculty/bryant.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/bryant.cfm",
    "_worksfor_raw": "SOC | Journalism",
    "_source_page": "https://www.american.edu/soc/faculty/",
    "topics": [],
@@ -35093,7 +36499,7 @@
    "department": "Communication Studies",
    "email": "butkowsk@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/soc/faculty/butkowsk.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/butkowsk.cfm",
    "_worksfor_raw": "SOC | Communication Studies",
    "_source_page": "https://www.american.edu/soc/faculty/",
    "dim_researcher_id": "ur.014150332015.08",
@@ -35302,7 +36708,7 @@
    "department": "Public Communication",
    "email": "doshi@american.edu",
    "phone": "(202) 885-2017",
-   "au_profile_url": "https://www.american.edu/soc/faculty/doshi.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/doshi.cfm",
    "_worksfor_raw": "SOC | Public Communication",
    "_source_page": "https://www.american.edu/soc/faculty/",
    "topics": [],
@@ -35448,7 +36854,7 @@
    "department": "Film & Media Arts",
    "email": "hinson@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/soc/faculty/hinson.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/staff/hinson.cfm",
    "_worksfor_raw": "SOC | Film & Media Arts",
    "_source_page": "https://www.american.edu/soc/faculty/",
    "topics": [],
@@ -35490,7 +36896,7 @@
    "department": "Film & Media Arts",
    "email": "ljayasw@american.edu",
    "phone": "(202) 885-2662",
-   "au_profile_url": "https://www.american.edu/soc/faculty/ljayasw.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/ljayasw.cfm",
    "_worksfor_raw": "SOC | Film & Media Arts",
    "_source_page": "https://www.american.edu/soc/faculty/",
    "topics": [],
@@ -35532,7 +36938,7 @@
    "department": "Film & Media Arts",
    "email": "livio@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/soc/faculty/livio.cfm",
+   "au_profile_url": "https://www.american.edu/cas/faculty/livio.cfm",
    "_worksfor_raw": "SOC | Film & Media Arts",
    "_source_page": "https://www.american.edu/soc/faculty/",
    "dim_researcher_id": "ur.013362760520.25",
@@ -35619,7 +37025,7 @@
    "department": "Film & Media Arts",
    "email": "bmaher@american.edu",
    "phone": "(202) 885-2664",
-   "au_profile_url": "https://www.american.edu/soc/faculty/bmaher.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/bmaher.cfm",
    "_worksfor_raw": "SOC | Film & Media Arts",
    "_source_page": "https://www.american.edu/soc/faculty/",
    "topics": [],
@@ -35866,7 +37272,7 @@
    "department": "Public Communication",
    "email": "parell@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/soc/faculty/parell.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/parell.cfm",
    "_worksfor_raw": "SOC | Public Communication",
    "_source_page": "https://www.american.edu/soc/faculty/",
    "topics": [],
@@ -36119,7 +37525,7 @@
    "department": "Communication Studies",
    "email": "aram@american.edu",
    "phone": "(202) 885-6518",
-   "au_profile_url": "https://www.american.edu/soc/faculty/aram.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/aram.cfm",
    "_worksfor_raw": "SOC | Communication Studies",
    "_source_page": "https://www.american.edu/soc/faculty/",
    "dim_researcher_id": "ur.011342437037.30",
@@ -36262,7 +37668,7 @@
    "department": "Communication Studies",
    "email": "bstokes@american.edu",
    "phone": "(202) 885-2066",
-   "au_profile_url": "https://www.american.edu/soc/faculty/bstokes.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/bstokes.cfm",
    "_worksfor_raw": "SOC | Communication Studies",
    "_source_page": "https://www.american.edu/soc/faculty/",
    "dim_researcher_id": "ur.012125453647.02",
@@ -36812,6 +38218,20 @@
    "phone": "(202) 885-8965",
    "au_profile_url": "https://www.american.edu/baker/faculty/cohen.cfm",
    "_worksfor_raw": "BSE | Online Partner Programs (OLP)",
+   "_source_page": "https://www.american.edu/baker/faculty/",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Simone Davison",
+   "title": "Professorial Lecturer",
+   "school": "SOE",
+   "department": "City Teaching Alliance",
+   "email": "sdavison@american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/baker/faculty/sdavison.cfm",
+   "_worksfor_raw": "Baker | City Teaching Alliance",
    "_source_page": "https://www.american.edu/baker/faculty/",
    "topics": [],
    "fields": [],
@@ -37627,6 +39047,76 @@
    "pub_match": "confirmed"
   },
   {
+   "name": "Moya Malcolm",
+   "title": "Interim Director of the Center for Postsecondary Readiness and Success (CPRS)",
+   "school": "SOE",
+   "department": "AU Experience",
+   "email": "mmalcolm@american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/baker/faculty/mmalcolm.cfm",
+   "_worksfor_raw": "UEAS | AU Experience",
+   "_source_page": "https://www.american.edu/baker/faculty/",
+   "dim_researcher_id": "ur.011363266166.55",
+   "works_count": 1,
+   "cited_by_count": 0,
+   "topics": [
+    {
+     "id": "school counselor self-efficacy",
+     "display_name": "school counselor self-efficacy"
+    },
+    {
+     "id": "counselor self-efficacy",
+     "display_name": "counselor self-efficacy"
+    },
+    {
+     "id": "school counselor’s ability",
+     "display_name": "school counselor’s ability"
+    },
+    {
+     "id": "preliminary factor structure",
+     "display_name": "preliminary factor structure"
+    },
+    {
+     "id": "self-efficacy",
+     "display_name": "self-efficacy"
+    },
+    {
+     "id": "factor structure",
+     "display_name": "factor structure"
+    },
+    {
+     "id": "social justice self-efficacy",
+     "display_name": "social justice self-efficacy"
+    },
+    {
+     "id": "professional school counselors",
+     "display_name": "professional school counselors"
+    },
+    {
+     "id": "equity-oriented practice",
+     "display_name": "equity-oriented practice"
+    },
+    {
+     "id": "cultural self-awareness",
+     "display_name": "cultural self-awareness"
+    }
+   ],
+   "fields": [
+    {
+     "id": "5203",
+     "display_name": "Clinical and Health Psychology",
+     "pubs": 1
+    }
+   ],
+   "recent_titles": [
+    {
+     "title": "Counseling for Justice: Exploring the Preliminary Factor Structure of a Measure of School Counselor Perceived Antiracist and Social Justice Self‐Efficacy",
+     "year": 2026
+    }
+   ],
+   "pub_match": "confirmed"
+  },
+  {
    "name": "Brian McGowan",
    "title": "Professor",
    "school": "SOE",
@@ -37638,7 +39128,7 @@
    "_source_page": "https://www.american.edu/baker/faculty/",
    "dim_researcher_id": "ur.012672113301.02",
    "works_count": 11,
-   "cited_by_count": 125,
+   "cited_by_count": 126,
    "topics": [
     {
      "id": "higher education",
@@ -37744,6 +39234,20 @@
     }
    ],
    "pub_match": "confirmed"
+  },
+  {
+   "name": "Sarah McMenamin",
+   "title": "Professorial Lecturer",
+   "school": "SOE",
+   "department": "Baker School of Education",
+   "email": "mcmenami@american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/baker/faculty/mcmenami.cfm",
+   "_worksfor_raw": "Baker - Baker School of Education",
+   "_source_page": "https://www.american.edu/baker/faculty/",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
   },
   {
    "name": "Cynthia Miller-Idriss",
@@ -37973,7 +39477,7 @@
    "_source_page": "https://www.american.edu/baker/faculty/",
    "dim_researcher_id": "ur.012137120715.55",
    "works_count": 17,
-   "cited_by_count": 336,
+   "cited_by_count": 337,
    "topics": [
     {
      "id": "spatial skills",
@@ -38592,6 +40096,20 @@
    "pub_match": "confirmed"
   },
   {
+   "name": "Alexes Terry",
+   "title": "Senior Professorial Lecturer",
+   "school": "SOE",
+   "department": "City Teaching Alliance",
+   "email": "aterry@american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/baker/faculty/aterry.cfm",
+   "_worksfor_raw": "Baker | City Teaching Alliance",
+   "_source_page": "https://www.american.edu/baker/faculty/",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
    "name": "Vivian Vasquez",
    "title": "Distinguished Professor",
    "school": "SOE",
@@ -39132,7 +40650,7 @@
    "department": "Public Administration",
    "email": "abouassi@american.edu",
    "phone": "(202) 885-2509",
-   "au_profile_url": "https://www.american.edu/spa/faculty/abouassi.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/abouassi.cfm",
    "_worksfor_raw": "SPA | Public Administration",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "dim_researcher_id": "ur.014735413314.76",
@@ -39246,7 +40764,7 @@
    "department": "Online Partner Programs (OLP)",
    "email": "accius@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/spa/faculty/accius.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/accius.cfm",
    "_worksfor_raw": "SPA | Online Partner Programs (OLP)",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "topics": [],
@@ -39260,7 +40778,7 @@
    "department": "Justice, Law & Criminology",
    "email": "adding@american.edu",
    "phone": "(202) 885-2902",
-   "au_profile_url": "https://www.american.edu/spa/faculty/adding.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/adding.cfm",
    "_worksfor_raw": "SPA | Justice, Law & Criminology",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "dim_researcher_id": "ur.015141750541.13",
@@ -39393,7 +40911,7 @@
    "department": "Public Administration",
    "email": "amirkhan@american.edu",
    "phone": "(202) 885-6289",
-   "au_profile_url": "https://www.american.edu/spa/faculty/amirkhan.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/amirkhan.cfm",
    "_worksfor_raw": "SPA | Public Administration",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "dim_researcher_id": "ur.011106661112.30",
@@ -39502,7 +41020,7 @@
    "department": "Justice, Law & Criminology",
    "email": "arva@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/spa/faculty/arva.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/arva.cfm",
    "_worksfor_raw": "SPA | Justice, Law & Criminology",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "topics": [],
@@ -39516,7 +41034,7 @@
    "department": "Online Partner Programs (OLP)",
    "email": "aubourg@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/spa/faculty/aubourg.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/aubourg.cfm",
    "_worksfor_raw": "SPA | Online Partner Programs (OLP)",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "topics": [],
@@ -39530,7 +41048,7 @@
    "department": "Government",
    "email": "bachiys@american.edu",
    "phone": "(202) 885-2034",
-   "au_profile_url": "https://www.american.edu/spa/faculty/bachiys.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/bachiys.cfm",
    "_worksfor_raw": "SPA | Government",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "topics": [],
@@ -39544,7 +41062,7 @@
    "department": "Justice, Law & Criminology",
    "email": "bacon@american.edu",
    "phone": "(202) 885-6556",
-   "au_profile_url": "https://www.american.edu/spa/faculty/bacon.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/bacon.cfm",
    "_worksfor_raw": "SPA | Justice, Law & Criminology",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "dim_researcher_id": "ur.016123233711.56",
@@ -39648,7 +41166,7 @@
    "department": "Public Administration",
    "email": "baehler@american.edu",
    "phone": "(202) 885-6072",
-   "au_profile_url": "https://www.american.edu/spa/faculty/baehler.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/baehler.cfm",
    "_worksfor_raw": "SPA | Public Administration",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "dim_researcher_id": "ur.014112407731.16",
@@ -39752,7 +41270,7 @@
    "department": "Justice, Law & Criminology",
    "email": "jbaldwin@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/spa/faculty/jbaldwin.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/jbaldwin.cfm",
    "_worksfor_raw": "SPA | Justice, Law & Criminology",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "dim_researcher_id": "ur.01311462612.59",
@@ -39985,7 +41503,7 @@
    "department": "General Academics & Research",
    "email": "cbarnettryan@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/spa/faculty/cbarnettryan.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/cbarnettryan.cfm",
    "_worksfor_raw": "SPA | General Academics & Research",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "topics": [],
@@ -39999,7 +41517,7 @@
    "department": "Justice, Law & Criminology",
    "email": "bartholo@american.edu",
    "phone": "(202) 885-2367",
-   "au_profile_url": "https://www.american.edu/spa/faculty/bartholo.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/bartholo.cfm",
    "_worksfor_raw": "SPA | Justice, Law & Criminology",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "dim_researcher_id": "ur.013345622745.94",
@@ -40156,7 +41674,7 @@
    "department": "General Academics & Research",
    "email": "zbauer@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/spa/faculty/zbauer.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/zbauer.cfm",
    "_worksfor_raw": "SPA | General Academics & Research",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "dim_researcher_id": "ur.010605053520.16",
@@ -40251,7 +41769,7 @@
    "department": "Online Partner Programs (OLP)",
    "email": "bawden@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/spa/faculty/bawden.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/bawden.cfm",
    "_worksfor_raw": "SPA | Online Partner Programs (OLP)",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "topics": [],
@@ -40279,7 +41797,7 @@
    "department": "Justice, Law & Criminology",
    "email": "beinhart@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/spa/faculty/beinhart.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/beinhart.cfm",
    "_worksfor_raw": "SPA | Justice, Law & Criminology",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "topics": [],
@@ -40392,7 +41910,7 @@
    "department": "Key Executive Education IRC Programs",
    "email": "andrewb@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/spa/faculty/andrewb.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/andrewb.cfm",
    "_worksfor_raw": "SPA | Key Executive Education IRC Programs",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "topics": [],
@@ -40406,7 +41924,7 @@
    "department": "Public Administration",
    "email": "betesh@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/spa/faculty/betesh.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/betesh.cfm",
    "_worksfor_raw": "SPA | Public Administration",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "topics": [],
@@ -40420,7 +41938,7 @@
    "department": "Online Partner Programs (OLP)",
    "email": "",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/spa/faculty/abhatt.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/abhatt.cfm",
    "_worksfor_raw": "SPA | Online Partner Programs (OLP)",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "topics": [],
@@ -40434,7 +41952,7 @@
    "department": "Justice, Law & Criminology",
    "email": "abills@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/spa/faculty/abills.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/abills.cfm",
    "_worksfor_raw": "SPA | Justice, Law & Criminology",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "topics": [],
@@ -40448,7 +41966,7 @@
    "department": "Public Administration",
    "email": "birenbau@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/spa/faculty/birenbau.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/birenbau.cfm",
    "_worksfor_raw": "SPA | Public Administration",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "topics": [],
@@ -40462,7 +41980,7 @@
    "department": "Justice, Law & Criminology",
    "email": "booth@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/spa/faculty/booth.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/booth.cfm",
    "_worksfor_raw": "SPA | Justice, Law & Criminology",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "topics": [],
@@ -40490,7 +42008,7 @@
    "department": "Justice, Law & Criminology",
    "email": "boyle@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/spa/faculty/boyle.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/boyle.cfm",
    "_worksfor_raw": "SPA | Justice, Law & Criminology",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "topics": [],
@@ -40504,7 +42022,7 @@
    "department": "General Academics & Research",
    "email": "brayton@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/spa/faculty/brayton.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/brayton.cfm",
    "_worksfor_raw": "SPA | General Academics & Research",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "topics": [],
@@ -40588,7 +42106,7 @@
    "department": "Justice, Law & Criminology",
    "email": "bruni@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/spa/faculty/bruni.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/bruni.cfm",
    "_worksfor_raw": "SPA | Justice, Law & Criminology",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "topics": [],
@@ -40602,7 +42120,7 @@
    "department": "Public Administration",
    "email": "dburley@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/spa/faculty/dburley.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/dburley.cfm",
    "_worksfor_raw": "SPA | Public Administration",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "dim_researcher_id": "ur.014723321753.44",
@@ -40664,7 +42182,7 @@
    "department": "Public Administration",
    "email": "burrell@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/spa/faculty/burrell.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/burrell.cfm",
    "_worksfor_raw": "SPA | Public Administration",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "topics": [],
@@ -40678,7 +42196,7 @@
    "department": "Public Administration",
    "email": "caglayan@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/spa/faculty/caglayan.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/caglayan.cfm",
    "_worksfor_raw": "SPA | Public Administration",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "topics": [],
@@ -40692,7 +42210,7 @@
    "department": "Washington Semester Programs",
    "email": "cal@american.edu",
    "phone": "(202) 895-4913",
-   "au_profile_url": "https://www.american.edu/spa/faculty/cal.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/cal.cfm",
    "_worksfor_raw": "SPA | Washington Semester Programs",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "dim_researcher_id": "ur.016570300467.20",
@@ -40811,7 +42329,7 @@
    "department": "Finance & Personnel Administration",
    "email": "careiro@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/spa/faculty/careiro.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/careiro.cfm",
    "_worksfor_raw": "SPA | Finance & Personnel Administration",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "topics": [],
@@ -40825,7 +42343,7 @@
    "department": "Justice, Law & Criminology",
    "email": "carlisle@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/spa/faculty/carlisle.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/carlisle.cfm",
    "_worksfor_raw": "SPA | Justice, Law & Criminology",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "topics": [],
@@ -40853,7 +42371,7 @@
    "department": "Justice, Law & Criminology",
    "email": "carter@american.edu",
    "phone": "(202) 885-3021",
-   "au_profile_url": "https://www.american.edu/spa/faculty/carter.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/carter.cfm",
    "_worksfor_raw": "SPA | Justice, Law & Criminology",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "dim_researcher_id": "ur.010122224255.41",
@@ -40962,7 +42480,7 @@
    "department": "Public Administration",
    "email": "champion@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/spa/faculty/champion.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/champion.cfm",
    "_worksfor_raw": "SPA | Public Administration",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "topics": [],
@@ -41147,7 +42665,7 @@
    "department": "Public Administration",
    "email": "achiarenza@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/spa/faculty/achiarenza.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/achiarenza.cfm",
    "_worksfor_raw": "SPA | Public Administration",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "topics": [],
@@ -41381,7 +42899,7 @@
    "department": "Public Administration",
    "email": "crawford@american.edu",
    "phone": "(202) 885-2357",
-   "au_profile_url": "https://www.american.edu/spa/faculty/crawford.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/students/crawford.cfm",
    "_worksfor_raw": "SPA | Public Administration",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "topics": [],
@@ -41409,12 +42927,12 @@
    "department": "Washington Semester Programs",
    "email": "crouch@american.edu",
    "phone": "(202) 895-4974",
-   "au_profile_url": "https://www.american.edu/spa/faculty/crouch.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/crouch.cfm",
    "_worksfor_raw": "SPA | Washington Semester Programs",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "dim_researcher_id": "ur.015226511561.14",
    "works_count": 9,
-   "cited_by_count": 10,
+   "cited_by_count": 11,
    "topics": [
     {
      "id": "clemency power",
@@ -42034,7 +43552,7 @@
    "department": "Justice, Law & Criminology",
    "email": "jeassey@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/spa/faculty/jeassey.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/staff/jeassey.cfm",
    "_worksfor_raw": "SPA | Justice, Law & Criminology",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "dim_researcher_id": "ur.016262272366.90",
@@ -42286,7 +43804,7 @@
    "department": "Public Administration",
    "email": "aelsayed@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/spa/faculty/aelsayed.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/aelsayed.cfm",
    "_worksfor_raw": "SPA | Public Administration",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "topics": [],
@@ -42300,7 +43818,7 @@
    "department": "Government",
    "email": "elving@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/spa/faculty/elving.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/elving.cfm",
    "_worksfor_raw": "SPA | Government",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "topics": [],
@@ -42328,7 +43846,7 @@
    "department": "Justice, Law & Criminology",
    "email": "fabrikan@american.edu",
    "phone": "(202) 885-3397",
-   "au_profile_url": "https://www.american.edu/spa/faculty/fabrikan.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/fabrikan.cfm",
    "_worksfor_raw": "SPA | Justice, Law & Criminology",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "topics": [],
@@ -42805,12 +44323,12 @@
    "department": "Government",
    "email": "aflores@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/spa/faculty/aflores.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/aflores.cfm",
    "_worksfor_raw": "SPA | Government",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "dim_researcher_id": "ur.014641260005.63",
    "works_count": 23,
-   "cited_by_count": 693,
+   "cited_by_count": 694,
    "topics": [
     {
      "id": "transgender people",
@@ -42976,7 +44494,7 @@
    "department": "Justice, Law & Criminology",
    "email": "afox@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/spa/faculty/afox.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/afox.cfm",
    "_worksfor_raw": "SPA | Justice, Law & Criminology",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "topics": [],
@@ -42990,7 +44508,7 @@
    "department": "Government",
    "email": "cfrench@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/spa/faculty/cfrench.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/cfrench.cfm",
    "_worksfor_raw": "SPA | Government",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "topics": [],
@@ -43018,7 +44536,7 @@
    "department": "Government",
    "email": "samg@american.edu",
    "phone": "(202) 885-3491",
-   "au_profile_url": "https://www.american.edu/spa/faculty/samg.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/samg.cfm",
    "_worksfor_raw": "SPA | Government",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "topics": [],
@@ -43161,7 +44679,7 @@
    "department": "General Academics & Research",
    "email": "gettman@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/spa/faculty/gettman.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/gettman.cfm",
    "_worksfor_raw": "SPA | General Academics & Research",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "topics": [],
@@ -43175,7 +44693,7 @@
    "department": "Public Administration",
    "email": "vg7211a@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/spa/faculty/vg7211a.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/students/vg7211a.cfm",
    "_worksfor_raw": "SPA | Public Administration",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "dim_researcher_id": "ur.07555562413.45",
@@ -43255,7 +44773,7 @@
    "department": "Government",
    "email": "cgiddins@american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/spa/faculty/cgiddins.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/cgiddins.cfm",
    "_worksfor_raw": "SPA | Government",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "topics": [],
@@ -43449,7 +44967,7 @@
    "department": "Justice, Law & Criminology",
    "email": "cgriggs@american.edu",
    "phone": "(202) 885-6684",
-   "au_profile_url": "https://www.american.edu/spa/faculty/cgriggs.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/cgriggs.cfm",
    "_worksfor_raw": "SPA | Justice, Law & Criminology",
    "_source_page": "https://www.american.edu/spa/faculty/",
    "topics": [],
@@ -43701,74 +45219,511 @@
    "pub_match": "confirmed"
   },
   {
-   "name": "Moya Malcolm",
-   "title": "Interim Director of the Center for Postsecondary Readiness and Success (CPRS)",
-   "school": "UEAS",
-   "department": "AU Experience",
-   "email": "mmalcolm@american.edu",
+   "name": "Jamie Abrams",
+   "title": "Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "jamieabrams@wcl.american.edu",
    "phone": "",
-   "au_profile_url": "https://www.american.edu/baker/faculty/mmalcolm.cfm",
-   "_worksfor_raw": "UEAS | AU Experience",
-   "_source_page": "https://www.american.edu/baker/faculty/",
-   "dim_researcher_id": "ur.011363266166.55",
-   "works_count": 1,
-   "cited_by_count": 0,
+   "au_profile_url": "https://www.american.edu/profiles/faculty/jamieabrams.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "dim_researcher_id": "ur.011470223276.49",
+   "works_count": 2,
+   "cited_by_count": 4,
    "topics": [
     {
-     "id": "school counselor self-efficacy",
-     "display_name": "school counselor self-efficacy"
+     "id": "professional identity formation",
+     "display_name": "professional identity formation"
     },
     {
-     "id": "counselor self-efficacy",
-     "display_name": "counselor self-efficacy"
+     "id": "inclusive classrooms",
+     "display_name": "inclusive classrooms"
     },
     {
-     "id": "school counselor’s ability",
-     "display_name": "school counselor’s ability"
+     "id": "pedagogical improvement",
+     "display_name": "pedagogical improvement"
     },
     {
-     "id": "preliminary factor structure",
-     "display_name": "preliminary factor structure"
+     "id": "curricular reform",
+     "display_name": "curricular reform"
     },
     {
-     "id": "self-efficacy",
-     "display_name": "self-efficacy"
+     "id": "law classroom",
+     "display_name": "law classroom"
     },
     {
-     "id": "factor structure",
-     "display_name": "factor structure"
+     "id": "legal education",
+     "display_name": "legal education"
     },
     {
-     "id": "social justice self-efficacy",
-     "display_name": "social justice self-efficacy"
+     "id": "identity formation",
+     "display_name": "identity formation"
     },
     {
-     "id": "professional school counselors",
-     "display_name": "professional school counselors"
+     "id": "law school classroom",
+     "display_name": "law school classroom"
     },
     {
-     "id": "equity-oriented practice",
-     "display_name": "equity-oriented practice"
+     "id": "classroom management",
+     "display_name": "classroom management"
     },
     {
-     "id": "cultural self-awareness",
-     "display_name": "cultural self-awareness"
+     "id": "school classrooms",
+     "display_name": "school classrooms"
+    },
+    {
+     "id": "dual duty",
+     "display_name": "dual duty"
+    },
+    {
+     "id": "pregnant persons",
+     "display_name": "pregnant persons"
     }
    ],
    "fields": [
     {
-     "id": "5203",
-     "display_name": "Clinical and Health Psychology",
+     "id": "4804",
+     "display_name": "Law In Context",
+     "pubs": 1
+    },
+    {
+     "id": "4805",
+     "display_name": "Legal Systems",
+     "pubs": 1
+    },
+    {
+     "id": "4204",
+     "display_name": "Midwifery",
+     "pubs": 1
+    },
+    {
+     "id": "4806",
+     "display_name": "Private Law and Civil Obligations",
+     "pubs": 1
+    },
+    {
+     "id": "3215",
+     "display_name": "Reproductive Medicine",
      "pubs": 1
     }
    ],
    "recent_titles": [
     {
-     "title": "Counseling for Justice: Exploring the Preliminary Factor Structure of a Measure of School Counselor Perceived Antiracist and Social Justice Self‐Efficacy",
-     "year": 2026
+     "title": "Cultivating more inclusive classrooms and practice‐ready graduates with voice and video assignments",
+     "year": 2022
+    },
+    {
+     "title": "Liability in Reproduction and Birth",
+     "year": 2022
     }
    ],
    "pub_match": "confirmed"
+  },
+  {
+   "name": "Padideh Ala'i",
+   "title": "Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "palai@wcl.american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/palai.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Hilary Allen",
+   "title": "Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "hjallen@wcl.american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/hjallen.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "dim_researcher_id": "ur.013107762717.24",
+   "works_count": 2,
+   "cited_by_count": 15,
+   "topics": [
+    {
+     "id": "statutory mandate",
+     "display_name": "statutory mandate"
+    },
+    {
+     "id": "public harm",
+     "display_name": "public harm"
+    },
+    {
+     "id": "financial regulation",
+     "display_name": "financial regulation"
+    },
+    {
+     "id": "regulatory strategies",
+     "display_name": "regulatory strategies"
+    },
+    {
+     "id": "FinTech regulation",
+     "display_name": "FinTech regulation"
+    },
+    {
+     "id": "regulate fintech",
+     "display_name": "regulate fintech"
+    },
+    {
+     "id": "Protection Regulation",
+     "display_name": "Protection Regulation"
+    },
+    {
+     "id": "regulatory responses",
+     "display_name": "regulatory responses"
+    },
+    {
+     "id": "FinTech business models",
+     "display_name": "FinTech business models"
+    },
+    {
+     "id": "FinTech innovations",
+     "display_name": "FinTech innovations"
+    },
+    {
+     "id": "systemic risk",
+     "display_name": "systemic risk"
+    },
+    {
+     "id": "financial stability",
+     "display_name": "financial stability"
+    }
+   ],
+   "fields": [
+    {
+     "id": "4801",
+     "display_name": "Commercial Law",
+     "pubs": 1
+    },
+    {
+     "id": "3502",
+     "display_name": "Banking, Finance and Investment",
+     "pubs": 1
+    }
+   ],
+   "recent_titles": [
+    {
+     "title": "Regulating fintech: A harm focused approach",
+     "year": 2024
+    },
+    {
+     "title": "Testimony of Hilary J. Allen, House Subcommittee on Consumer Protection and Financial Institutions Hearing on “Addressing Climate as a Systemic Risk: The Need to Build Resilience within Our Banking and Financial System”",
+     "year": 2021
+    }
+   ],
+   "pub_match": "confirmed"
+  },
+  {
+   "name": "Kenneth Anderson",
+   "title": "Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "kanders@wcl.american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/kanders.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Priya Baskaran",
+   "title": "Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "baskaran@wcl.american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/baskaran.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "dim_researcher_id": "ur.011176151033.01",
+   "works_count": 1,
+   "cited_by_count": 3,
+   "topics": [
+    {
+     "id": "women of color",
+     "display_name": "women of color"
+    },
+    {
+     "id": "law schools",
+     "display_name": "law schools"
+    },
+    {
+     "id": "citation practices",
+     "display_name": "citation practices"
+    },
+    {
+     "id": "proactive measures",
+     "display_name": "proactive measures"
+    },
+    {
+     "id": "hegemonic forces",
+     "display_name": "hegemonic forces"
+    },
+    {
+     "id": "law",
+     "display_name": "law"
+    },
+    {
+     "id": "scholarship",
+     "display_name": "scholarship"
+    },
+    {
+     "id": "women",
+     "display_name": "women"
+    },
+    {
+     "id": "essay",
+     "display_name": "essay"
+    },
+    {
+     "id": "practice",
+     "display_name": "practice"
+    }
+   ],
+   "fields": [
+    {
+     "id": "4405",
+     "display_name": "Gender Studies",
+     "pubs": 1
+    }
+   ],
+   "recent_titles": [
+    {
+     "title": "Taking Our Space: Service, Scholarship, and Radical Citation Practice",
+     "year": 2021
+    }
+   ],
+   "pub_match": "confirmed"
+  },
+  {
+   "name": "Elizabeth Earle Beske",
+   "title": "Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "beske@wcl.american.edu",
+   "phone": "(202) 274-4302",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/beske.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Chaz Brooks",
+   "title": "Associate Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "cbrooks@wcl.american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/cbrooks.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Susan Carle",
+   "title": "Distinguished Professor of Law",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "scarle@wcl.american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/wcl/faculty/scarle.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "dim_researcher_id": "ur.013465700351.54",
+   "works_count": 2,
+   "cited_by_count": 4,
+   "topics": [
+    {
+     "id": "judicial restraint",
+     "display_name": "judicial restraint"
+    },
+    {
+     "id": "Oliver Wendell Holmes Jr.",
+     "display_name": "Oliver Wendell Holmes Jr."
+    },
+    {
+     "id": "Supreme Court justices",
+     "display_name": "Supreme Court justices"
+    },
+    {
+     "id": "James Bradley Thayer",
+     "display_name": "James Bradley Thayer"
+    },
+    {
+     "id": "Court justices",
+     "display_name": "Court justices"
+    },
+    {
+     "id": "Felix Frankfurter",
+     "display_name": "Felix Frankfurter"
+    },
+    {
+     "id": "Louis Brandeis",
+     "display_name": "Louis Brandeis"
+    },
+    {
+     "id": "legislative branch",
+     "display_name": "legislative branch"
+    },
+    {
+     "id": "intellectual history",
+     "display_name": "intellectual history"
+    },
+    {
+     "id": "founding generation",
+     "display_name": "founding generation"
+    },
+    {
+     "id": "anti-discrimination law",
+     "display_name": "anti-discrimination law"
+    },
+    {
+     "id": "social neuroscience findings",
+     "display_name": "social neuroscience findings"
+    }
+   ],
+   "fields": [
+    {
+     "id": "4807",
+     "display_name": "Public Law",
+     "pubs": 1
+    },
+    {
+     "id": "4804",
+     "display_name": "Law In Context",
+     "pubs": 1
+    }
+   ],
+   "recent_titles": [
+    {
+     "title": "The Failed Idea of Judicial Restraint: A Brief Intellectual History",
+     "year": 2023
+    },
+    {
+     "title": "The insights, uses, and ethics of social neuroscience in anti-discrimination law",
+     "year": 2021
+    }
+   ],
+   "pub_match": "confirmed"
+  },
+  {
+   "name": "Michael Carroll",
+   "title": "Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "mcarroll@wcl.american.edu",
+   "phone": "(202) 274-4047",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/mcarroll.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "dim_researcher_id": "ur.0723725772.21",
+   "works_count": 3,
+   "cited_by_count": 58,
+   "topics": [
+    {
+     "id": "copyright law",
+     "display_name": "copyright law"
+    },
+    {
+     "id": "law",
+     "display_name": "law"
+    },
+    {
+     "id": "legal reform",
+     "display_name": "legal reform"
+    },
+    {
+     "id": "reform",
+     "display_name": "reform"
+    },
+    {
+     "id": "research",
+     "display_name": "research"
+    },
+    {
+     "id": "data mining research",
+     "display_name": "data mining research"
+    },
+    {
+     "id": "world",
+     "display_name": "world"
+    },
+    {
+     "id": "text",
+     "display_name": "text"
+    },
+    {
+     "id": "mining research",
+     "display_name": "mining research"
+    },
+    {
+     "id": "global texts",
+     "display_name": "global texts"
+    },
+    {
+     "id": "musical borrowing",
+     "display_name": "musical borrowing"
+    },
+    {
+     "id": "user-generated content",
+     "display_name": "user-generated content"
+    }
+   ],
+   "fields": [
+    {
+     "id": "4806",
+     "display_name": "Private Law and Civil Obligations",
+     "pubs": 3
+    },
+    {
+     "id": "3603",
+     "display_name": "Music",
+     "pubs": 1
+    }
+   ],
+   "recent_titles": [
+    {
+     "title": "Legal reform to enhance global text and data mining research",
+     "year": 2022
+    },
+    {
+     "title": "The Law of Musical Borrowing",
+     "year": 2021
+    },
+    {
+     "title": "Implementing User Rights for Research in the Field of Artificial Intelligence: A Call for International Action",
+     "year": 2020
+    }
+   ],
+   "pub_match": "confirmed"
+  },
+  {
+   "name": "Janie Chuang",
+   "title": "Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "jchuang@wcl.american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/jchuang.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
   },
   {
    "name": "Khelani Clay",
@@ -43777,9 +45732,1833 @@
    "department": "Library",
    "email": "kclay@wcl.american.edu",
    "phone": "(202) 274-4441",
-   "au_profile_url": "https://www.american.edu/wcl/faculty/kclay.cfm",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/kclay.cfm",
    "_worksfor_raw": "WCL | Library",
    "_source_page": "https://www.american.edu/spa/faculty/",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Sam Dresner",
+   "title": "Graduate Teaching Fellow",
+   "school": "WCL",
+   "department": "Legal Methods",
+   "email": "sd1654a@american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/wcl/faculty/sd1654a.cfm",
+   "_worksfor_raw": "WCL | Legal Methods",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Sam Dresner",
+   "title": "Graduate Teaching Fellow",
+   "school": "WCL",
+   "department": "Legal Methods",
+   "email": "sdresner@american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/wcl/faculty/sdresner.cfm",
+   "_worksfor_raw": "WCL | Legal Methods",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Charles Duan",
+   "title": "Associate Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "cduan@wcl.american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/cduan.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "N. Jeremi Duru",
+   "title": "Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "jduru@wcl.american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/jduru.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Walter Effross",
+   "title": "Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "effross@wcl.american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/effross.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Lia Epperson",
+   "title": "Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "Epperson@wcl.american.edu",
+   "phone": "(202) 274-4431",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/epperson.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Christine Haight Farley",
+   "title": "Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "cfarley@wcl.american.edu",
+   "phone": "(202) 274-4171",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/cfarley.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "dim_researcher_id": "ur.013521017377.04",
+   "works_count": 2,
+   "cited_by_count": 0,
+   "topics": [
+    {
+     "id": "Treaty",
+     "display_name": "Treaty"
+    },
+    {
+     "id": "illusion",
+     "display_name": "illusion"
+    },
+    {
+     "id": "reality",
+     "display_name": "reality"
+    },
+    {
+     "id": "harmonics",
+     "display_name": "harmonics"
+    },
+    {
+     "id": "Riyadh",
+     "display_name": "Riyadh"
+    },
+    {
+     "id": "unfair competition law",
+     "display_name": "unfair competition law"
+    },
+    {
+     "id": "competition law",
+     "display_name": "competition law"
+    },
+    {
+     "id": "trademark law",
+     "display_name": "trademark law"
+    },
+    {
+     "id": "Lanham Act",
+     "display_name": "Lanham Act"
+    },
+    {
+     "id": "competition protection",
+     "display_name": "competition protection"
+    },
+    {
+     "id": "law",
+     "display_name": "law"
+    },
+    {
+     "id": "actual history",
+     "display_name": "actual history"
+    }
+   ],
+   "fields": [
+    {
+     "id": "4806",
+     "display_name": "Private Law and Civil Obligations",
+     "pubs": 2
+    },
+    {
+     "id": "4803",
+     "display_name": "International and Comparative Law",
+     "pubs": 1
+    },
+    {
+     "id": "4804",
+     "display_name": "Law In Context",
+     "pubs": 1
+    }
+   ],
+   "recent_titles": [
+    {
+     "title": "Framing Harmonization: Illusion and Reality in the Riyadh Design Law Treaty",
+     "year": 2026
+    },
+    {
+     "title": "The Lost Unfair Competition Law",
+     "year": 2020
+    }
+   ],
+   "pub_match": "confirmed"
+  },
+  {
+   "name": "Sean Flynn",
+   "title": "Adjunct Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "sflynn@wcl.american.edu",
+   "phone": "(202) 274-4157",
+   "au_profile_url": "https://www.american.edu/profiles/staff/sflynn.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "dim_researcher_id": "ur.013764665656.15",
+   "works_count": 3,
+   "cited_by_count": 58,
+   "topics": [
+    {
+     "id": "copyright law",
+     "display_name": "copyright law"
+    },
+    {
+     "id": "data mining research",
+     "display_name": "data mining research"
+    },
+    {
+     "id": "mining research",
+     "display_name": "mining research"
+    },
+    {
+     "id": "legal reform",
+     "display_name": "legal reform"
+    },
+    {
+     "id": "law",
+     "display_name": "law"
+    },
+    {
+     "id": "reform",
+     "display_name": "reform"
+    },
+    {
+     "id": "research",
+     "display_name": "research"
+    },
+    {
+     "id": "world",
+     "display_name": "world"
+    },
+    {
+     "id": "text",
+     "display_name": "text"
+    },
+    {
+     "id": "global texts",
+     "display_name": "global texts"
+    },
+    {
+     "id": "research exceptions",
+     "display_name": "research exceptions"
+    },
+    {
+     "id": "Internet of Things",
+     "display_name": "Internet of Things"
+    }
+   ],
+   "fields": [
+    {
+     "id": "4806",
+     "display_name": "Private Law and Civil Obligations",
+     "pubs": 3
+    }
+   ],
+   "recent_titles": [
+    {
+     "title": "Legal reform to enhance global text and data mining research",
+     "year": 2022
+    },
+    {
+     "title": "Submission to Canadian Government Consultation on a Modern Copyright Framework for AI and the Internet of Things",
+     "year": 2021
+    },
+    {
+     "title": "Implementing User Rights for Research in the Field of Artificial Intelligence: A Call for International Action",
+     "year": 2020
+    }
+   ],
+   "pub_match": "confirmed"
+  },
+  {
+   "name": "Susan Franck",
+   "title": "Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "sfranck@wcl.american.edu",
+   "phone": "(202) 274-4362",
+   "au_profile_url": "https://www.american.edu/wcl/faculty/sfranck.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "dim_researcher_id": "ur.010775512456.29",
+   "works_count": 3,
+   "cited_by_count": 22,
+   "topics": [
+    {
+     "id": "investment arbitration",
+     "display_name": "investment arbitration"
+    },
+    {
+     "id": "international dispute settlement",
+     "display_name": "international dispute settlement"
+    },
+    {
+     "id": "dispute settlement",
+     "display_name": "dispute settlement"
+    },
+    {
+     "id": "International Centre for Settlement of Investment Disputes",
+     "display_name": "International Centre for Settlement of Investment Disputes"
+    },
+    {
+     "id": "Settlement of Investment Disputes",
+     "display_name": "Settlement of Investment Disputes"
+    },
+    {
+     "id": "international investment law",
+     "display_name": "international investment law"
+    },
+    {
+     "id": "international dispute resolution",
+     "display_name": "international dispute resolution"
+    },
+    {
+     "id": "abuse of power",
+     "display_name": "abuse of power"
+    },
+    {
+     "id": "investment disputes",
+     "display_name": "investment disputes"
+    },
+    {
+     "id": "investment law",
+     "display_name": "investment law"
+    },
+    {
+     "id": "dispute resolution",
+     "display_name": "dispute resolution"
+    },
+    {
+     "id": "investment treaty arbitration",
+     "display_name": "investment treaty arbitration"
+    }
+   ],
+   "fields": [
+    {
+     "id": "4803",
+     "display_name": "International and Comparative Law",
+     "pubs": 2
+    },
+    {
+     "id": "4807",
+     "display_name": "Public Law",
+     "pubs": 1
+    },
+    {
+     "id": "4804",
+     "display_name": "Law In Context",
+     "pubs": 1
+    }
+   ],
+   "recent_titles": [
+    {
+     "title": "Reforming World Bank Dispute Resolution: ICSID in Context",
+     "year": 2023
+    },
+    {
+     "title": "Preface",
+     "year": 2019
+    },
+    {
+     "title": "The Diversity Deficit in International Investment Arbitration",
+     "year": 2020
+    }
+   ],
+   "pub_match": "confirmed"
+  },
+  {
+   "name": "Bianca Garcia",
+   "title": "Professor of Legal Rhetoric",
+   "school": "WCL",
+   "department": "Legal Methods",
+   "email": "bgarcia@wcl.american.edu",
+   "phone": "(202) 274-4408",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/bgarcia.cfm",
+   "_worksfor_raw": "WCL | Legal Methods",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Robert Goldman",
+   "title": "Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "goldman@wcl.american.edu",
+   "phone": "(202) 274-4111",
+   "au_profile_url": "https://www.american.edu/wcl/faculty/goldman.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Claudio Grossman",
+   "title": "Professor of Law and Dean Emeritus",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "grossman@wcl.american.edu",
+   "phone": "(202) 274-4004",
+   "au_profile_url": "https://www.american.edu/kogod/faculty/grossman.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Lewis Grossman",
+   "title": "Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "lewisg@wcl.american.edu",
+   "phone": "(202) 885-6300",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/lewisg.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "dim_researcher_id": "ur.0627422045.44",
+   "works_count": 5,
+   "cited_by_count": 23,
+   "topics": [
+    {
+     "id": "legal arguments",
+     "display_name": "legal arguments"
+    },
+    {
+     "id": "gender-affirming care",
+     "display_name": "gender-affirming care"
+    },
+    {
+     "id": "medical practice",
+     "display_name": "medical practice"
+    },
+    {
+     "id": "subpoena",
+     "display_name": "subpoena"
+    },
+    {
+     "id": "law",
+     "display_name": "law"
+    },
+    {
+     "id": "arguments",
+     "display_name": "arguments"
+    },
+    {
+     "id": "U.S.",
+     "display_name": "U.S."
+    },
+    {
+     "id": "threaten",
+     "display_name": "threaten"
+    },
+    {
+     "id": "practice",
+     "display_name": "practice"
+    },
+    {
+     "id": "physicians",
+     "display_name": "physicians"
+    },
+    {
+     "id": "abortion restrictions",
+     "display_name": "abortion restrictions"
+    },
+    {
+     "id": "mifepristone regulation",
+     "display_name": "mifepristone regulation"
+    }
+   ],
+   "fields": [
+    {
+     "id": "3215",
+     "display_name": "Reproductive Medicine",
+     "pubs": 2
+    },
+    {
+     "id": "3202",
+     "display_name": "Clinical Sciences",
+     "pubs": 1
+    },
+    {
+     "id": "4407",
+     "display_name": "Policy and Administration",
+     "pubs": 1
+    }
+   ],
+   "recent_titles": [
+    {
+     "title": "Using FDA Law to Threaten Medical Practice",
+     "year": 2026
+    },
+    {
+     "title": "State Mifepristone Regulation Following GenBioPro v Raynes",
+     "year": 2025
+    },
+    {
+     "title": "The Mifepristone Litigation: Untangling the Implications of the Fifth Circuit's Decision for Abortion Access and the U.S. Food and Drug Administration.",
+     "year": 2023
+    },
+    {
+     "title": "Pressing regulatory challenges for psychedelic medicine",
+     "year": 2023
+    },
+    {
+     "title": "Pushing Back with Pills — Enhancing Access to Reproductive Health Drugs after Dobbs",
+     "year": 2022
+    }
+   ],
+   "pub_match": "confirmed"
+  },
+  {
+   "name": "Rebecca Hamilton",
+   "title": "Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "hamilton@wcl.american.edu",
+   "phone": "(202) 274-4241",
+   "au_profile_url": "https://www.american.edu/wcl/faculty/hamilton.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "dim_researcher_id": "ur.012717454776.99",
+   "works_count": 4,
+   "cited_by_count": 4,
+   "topics": [
+    {
+     "id": "social media companies",
+     "display_name": "social media companies"
+    },
+    {
+     "id": "media landscape",
+     "display_name": "media landscape"
+    },
+    {
+     "id": "donor-conceived children",
+     "display_name": "donor-conceived children"
+    },
+    {
+     "id": "disclosure of donor conception",
+     "display_name": "disclosure of donor conception"
+    },
+    {
+     "id": "donor conception",
+     "display_name": "donor conception"
+    },
+    {
+     "id": "parent-child relationship",
+     "display_name": "parent-child relationship"
+    },
+    {
+     "id": "experiences of disclosure",
+     "display_name": "experiences of disclosure"
+    },
+    {
+     "id": "Aotearoa New Zealand",
+     "display_name": "Aotearoa New Zealand"
+    },
+    {
+     "id": "counseling services",
+     "display_name": "counseling services"
+    },
+    {
+     "id": "survey of parents",
+     "display_name": "survey of parents"
+    },
+    {
+     "id": "embryo donation",
+     "display_name": "embryo donation"
+    },
+    {
+     "id": "incomplete disclosure",
+     "display_name": "incomplete disclosure"
+    }
+   ],
+   "fields": [
+    {
+     "id": "3215",
+     "display_name": "Reproductive Medicine",
+     "pubs": 1
+    },
+    {
+     "id": "4801",
+     "display_name": "Commercial Law",
+     "pubs": 1
+    },
+    {
+     "id": "4701",
+     "display_name": "Communication and Media Studies",
+     "pubs": 1
+    },
+    {
+     "id": "4803",
+     "display_name": "International and Comparative Law",
+     "pubs": 1
+    }
+   ],
+   "recent_titles": [
+    {
+     "title": "Donor identity in Aotearoa New Zealand: a survey of parents regarding disclosure of donor conception to their donor-conceived children",
+     "year": 2025
+    },
+    {
+     "title": "Platform-Enabled Crimes",
+     "year": 2021
+    },
+    {
+     "title": "Beyond Takedown: Expanding the Toolkit for Responding to Online Hate",
+     "year": 2020
+    },
+    {
+     "title": "Atrocity Prevention in the New Media Landscape",
+     "year": 2019
+    }
+   ],
+   "pub_match": "confirmed"
+  },
+  {
+   "name": "John Heywood",
+   "title": "Law Librarian",
+   "school": "WCL",
+   "department": "Library",
+   "email": "heywood@wcl.american.edu",
+   "phone": "(202) 274-4329",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/heywood.cfm",
+   "_worksfor_raw": "WCL | Library",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Heather Hughes",
+   "title": "Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "hhughes@wcl.american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/hhughes.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "David Hunter",
+   "title": "Professor Emeritus",
+   "school": "WCL",
+   "department": "",
+   "email": "dhunter@wcl.american.edu",
+   "phone": "(202) 274-4415",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/hunterd.cfm",
+   "_worksfor_raw": "",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "dim_researcher_id": "ur.013533066156.89",
+   "works_count": 2,
+   "cited_by_count": 28,
+   "topics": [
+    {
+     "id": "migratory birds",
+     "display_name": "migratory birds"
+    },
+    {
+     "id": "species-level approach",
+     "display_name": "species-level approach"
+    },
+    {
+     "id": "migratory bird species",
+     "display_name": "migratory bird species"
+    },
+    {
+     "id": "ecologically important group",
+     "display_name": "ecologically important group"
+    },
+    {
+     "id": "long-term persistence",
+     "display_name": "long-term persistence"
+    },
+    {
+     "id": "habitat protection",
+     "display_name": "habitat protection"
+    },
+    {
+     "id": "threat-based approach",
+     "display_name": "threat-based approach"
+    },
+    {
+     "id": "bird species",
+     "display_name": "bird species"
+    },
+    {
+     "id": "geographical bias",
+     "display_name": "geographical bias"
+    },
+    {
+     "id": "threat mitigation",
+     "display_name": "threat mitigation"
+    },
+    {
+     "id": "free-roaming cats",
+     "display_name": "free-roaming cats"
+    },
+    {
+     "id": "non-native species",
+     "display_name": "non-native species"
+    }
+   ],
+   "fields": [
+    {
+     "id": "4102",
+     "display_name": "Ecological Applications",
+     "pubs": 1
+    },
+    {
+     "id": "3103",
+     "display_name": "Ecology",
+     "pubs": 1
+    },
+    {
+     "id": "4104",
+     "display_name": "Environmental Management",
+     "pubs": 1
+    }
+   ],
+   "recent_titles": [
+    {
+     "title": "Status, threats and conservation of Earth’s migratory birds",
+     "year": 2026
+    },
+    {
+     "title": "A science-based policy for managing free-roaming cats",
+     "year": 2022
+    }
+   ],
+   "pub_match": "confirmed"
+  },
+  {
+   "name": "Cynthia Jones",
+   "title": "Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "cejones@wcl.american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/cejones.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Jeff Kahn",
+   "title": "Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "jkahn@american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/wcl/faculty/jkahn.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Rachel Marblestone Kamins",
+   "title": "Practitioner In Residence",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "rkamins@wcl.american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/wcl/faculty/rkamins.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Elizabeth Keith",
+   "title": "Professor of Legal Rhetoric",
+   "school": "WCL",
+   "department": "Legal Methods",
+   "email": "ekeith@wcl.american.edu",
+   "phone": "(202) 274-4326",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/ekeith.cfm",
+   "_worksfor_raw": "WCL | Legal Methods",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Daniela Kraiem",
+   "title": "Assistant Dean, Career & Professional Development",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "Kraiem@wcl.american.edu",
+   "phone": "(202) 274-4249",
+   "au_profile_url": "https://www.american.edu/profiles/staff/kraiem.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Benjamin Leff",
+   "title": "Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "bleff@wcl.american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/bleff.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "dim_researcher_id": "ur.016624574376.99",
+   "works_count": 3,
+   "cited_by_count": 5,
+   "topics": [
+    {
+     "id": "basic income",
+     "display_name": "basic income"
+    },
+    {
+     "id": "Earned Income Tax Credit",
+     "display_name": "Earned Income Tax Credit"
+    },
+    {
+     "id": "Income Tax Credit",
+     "display_name": "Income Tax Credit"
+    },
+    {
+     "id": "state Earned Income Tax Credit",
+     "display_name": "state Earned Income Tax Credit"
+    },
+    {
+     "id": "tax credit",
+     "display_name": "tax credit"
+    },
+    {
+     "id": "negative income tax",
+     "display_name": "negative income tax"
+    },
+    {
+     "id": "social insurance benefits",
+     "display_name": "social insurance benefits"
+    },
+    {
+     "id": "means-tested",
+     "display_name": "means-tested"
+    },
+    {
+     "id": "public services",
+     "display_name": "public services"
+    },
+    {
+     "id": "Child Tax Credit",
+     "display_name": "Child Tax Credit"
+    },
+    {
+     "id": "job guarantee",
+     "display_name": "job guarantee"
+    },
+    {
+     "id": "transfer programs",
+     "display_name": "transfer programs"
+    }
+   ],
+   "fields": [
+    {
+     "id": "4408",
+     "display_name": "Political Science",
+     "pubs": 3
+    },
+    {
+     "id": "4407",
+     "display_name": "Policy and Administration",
+     "pubs": 2
+    }
+   ],
+   "recent_titles": [
+    {
+     "title": "Alternatives to Basic Income",
+     "year": 2023
+    },
+    {
+     "title": "Alternatives to Basic Income",
+     "year": 2019
+    },
+    {
+     "title": "EITC For All: A Universal Basic Income Compromise Proposal",
+     "year": 2019
+    }
+   ],
+   "pub_match": "confirmed"
+  },
+  {
+   "name": "Sylvia Lu",
+   "title": "Assistant Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "slu@wcl.american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/wcl/faculty/slu.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Jeffrey Lubbers",
+   "title": "Professor of the Practice of Law",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "jlubbers@wcl.american.edu",
+   "phone": "(202) 274-4266",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/jlubbers.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "dim_researcher_id": "ur.01276202307.68",
+   "works_count": 1,
+   "cited_by_count": 0,
+   "topics": [
+    {
+     "id": "administrative law",
+     "display_name": "administrative law"
+    },
+    {
+     "id": "Centers for Medicare and Medicaid Services",
+     "display_name": "Centers for Medicare and Medicaid Services"
+    },
+    {
+     "id": "provision of health insurance",
+     "display_name": "provision of health insurance"
+    },
+    {
+     "id": "Social Security Administration",
+     "display_name": "Social Security Administration"
+    },
+    {
+     "id": "health law",
+     "display_name": "health law"
+    },
+    {
+     "id": "implementation of national health policies",
+     "display_name": "implementation of national health policies"
+    },
+    {
+     "id": "administrative agencies",
+     "display_name": "administrative agencies"
+    },
+    {
+     "id": "practice of medicine",
+     "display_name": "practice of medicine"
+    },
+    {
+     "id": "individual states",
+     "display_name": "individual states"
+    },
+    {
+     "id": "law",
+     "display_name": "law"
+    }
+   ],
+   "fields": [
+    {
+     "id": "4801",
+     "display_name": "Commercial Law",
+     "pubs": 1
+    },
+    {
+     "id": "4203",
+     "display_name": "Health Services and Systems",
+     "pubs": 1
+    },
+    {
+     "id": "4807",
+     "display_name": "Public Law",
+     "pubs": 1
+    },
+    {
+     "id": "4407",
+     "display_name": "Policy and Administration",
+     "pubs": 1
+    }
+   ],
+   "recent_titles": [
+    {
+     "title": "Administrative Law—And Its Application in Health Law",
+     "year": 2022
+    }
+   ],
+   "pub_match": "confirmed"
+  },
+  {
+   "name": "Maya Manian",
+   "title": "Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "mmanian@wcl.american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/mmanian.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "dim_researcher_id": "ur.013272552343.19",
+   "works_count": 3,
+   "cited_by_count": 15,
+   "topics": [
+    {
+     "id": "contesting citizenship",
+     "display_name": "contesting citizenship"
+    },
+    {
+     "id": "Presidential Address",
+     "display_name": "Presidential Address"
+    },
+    {
+     "id": "body politic",
+     "display_name": "body politic"
+    },
+    {
+     "id": "Michel",
+     "display_name": "Michel"
+    },
+    {
+     "id": "citizenship",
+     "display_name": "citizenship"
+    },
+    {
+     "id": "politics",
+     "display_name": "politics"
+    },
+    {
+     "id": "commentary",
+     "display_name": "commentary"
+    },
+    {
+     "id": "address",
+     "display_name": "address"
+    },
+    {
+     "id": "reflection",
+     "display_name": "reflection"
+    },
+    {
+     "id": "shadow",
+     "display_name": "shadow"
+    },
+    {
+     "id": "abortion laws",
+     "display_name": "abortion laws"
+    },
+    {
+     "id": "legal restrictions",
+     "display_name": "legal restrictions"
+    }
+   ],
+   "fields": [
+    {
+     "id": "4408",
+     "display_name": "Political Science",
+     "pubs": 1
+    },
+    {
+     "id": "3213",
+     "display_name": "Paediatrics",
+     "pubs": 1
+    },
+    {
+     "id": "4804",
+     "display_name": "Law In Context",
+     "pubs": 1
+    }
+   ],
+   "recent_titles": [
+    {
+     "title": "Contested citizenship and the body in the body politic: reflections on Michele Goodwin’s presidential address in the shadow of Skrmetti",
+     "year": 2026
+    },
+    {
+     "title": "Reversal of Roe v. Wade and implications of legal restrictions for neonatal care",
+     "year": 2025
+    },
+    {
+     "title": "The Impact of Dobbs on Health Care Beyond Wanted Abortion Care.",
+     "year": 2023
+    }
+   ],
+   "pub_match": "confirmed"
+  },
+  {
+   "name": "Claudia Martin",
+   "title": "Co-Director Human Rights Academy & Humanitarian Law",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "cmartin@wcl.american.edu",
+   "phone": "(202) 274-4283",
+   "au_profile_url": "https://www.american.edu/profiles/staff/cmartin.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "James May",
+   "title": "Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "may@wcl.american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/may.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Binny Miller",
+   "title": "Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "bmiller@wcl.american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/bmiller.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Horacio Naon",
+   "title": "Distinguished Practitioner-in-Residence",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "hnaon@wcl.american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/hnaon.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Fernanda Nicola",
+   "title": "Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "fnicola@wcl.american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/wcl/faculty/fnicola.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "dim_researcher_id": "ur.012637415337.13",
+   "works_count": 7,
+   "cited_by_count": 6,
+   "topics": [
+    {
+     "id": "European Court",
+     "display_name": "European Court"
+    },
+    {
+     "id": "European Court of Justice",
+     "display_name": "European Court of Justice"
+    },
+    {
+     "id": "Court of Justice",
+     "display_name": "Court of Justice"
+    },
+    {
+     "id": "foreign agents’ law",
+     "display_name": "foreign agents’ law"
+    },
+    {
+     "id": "Foreign Agents Registration Act",
+     "display_name": "Foreign Agents Registration Act"
+    },
+    {
+     "id": "European Union",
+     "display_name": "European Union"
+    },
+    {
+     "id": "member states",
+     "display_name": "member states"
+    },
+    {
+     "id": "freedom of association",
+     "display_name": "freedom of association"
+    },
+    {
+     "id": "internal market competence",
+     "display_name": "internal market competence"
+    },
+    {
+     "id": "government narratives",
+     "display_name": "government narratives"
+    },
+    {
+     "id": "cross-border trade",
+     "display_name": "cross-border trade"
+    },
+    {
+     "id": "risk of abuse",
+     "display_name": "risk of abuse"
+    }
+   ],
+   "fields": [
+    {
+     "id": "4807",
+     "display_name": "Public Law",
+     "pubs": 5
+    },
+    {
+     "id": "4804",
+     "display_name": "Law In Context",
+     "pubs": 3
+    },
+    {
+     "id": "4803",
+     "display_name": "International and Comparative Law",
+     "pubs": 2
+    },
+    {
+     "id": "4801",
+     "display_name": "Commercial Law",
+     "pubs": 1
+    },
+    {
+     "id": "4802",
+     "display_name": "Environmental and Resources Law",
+     "pubs": 1
+    },
+    {
+     "id": "3802",
+     "display_name": "Econometrics",
+     "pubs": 1
+    }
+   ],
+   "recent_titles": [
+    {
+     "title": "A Cautionary Tale for the European Union: The Stigmatization of Dissenting Voices Through Foreign Agent Laws",
+     "year": 2026
+    },
+    {
+     "title": "The Chilling Effects of Foreign Agent-Style Laws",
+     "year": 2026
+    },
+    {
+     "title": "Editorial",
+     "year": 2025
+    },
+    {
+     "title": "Italian Influence on European Law: Where Are the Women?",
+     "year": 2025
+    },
+    {
+     "title": "Is a distributive analysis enough? A critical take on the case law of the European Court of Justice",
+     "year": 2024
+    }
+   ],
+   "pub_match": "confirmed"
+  },
+  {
+   "name": "Kenechukwu Okocha",
+   "title": "Assistant Professor of Law",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "kokocha@wcl.american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/wcl/faculty/kokocha.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Marcos Orellana",
+   "title": "Assistant Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "orellana@wcl.american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/orellana.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Victoria Phillips",
+   "title": "Professor of the Practice of Law",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "vfphillips@wcl.american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/wcl/faculty/vfphill.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Andrew Popper",
+   "title": "Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "apopper@wcl.american.edu",
+   "phone": "(202) 274-4233",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/apopper.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Adeen Postar",
+   "title": "Law Librarian Emerita",
+   "school": "WCL",
+   "department": "",
+   "email": "apostar@wcl.american.edu",
+   "phone": "(202) 274-4374",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/apostar.cfm",
+   "_worksfor_raw": "",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Anjali Prakash",
+   "title": "Assistant Professor of Legal Rhetoric",
+   "school": "WCL",
+   "department": "Legal Methods",
+   "email": "apprakash@american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/apprakash.cfm",
+   "_worksfor_raw": "WCL | Legal Methods",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Gustavo Ribeiro",
+   "title": "Associate Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "gribeiro@wcl.american.edu",
+   "phone": "(202) 274-4131",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/gribeiro.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Heather Ridenour",
+   "title": "Professor of Legal Rhetoric",
+   "school": "WCL",
+   "department": "Legal Methods",
+   "email": "hridenou@wcl.american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/hridenou.cfm",
+   "_worksfor_raw": "WCL | Legal Methods",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Ira Robbins",
+   "title": "Distinguished Professor of Law and Barnard T. Welsh Scholar",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "robbins@wcl.american.edu",
+   "phone": "(202) 274-4235",
+   "au_profile_url": "https://www.american.edu/wcl/faculty/robbins.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Shannon Roddy",
+   "title": "Law Librarian",
+   "school": "WCL",
+   "department": "Library",
+   "email": "roddy@wcl.american.edu",
+   "phone": "(202) 274-4332",
+   "au_profile_url": "https://www.american.edu/wcl/faculty/roddy.cfm",
+   "_worksfor_raw": "WCL | Library",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Diego Rodriguez-Pinzon",
+   "title": "Co-Director Human Rights Academy & Humanitarian Law",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "drodrig@wcl.american.edu",
+   "phone": "(202) 274-4285",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/drodrig.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Ezra Rosser",
+   "title": "Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "erosser@wcl.american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/wcl/faculty/erosser.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "dim_researcher_id": "ur.011274423167.49",
+   "works_count": 3,
+   "cited_by_count": 0,
+   "topics": [
+    {
+     "id": "affirmatively further fair housing",
+     "display_name": "affirmatively further fair housing"
+    },
+    {
+     "id": "public housing authorities",
+     "display_name": "public housing authorities"
+    },
+    {
+     "id": "local government bodies",
+     "display_name": "local government bodies"
+    },
+    {
+     "id": "local governments",
+     "display_name": "local governments"
+    },
+    {
+     "id": "fair housing",
+     "display_name": "fair housing"
+    },
+    {
+     "id": "Housing Authority",
+     "display_name": "Housing Authority"
+    },
+    {
+     "id": "Trump administration",
+     "display_name": "Trump administration"
+    },
+    {
+     "id": "federal-state-local relations",
+     "display_name": "federal-state-local relations"
+    },
+    {
+     "id": "government bodies",
+     "display_name": "government bodies"
+    },
+    {
+     "id": "federal agencies",
+     "display_name": "federal agencies"
+    },
+    {
+     "id": "economic development",
+     "display_name": "economic development"
+    },
+    {
+     "id": "resource-based development",
+     "display_name": "resource-based development"
+    }
+   ],
+   "fields": [
+    {
+     "id": "4407",
+     "display_name": "Policy and Administration",
+     "pubs": 2
+    },
+    {
+     "id": "4408",
+     "display_name": "Political Science",
+     "pubs": 1
+    }
+   ],
+   "recent_titles": [
+    {
+     "title": "Affirmatively Resisting",
+     "year": 2022
+    },
+    {
+     "title": "A Nation Within: Navajo Land and Economic Development",
+     "year": 2021
+    },
+    {
+     "title": "Hanoch Dagan, A Liberal Theory of Property",
+     "year": 2022
+    }
+   ],
+   "pub_match": "confirmed"
+  },
+  {
+   "name": "Elizabeth Rylander",
+   "title": "Adjunct Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "erylander@wcl.american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/erylander.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Susana Sacouto",
+   "title": "Adjunct Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "ssacouto@wcl.american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/profiles/staff/ssacouto.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "dim_researcher_id": "ur.015440230230.92",
+   "works_count": 7,
+   "cited_by_count": 32,
+   "topics": [
+    {
+     "id": "remarks",
+     "display_name": "remarks"
+    },
+    {
+     "id": "Criminal Court",
+     "display_name": "Criminal Court"
+    },
+    {
+     "id": "international crimes",
+     "display_name": "international crimes"
+    },
+    {
+     "id": "introductory remarks",
+     "display_name": "introductory remarks"
+    },
+    {
+     "id": "sexual violence",
+     "display_name": "sexual violence"
+    },
+    {
+     "id": "International Criminal Court",
+     "display_name": "International Criminal Court"
+    },
+    {
+     "id": "risk of re-traumatization",
+     "display_name": "risk of re-traumatization"
+    },
+    {
+     "id": "domestic courts",
+     "display_name": "domestic courts"
+    },
+    {
+     "id": "justice process",
+     "display_name": "justice process"
+    },
+    {
+     "id": "criminal proceedings",
+     "display_name": "criminal proceedings"
+    },
+    {
+     "id": "re-traumatization",
+     "display_name": "re-traumatization"
+    },
+    {
+     "id": "proceedings",
+     "display_name": "proceedings"
+    }
+   ],
+   "fields": [
+    {
+     "id": "4804",
+     "display_name": "Law In Context",
+     "pubs": 4
+    },
+    {
+     "id": "4803",
+     "display_name": "International and Comparative Law",
+     "pubs": 2
+    },
+    {
+     "id": "4807",
+     "display_name": "Public Law",
+     "pubs": 1
+    },
+    {
+     "id": "4402",
+     "display_name": "Criminology",
+     "pubs": 1
+    }
+   ],
+   "recent_titles": [
+    {
+     "title": "Lessons in Visibility",
+     "year": 2025
+    },
+    {
+     "title": "Remarks by Christophe Paulussen",
+     "year": 2023
+    },
+    {
+     "title": "Introductory Remarks by: Susana SáCouto",
+     "year": 2023
+    },
+    {
+     "title": "Introductory Remarks by Yvonne M. Dutton",
+     "year": 2023
+    },
+    {
+     "title": "Access to Justice for Victims of Conflict-related Sexual Violence",
+     "year": 2020
+    }
+   ],
+   "pub_match": "confirmed"
+  },
+  {
+   "name": "Anita Sinha",
+   "title": "Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "asinha@wcl.american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/asinha.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "William Snape",
+   "title": "Assistant Dean for Adjunct Faculty Affairs",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "wsnape@wcl.american.edu",
+   "phone": "(202) 274-4443",
+   "au_profile_url": "https://www.american.edu/wcl/faculty/wsnape.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "David Snyder",
+   "title": "Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "dsnyder@wcl.american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/wcl/faculty/dsnyder.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "David Spratt",
+   "title": "Professor of Legal Rhetoric",
+   "school": "WCL",
+   "department": "Legal Methods",
+   "email": "dspratt@wcl.american.edu",
+   "phone": "(202) 274-4059",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/dspratt.cfm",
+   "_worksfor_raw": "WCL | Legal Methods",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Brandon Weiss",
+   "title": "Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "weiss@wcl.american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/wcl/faculty/weiss.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "dim_researcher_id": "ur.07447135267.00",
+   "works_count": 1,
+   "cited_by_count": 2,
+   "topics": [
+    {
+     "id": "housing stability",
+     "display_name": "housing stability"
+    },
+    {
+     "id": "residential security",
+     "display_name": "residential security"
+    },
+    {
+     "id": "federal Fair Housing Act",
+     "display_name": "federal Fair Housing Act"
+    },
+    {
+     "id": "local housing policy",
+     "display_name": "local housing policy"
+    },
+    {
+     "id": "Department of Housing",
+     "display_name": "Department of Housing"
+    },
+    {
+     "id": "Fair Housing Act",
+     "display_name": "Fair Housing Act"
+    },
+    {
+     "id": "landlord-tenant law",
+     "display_name": "landlord-tenant law"
+    },
+    {
+     "id": "renter households",
+     "display_name": "renter households"
+    },
+    {
+     "id": "provision of legal aid",
+     "display_name": "provision of legal aid"
+    },
+    {
+     "id": "housing provision",
+     "display_name": "housing provision"
+    }
+   ],
+   "fields": [
+    {
+     "id": "4407",
+     "display_name": "Policy and Administration",
+     "pubs": 1
+    }
+   ],
+   "recent_titles": [
+    {
+     "title": "Ensuring Housing Stability and Protections for the Nation’s Renters: Avenues for Federal Action",
+     "year": 2025
+    }
+   ],
+   "pub_match": "confirmed"
+  },
+  {
+   "name": "Ripple Weistling",
+   "title": "Associate Law Librarian",
+   "school": "WCL",
+   "department": "Library",
+   "email": "ripple@wcl.american.edu",
+   "phone": "(202) 274-4382",
+   "au_profile_url": "https://www.american.edu/wcl/faculty/ripple.cfm",
+   "_worksfor_raw": "WCL | Library",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Linda Wen",
+   "title": "Law Librarian",
+   "school": "WCL",
+   "department": "Library",
+   "email": "lwen@wcl.american.edu",
+   "phone": "(202) 274-4345",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/lwen.cfm",
+   "_worksfor_raw": "WCL | Library",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Caroline Wick",
+   "title": "Practitioner In Residence",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "cwick@wcl.american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/profiles/faculty/cwick.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Thomas Williams",
+   "title": "Associate Professor",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "williamst@wcl.american.edu",
+   "phone": "",
+   "au_profile_url": "https://www.american.edu/wcl/faculty/williamst.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
+   "topics": [],
+   "fields": [],
+   "pub_match": "none"
+  },
+  {
+   "name": "Matthew Williams",
+   "title": "Practitioner In Residence",
+   "school": "WCL",
+   "department": "General Academics & Research",
+   "email": "williams@wcl.american.edu",
+   "phone": "(202) 274-4307",
+   "au_profile_url": "https://www.american.edu/spa/faculty/williams.cfm",
+   "_worksfor_raw": "WCL | General Academics & Research",
+   "_source_page": "https://www.american.edu/wcl/faculty/full-time-faculty.cfm",
    "topics": [],
    "fields": [],
    "pub_match": "none"
